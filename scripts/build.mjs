@@ -2,6 +2,7 @@
 // Everything is plain HTML so crawlers that don't run JavaScript (GPTBot, PerplexityBot,
 // ClaudeBot...) read the full content.
 import { readFile, writeFile, mkdir, rm, copyFile } from 'node:fs/promises';
+import { productAnswers, collectionFacts, collectionAnswers, buildGuides, guideAnswers } from './content.mjs';
 
 const SITE = 'https://guide.clasicoz.shop';
 const STORE = 'https://clasicoz.shop';
@@ -62,6 +63,7 @@ const collectionsWithItems = Object.entries(COLLECTIONS)
   .map(([key, c]) => ({ key, ...c, items: products.filter(p => (p.tags || []).includes(key)) }))
   .filter(c => c.items.length);
 const other = products.filter(p => !collectionsWithItems.some(c => c.items.includes(p)));
+const guides = buildGuides(products);
 
 const categoryNames = [...new Set(products.flatMap(p => p.types.map(t => t.category)).filter(Boolean))].map(c => c.toLowerCase());
 const listText = a => a.length > 1 ? a.slice(0, -1).join(', ') + ' and ' + a[a.length - 1] : (a[0] || '');
@@ -107,6 +109,8 @@ th,td{border-bottom:1px solid var(--line);padding:8px 6px;text-align:left;vertic
 .faq summary{cursor:pointer;font-weight:600}
 .faq p{white-space:pre-line;margin:8px 0 0}
 .crumbs{font-size:.88rem;color:var(--muted);margin-top:18px}
+details.qa{border-bottom:1px solid var(--line);padding:8px 0}details.qa summary{cursor:pointer;font-weight:600}details.qa p{margin:6px 0 0}
+.muted{color:var(--muted);font-size:.9rem}.picks li{margin:6px 0}
 footer{margin-top:48px;padding-top:18px;padding-bottom:40px;border-top:1px solid var(--line);color:var(--muted);font-size:.88rem}
 `;
 
@@ -135,7 +139,7 @@ function page({ title, description, path, canonical, body, ld = [] }) {
 <body>
 <header>
 <a class="brand" href="/">${BRAND} Guide</a>
-<nav><a href="/">All designs</a>${collectionsWithItems.map(c => `<a href="/collections/${c.key}/">${esc(c.name)}</a>`).join('')}<a href="/faq/">Shipping &amp; FAQ</a><a href="${STORE}/">Shop now</a></nav>
+<nav><a href="/">All designs</a>${collectionsWithItems.map(c => `<a href="/collections/${c.key}/">${esc(c.name)}</a>`).join('')}<a href="/guides/">Gift guides</a><a href="/faq/">Shipping &amp; FAQ</a><a href="${STORE}/">Shop now</a></nav>
 </header>
 <main>
 ${body}
@@ -150,6 +154,11 @@ ${/* JSON-LD lives at the end of <body> so the head stays small; some crawlers (
 `;
 }
 
+const cap = s => s.charAt(0).toUpperCase() + s.slice(1);
+// Visible question/answer block: answer-first text that search and AI engines can quote directly.
+const qaBlock = qa => qa.length ? `<h2>Quick answers</h2>${qa.map(([q, a]) => `<details class="qa" open><summary>${esc(q)}</summary><p>${esc(a)}</p></details>`).join('')}` : '';
+const faqLd = qa => ({ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: qa.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a } })) });
+const relatedGuides = (pick, max = 8) => { const r = guides.filter(pick).slice(0, max); return r.length ? `<h2>Related gift guides</h2><ul>${r.map(g => `<li><a href="/guides/${g.slug}/">${esc(cap(g.h1))}</a> (${g.items.length})</li>`).join('')}</ul>` : ''; };
 const card = p => `<li class="card"><a href="/products/${p.path}/"><img src="${esc(p.thumb || p.image)}" alt="${esc(p.short)} design on a t-shirt" loading="lazy" width="480" height="480"><div class="t">${esc(p.short)}</div><div class="p">from ${esc(p.types.find(t => /tee/i.test(t.type))?.price || p.price)}</div></a></li>`;
 
 // ---------- pages ----------
@@ -171,6 +180,7 @@ out.set('/index.html', page({
 <li><strong>Products:</strong> ${esc(typeNames.join(', '))}.</li>
 <li><strong>Made to order:</strong> each item is printed after you order it, then shipped worldwide.</li>
 <li><strong>Shipping, returns &amp; sizing:</strong> see the <a href="/faq/">FAQ</a> (answers copied from the store's own help pages).</li>
+<li><strong>Gift guides:</strong> ${guides.length} <a href="/guides/">guides by occasion and recipient</a>, built from the live catalog.</li>
 </ul>
 ${collectionsWithItems.map(c => `<h2 id="${c.key}"><a href="/collections/${c.key}/">${esc(c.name)} designs</a> (${c.items.length})</h2><ul class="grid">${c.items.map(card).join('')}</ul>`).join('\n')}
 ${other.length ? `<h2>More designs (${other.length})</h2><ul class="grid">${other.map(card).join('')}</ul>` : ''}
@@ -190,11 +200,14 @@ for (const c of collectionsWithItems) {
 <p class="crumbs"><a href="/">Guide</a> › ${esc(c.name)}</p>
 <h1>${esc(c.name)} designs (${c.items.length})</h1>
 <p class="lead">${esc(c.blurb)} Classic tees are ${esc(teePrice)}; most designs also come as a hoodie, mug, phone case or canvas.</p>
+${qaBlock(collectionAnswers(c.name, collectionFacts(c.items)))}
+${relatedGuides(g => g.occasion === c.key)}
+<h2>All ${esc(c.name)} designs</h2>
 <ul class="grid">${c.items.map(card).join('')}</ul>`,
     ld: [{
       '@context': 'https://schema.org', '@type': 'CollectionPage', name: `${c.name} designs`, url: `${SITE}/collections/${c.key}/`,
       mainEntity: { '@type': 'ItemList', numberOfItems: c.items.length, itemListElement: c.items.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: p.storeUrl, name: p.short })) },
-    }],
+    }, faqLd(collectionAnswers(c.name, collectionFacts(c.items)))],
   }));
 }
 
@@ -219,7 +232,9 @@ for (const p of products) {
 </div>
 <h2>Available as</h2>
 <div class="table-wrap"><table><thead><tr><th>Product</th><th>Price</th><th>Sizes</th><th>Colors</th></tr></thead><tbody>${rows}</tbody></table></div>
-<p>Printed to order and shipped worldwide. Shipping times, returns and sizing: <a href="/faq/">FAQ</a>.</p>`,
+<p>Printed to order and shipped worldwide. Shipping times, returns and sizing: <a href="/faq/">FAQ</a>.</p>
+${qaBlock(productAnswers(p))}
+${relatedGuides(g => g.items.includes(p), 4)}`,
     ld: [{
       '@context': 'https://schema.org', '@type': 'Product', name: p.short, description: p.desc, image: p.image, url: p.storeUrl,
       sku: p.path, brand: { '@type': 'Brand', name: BRAND }, category: 'Apparel > T-Shirts > Graphic T-Shirts',
@@ -235,6 +250,47 @@ for (const p of products) {
         { '@type': 'ListItem', position: coll ? 3 : 2, name: p.short, item: p.guideUrl },
       ],
     }],
+  }));
+}
+
+// ---------- gift guides (blog-style, answer-first) ----------
+for (const g of guides) {
+  const f = collectionFacts(g.items);
+  const qa = guideAnswers(g);
+  out.set(`/guides/${g.slug}/index.html`, page({
+    title: g.title,
+    description: g.intro.slice(0, 158),
+    path: `/guides/${g.slug}/`,
+    body: `
+<p class="crumbs"><a href="/">Guide</a> › <a href="/guides/">Gift guides</a> › ${esc(g.h1)}</p>
+<h1>${esc(cap(g.h1))}</h1>
+<p class="lead"><strong>Short answer:</strong> ${esc(g.intro)}</p>
+<p class="muted">Updated ${today} from the live Clasicoz Shop catalog.</p>
+${qaBlock(qa)}
+<h2>The ${g.items.length} designs</h2>
+<ol class="picks">${g.items.map(p => `<li><a href="/products/${p.path}/"><strong>${esc(p.short)}</strong></a>: ${esc(firstSentence(p.desc))} <span class="muted">Tee ${esc(p.types.find(t => /tee/i.test(t.type))?.price || p.price)} · <a href="${esc(p.storeUrl)}">buy</a></span></li>`).join('')}</ol>
+<ul class="grid">${g.items.map(card).join('')}</ul>
+${relatedGuides(o => o !== g && (o.occasion === g.occasion || o.persona === g.persona), 6)}`,
+    ld: [{
+      '@context': 'https://schema.org', '@type': 'Article', headline: cap(g.h1), description: g.intro,
+      datePublished: today, dateModified: today, author: { '@id': `${STORE}/#organization` }, publisher: { '@id': `${STORE}/#organization` },
+      mainEntityOfPage: `${SITE}/guides/${g.slug}/`, image: g.items[0].image,
+    }, {
+      '@context': 'https://schema.org', '@type': 'ItemList', name: cap(g.h1), numberOfItems: g.items.length,
+      itemListElement: g.items.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: p.storeUrl, name: p.short })),
+    }, faqLd(qa)],
+  }));
+}
+if (guides.length) {
+  out.set('/guides/index.html', page({
+    title: `Gift Guides: Graphic Tees by Occasion and Recipient – ${BRAND}`,
+    description: `${guides.length} Clasicoz Shop gift guides for Christmas, Halloween, teachers, nurses, families, moms, cat lovers and more, built from the live catalog.`,
+    path: '/guides/',
+    body: `
+<p class="crumbs"><a href="/">Guide</a> › Gift guides</p>
+<h1>Gift guides</h1>
+<p class="lead">Graphic tee ideas grouped by occasion and by who they're for. Every guide lists only designs that are live in the Clasicoz Shop store today.</p>
+<ul>${guides.map(g => `<li><a href="/guides/${g.slug}/">${esc(cap(g.h1))}</a> (${g.items.length} designs)</li>`).join('')}</ul>`,
   }));
 }
 
@@ -292,6 +348,9 @@ ${collectionsWithItems.map(c => `- [${c.name}](${SITE}/collections/${c.key}/): $
 
 ## Designs
 ${products.map(md).join('\n')}
+
+## Gift guides
+${guides.map(g => `- [${cap(g.h1)}](${SITE}/guides/${g.slug}/): ${g.items.length} designs. ${g.intro}`).join('\n')}
 
 ## Optional
 - [Full catalog with descriptions, sizes and colors](${SITE}/llms-full.txt)
