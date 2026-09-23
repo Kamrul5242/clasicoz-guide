@@ -115,6 +115,7 @@ function page({ title, description, path, canonical, body, ld = [] }) {
 <meta name="description" content="${esc(description)}">
 <link rel="canonical" href="${esc(canonical || url)}">
 <meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="msvalidate.01" content="74CF42C0A397149F11A918787FE79986">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="${BRAND}">
 <meta property="og:title" content="${esc(title)}">
