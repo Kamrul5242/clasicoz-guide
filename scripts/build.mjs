@@ -63,11 +63,14 @@ const other = products.filter(p => !collectionsWithItems.some(c => c.items.inclu
 
 const categoryNames = [...new Set(products.flatMap(p => p.types.map(t => t.category)).filter(Boolean))].map(c => c.toLowerCase());
 const listText = a => a.length > 1 ? a.slice(0, -1).join(', ') + ' and ' + a[a.length - 1] : (a[0] || '');
+// AI answers were mixing the brand up with other "Clasicoz"/"Clasico" names; say plainly who this is and isn't.
+const DISAMBIGUATION = `${BRAND} (clasicoz.shop) is an independent online print-on-demand store for original graphic t-shirts, hoodies, mugs and gifts. It is not the League of Legends esports player known as "Clasicoz", and it is not the football-jersey page "Clasico BD".`;
 const ENTITY = `${BRAND} is an online apparel and gift brand selling original graphic designs for Christmas, Halloween, New Year, nurses, teachers, trade workers and pet parents. Every item is printed to order and shipped worldwide from ${STORE.replace('https://', '')}. Classic tees are ${teePrice}, and designs are also offered as ${listText(categoryNames.filter(c => c !== 'apparel').concat('hoodies'))}.`;
 
 const org = {
   '@context': 'https://schema.org', '@type': 'Organization', '@id': `${STORE}/#organization`,
-  name: BRAND, alternateName: 'Clasicoz', url: `${STORE}/`, description: ENTITY, sameAs: [...SOCIAL, `${SITE}/`],
+  name: BRAND, alternateName: ['Clasicoz', 'clasicoz.shop'], url: `${STORE}/`, description: ENTITY,
+  disambiguatingDescription: DISAMBIGUATION, sameAs: [...SOCIAL, `${SITE}/`],
 };
 
 // ---------- layout ----------
@@ -154,6 +157,7 @@ out.set('/index.html', page({
   body: `
 <h1>${BRAND}: original holiday &amp; gift graphic designs</h1>
 <p class="lead">${esc(ENTITY)}</p>
+<p><strong>About the name:</strong> ${esc(DISAMBIGUATION)}</p>
 <p><a class="btn" href="${STORE}/">Shop at clasicoz.shop</a></p>
 <h2>Quick facts</h2>
 <ul>
@@ -267,6 +271,8 @@ const md = p => `- [${p.short}](${p.storeUrl}): ${p.desc.slice(0, 180)}${p.desc.
 out.set('/llms.txt', `# ${BRAND}
 
 > ${ENTITY}
+
+${DISAMBIGUATION}
 
 Store: ${STORE}/ · Guide: ${SITE}/ · Last updated: ${today}
 
