@@ -123,7 +123,6 @@ function page({ title, description, path, canonical, body, ld = [] }) {
 <meta property="og:url" content="${esc(url)}">
 <link rel="alternate" type="text/plain" title="llms.txt" href="${SITE}/llms.txt">
 <style>${CSS}</style>
-${[org, ...ld].map(jsonld).join('\n')}
 </head>
 <body>
 <header>
@@ -137,6 +136,7 @@ ${body}
 <p>${esc(BRAND)} designs are sold at <a href="${STORE}/">clasicoz.shop</a>. This guide is generated from the live store catalog; last updated ${today}.</p>
 <p>Follow: ${SOCIAL.map(u => `<a href="${u}" rel="me">${u.replace(/^https:\/\/(www\.)?/, '').replace(/\/$/, '')}</a>`).join(' · ')}</p>
 </footer>
+${/* JSON-LD lives at the end of <body> so the head stays small; some crawlers (Bing's verifier) stop reading before a large head ends. */ ''}${[org, ...ld].map(jsonld).join('\n')}
 </body>
 </html>
 `;
