@@ -1,11 +1,13 @@
 // Builds the static guide site from data/products.json + data/support.json into site/.
 // Everything is plain HTML so crawlers that don't run JavaScript (GPTBot, PerplexityBot,
 // ClaudeBot...) read the full content.
-import { readFile, writeFile, mkdir, rm } from 'node:fs/promises';
+import { readFile, writeFile, mkdir, rm, copyFile } from 'node:fs/promises';
 
 const SITE = 'https://guide.clasicoz.shop';
 const STORE = 'https://clasicoz.shop';
 const BRAND = 'Clasicoz Shop';
+// Square 1200x1200 brand logo, served from the guide so the store's GTM schema can reference it too.
+const LOGO = 'https://guide.clasicoz.shop/logo.png';
 const SOCIAL = [
   'https://www.tiktok.com/@clasicoz.shop',
   'https://www.instagram.com/clasicoz.shop/',
@@ -71,6 +73,7 @@ const org = {
   '@context': 'https://schema.org', '@type': 'Organization', '@id': `${STORE}/#organization`,
   name: BRAND, alternateName: ['Clasicoz', 'clasicoz.shop'], url: `${STORE}/`, description: ENTITY,
   disambiguatingDescription: DISAMBIGUATION, sameAs: [...SOCIAL, `${SITE}/`],
+  logo: { '@type': 'ImageObject', url: LOGO, width: 1200, height: 1200 }, image: LOGO,
 };
 
 // ---------- layout ----------
@@ -125,6 +128,8 @@ function page({ title, description, path, canonical, body, ld = [] }) {
 <meta property="og:description" content="${esc(description)}">
 <meta property="og:url" content="${esc(url)}">
 <link rel="alternate" type="text/plain" title="llms.txt" href="${SITE}/llms.txt">
+<link rel="icon" type="image/png" href="/logo.png">
+<link rel="apple-touch-icon" href="/logo.png">
 <style>${CSS}</style>
 </head>
 <body>
@@ -311,4 +316,5 @@ for (const [path, content] of out) {
   await mkdir(file.slice(0, file.lastIndexOf('/')), { recursive: true });
   await writeFile(file, content);
 }
+await copyFile('assets/logo.png', 'site/logo.png');
 console.log(`built ${out.size} files: ${products.length} products, ${collectionsWithItems.length} collections, ${support.length} FAQ answers`);
