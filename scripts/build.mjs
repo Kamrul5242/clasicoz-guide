@@ -292,6 +292,9 @@ out.set('/llms-full.txt', `# ${BRAND} – full catalog\n\n${ENTITY}\n\nStore: ${
   (support.length ? `\n# Help center FAQ\n\n${support.map(s => `## ${s.heading}\n\n${s.text}\n\nSource: ${STORE}${s.path}\n`).join('\n')}` : ''));
 
 out.set('/products.json', JSON.stringify({ updated: today, brand: BRAND, store: STORE, products: products.map(p => ({ name: p.short, url: p.storeUrl, description: p.desc, price_from: p.low, price_to: p.high, tags: p.tags, image: p.image, products: p.types })) }, null, 1));
+// IndexNow key file (public by design): lets Bing and other IndexNow engines accept URL pings for this host.
+const INDEXNOW_KEY = 'd971e2e5967d3a9da4e74cc8c936787e';
+out.set(`/${INDEXNOW_KEY}.txt`, INDEXNOW_KEY);
 out.set('/CNAME', 'guide.clasicoz.shop\n');
 out.set('/.nojekyll', '');
 
