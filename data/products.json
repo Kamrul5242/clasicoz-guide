@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-25T06:11:02.456Z",
+ "fetchedAt": "2026-09-25T17:58:46.850Z",
  "products": [
   {
    "path": "two-titles-mom-and-grandma-tee",
@@ -88,6 +88,90 @@
      ],
      "sizes": [
       "only"
+     ]
+    }
+   ]
+  },
+  {
+   "path": "gathering-of-crows-tee",
+   "name": "Gathering of Crows T-Shirt | Gothic Halloween Murder of Crows Design",
+   "price": "$24.99",
+   "tags": [
+    "halloween"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzkwNDE2NjAzLTdmNTgtNDdmZi1hZDgzLWZhNTEwYjhlM2M2Yg&markw=167&markx=161&marky=133&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=39c73d8d86bf2a5f1a926165384d9de6",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzkwNDE2NjAzLTdmNTgtNDdmZi1hZDgzLWZhNTEwYjhlM2M2Yg&markw=167&markx=161&marky=133&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=39c73d8d86bf2a5f1a926165384d9de6",
+   "stealthy": false,
+   "title": "Gathering of Crows T-Shirt | Gothic Halloween Murder of Crows Design",
+   "description": "A murder of crows gathered on bare autumn branches answers the search for an artistic, non-cartoonish Halloween shirt. This nature-illustration approach to Halloween iconography appeals to shoppers who want gothic, moody fall apparel rather than plastic-looking pumpkin and skeleton graphics, making it a strong fit for the dark-academia and cottagecore-gothic crossover audience.",
+   "active": true,
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Carolina Blue",
+      "Deep Red",
+      "Fatigue Green",
+      "Forest Green",
+      "Gold",
+      "Light Blue",
+      "Light Steel",
+      "Maroon",
+      "Orange",
+      "Pink",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$39.99",
+     "colors": [
+      "Ash Grey",
+      "Black",
+      "Dark Heather",
+      "Graphite Heather",
+      "Light Blue",
+      "Light Pink",
+      "Sand",
+      "Sport Grey",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
      ]
     }
    ]
@@ -2715,90 +2799,6 @@
    "stealthy": false,
    "title": "Halloween Bear T-Shirt | Forest Fright Spooky Woodland Animal Design",
    "description": "A bear surrounded by jack-o'-lanterns and bare trees answers the search for a Halloween shirt with woodland animals instead of skeletons. Forest Fright extends the popular Christmas-animal design format into the Halloween season, appealing to the same nature-loving, animal-print-preferring shopper base for a second seasonal purchase.",
-   "active": true,
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Carolina Blue",
-      "Deep Red",
-      "Fatigue Green",
-      "Forest Green",
-      "Gold",
-      "Light Blue",
-      "Light Steel",
-      "Maroon",
-      "Orange",
-      "Pink",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$39.99",
-     "colors": [
-      "Ash Grey",
-      "Black",
-      "Dark Heather",
-      "Graphite Heather",
-      "Light Blue",
-      "Light Pink",
-      "Sand",
-      "Sport Grey",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ]
-    }
-   ]
-  },
-  {
-   "path": "gathering-of-crows-tee",
-   "name": "Gathering of Crows T-Shirt | Gothic Halloween Murder of Crows Design",
-   "price": "$24.99",
-   "tags": [
-    "halloween"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzkwNDE2NjAzLTdmNTgtNDdmZi1hZDgzLWZhNTEwYjhlM2M2Yg&markw=167&markx=161&marky=133&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=39c73d8d86bf2a5f1a926165384d9de6",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzkwNDE2NjAzLTdmNTgtNDdmZi1hZDgzLWZhNTEwYjhlM2M2Yg&markw=167&markx=161&marky=133&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=39c73d8d86bf2a5f1a926165384d9de6",
-   "stealthy": false,
-   "title": "Gathering of Crows T-Shirt | Gothic Halloween Murder of Crows Design",
-   "description": "A murder of crows gathered on bare autumn branches answers the search for an artistic, non-cartoonish Halloween shirt. This nature-illustration approach to Halloween iconography appeals to shoppers who want gothic, moody fall apparel rather than plastic-looking pumpkin and skeleton graphics, making it a strong fit for the dark-academia and cottagecore-gothic crossover audience.",
    "active": true,
    "products": [
     {
