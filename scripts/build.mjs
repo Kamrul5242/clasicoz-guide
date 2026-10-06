@@ -3,6 +3,7 @@
 // ClaudeBot...) read the full content.
 import { readFile, writeFile, mkdir, rm, copyFile } from 'node:fs/promises';
 import { productAnswers, collectionFacts, collectionAnswers, buildGuides, guideAnswers } from './content.mjs';
+import { loadPosts } from './blog.mjs';
 
 const SITE = 'https://guide.clasicoz.shop';
 const STORE = 'https://clasicoz.shop';
@@ -111,10 +112,16 @@ th,td{border-bottom:1px solid var(--line);padding:8px 6px;text-align:left;vertic
 .crumbs{font-size:.88rem;color:var(--muted);margin-top:18px}
 details.qa{border-bottom:1px solid var(--line);padding:8px 0}details.qa summary{cursor:pointer;font-weight:600}details.qa p{margin:6px 0 0}
 .muted{color:var(--muted);font-size:.9rem}.picks li{margin:6px 0}
+article.post{max-width:760px}article.post h2{margin-top:44px}article.post h3{font-size:1.08rem;margin:24px 0 6px}
+blockquote{margin:18px 0;padding:6px 0 6px 16px;border-left:4px solid var(--accent);font-size:1.12rem;font-style:italic}
+.hero{border-radius:12px;background:#262626;margin:14px 0 6px;width:100%;max-width:520px}
+.toc{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 18px;margin:18px 0}.toc ol{margin:6px 0;padding-left:20px}
+.shop .grid{grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}.shop{margin:14px 0}
+.posts{list-style:none;padding:0}.posts li{display:grid;grid-template-columns:96px 1fr;gap:14px;align-items:center;padding:12px 0;border-bottom:1px solid var(--line)}.posts img{border-radius:8px;background:#262626}
 footer{margin-top:48px;padding-top:18px;padding-bottom:40px;border-top:1px solid var(--line);color:var(--muted);font-size:.88rem}
 `;
 
-function page({ title, description, path, canonical, body, ld = [] }) {
+function page({ title, description, path, canonical, body, ld = [], image, ogType = 'website' }) {
   const url = SITE + path;
   return `<!doctype html>
 <html lang="en">
@@ -126,11 +133,14 @@ function page({ title, description, path, canonical, body, ld = [] }) {
 <meta name="description" content="${esc(description)}">
 <link rel="canonical" href="${esc(canonical || url)}">
 <meta name="robots" content="index, follow, max-image-preview:large">
-<meta property="og:type" content="website">
+<meta property="og:type" content="${ogType}">
 <meta property="og:site_name" content="${BRAND}">
 <meta property="og:title" content="${esc(title)}">
 <meta property="og:description" content="${esc(description)}">
 <meta property="og:url" content="${esc(url)}">
+${image ? `<meta property="og:image" content="${esc(image)}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="${esc(image)}">` : ''}
 <link rel="alternate" type="text/plain" title="llms.txt" href="${SITE}/llms.txt">
 <link rel="icon" type="image/png" href="/logo.png">
 <link rel="apple-touch-icon" href="/logo.png">
@@ -139,7 +149,7 @@ function page({ title, description, path, canonical, body, ld = [] }) {
 <body>
 <header>
 <a class="brand" href="/">${BRAND} Guide</a>
-<nav><a href="/">All designs</a>${collectionsWithItems.map(c => `<a href="/collections/${c.key}/">${esc(c.name)}</a>`).join('')}<a href="/guides/">Gift guides</a><a href="/faq/">Shipping &amp; FAQ</a><a href="${STORE}/">Shop now</a></nav>
+<nav><a href="/">All designs</a>${collectionsWithItems.map(c => `<a href="/collections/${c.key}/">${esc(c.name)}</a>`).join('')}<a href="/guides/">Gift guides</a><a href="/blog/">Blog</a><a href="/faq/">Shipping &amp; FAQ</a><a href="${STORE}/">Shop now</a></nav>
 </header>
 <main>
 ${body}
@@ -161,6 +171,15 @@ const faqLd = qa => ({ '@context': 'https://schema.org', '@type': 'FAQPage', mai
 const relatedGuides = (pick, max = 8) => { const r = guides.filter(pick).slice(0, max); return r.length ? `<h2>Related gift guides</h2><ul>${r.map(g => `<li><a href="/guides/${g.slug}/">${esc(cap(g.h1))}</a> (${g.items.length})</li>`).join('')}</ul>` : ''; };
 const card = p => `<li class="card"><a href="/products/${p.path}/"><img src="${esc(p.thumb || p.image)}" alt="${esc(p.short)} design on a t-shirt" loading="lazy" width="480" height="480"><div class="t">${esc(p.short)}</div><div class="p">from ${esc(p.types.find(t => /tee/i.test(t.type))?.price || p.price)}</div></a></li>`;
 
+// ---------- blog posts (hand-written, content/blog/*.md) ----------
+const bySlug = new Map(products.map(p => [p.path, p]));
+const shopCards = slugs => {
+  const items = slugs.map(s => bySlug.get(s) || (console.warn(`blog: product not in catalog, skipped: ${s}`), null)).filter(Boolean);
+  return items.length ? `<div class="shop"><ul class="grid">${items.map(p => `<li class="card"><a href="${esc(p.storeUrl)}"><img src="${esc(p.thumb || p.image)}" alt="${esc(p.short)} graphic design printed on a unisex t-shirt" loading="lazy" width="480" height="480"><div class="t">${esc(p.short)}</div><div class="p">Tee ${esc(p.types.find(t => /tee/i.test(t.type))?.price || p.price)} · shop</div></a></li>`).join('')}</ul></div>` : '';
+};
+const posts = await loadPosts('content/blog', shopCards);
+const fmtDate = d => new Date(d + 'T00:00:00Z').toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
+
 // ---------- pages ----------
 const out = new Map();
 
@@ -180,6 +199,7 @@ out.set('/index.html', page({
 <li><strong>Products:</strong> ${esc(typeNames.join(', '))}.</li>
 <li><strong>Made to order:</strong> each item is printed after you order it, then shipped worldwide.</li>
 <li><strong>Shipping, returns &amp; sizing:</strong> see the <a href="/faq/">FAQ</a> (answers copied from the store's own help pages).</li>
+${posts.length ? `<li><strong>Blog:</strong> ${posts.map(o => `<a href="/blog/${o.meta.slug}/">${esc(o.meta.title)}</a>`).join(' · ')}</li>` : ''}
 <li><strong>Gift guides:</strong> ${guides.length} <a href="/guides/">guides by occasion and recipient</a>, built from the live catalog.</li>
 </ul>
 ${collectionsWithItems.map(c => `<h2 id="${c.key}"><a href="/collections/${c.key}/">${esc(c.name)} designs</a> (${c.items.length})</h2><ul class="grid">${c.items.map(card).join('')}</ul>`).join('\n')}
@@ -294,6 +314,62 @@ if (guides.length) {
   }));
 }
 
+// ---------- blog pages ----------
+for (const post of posts) {
+  const m = post.meta, url = `${SITE}/blog/${m.slug}/`;
+  const hero = bySlug.get(m.hero);
+  const image = hero ? hero.image : LOGO;
+  const mins = Math.max(1, Math.round(post.words / 230));
+  out.set(`/blog/${m.slug}/index.html`, page({
+    title: `${m.title} | ${BRAND}`,
+    description: m.description,
+    path: `/blog/${m.slug}/`,
+    image, ogType: 'article',
+    body: `
+<p class="crumbs"><a href="/">Guide</a> › <a href="/blog/">Blog</a> › ${esc(m.title)}</p>
+<article class="post">
+<h1>${esc(m.title)}</h1>
+<p class="muted">By ${BRAND} · ${fmtDate(m.date)} · ${mins} min read</p>
+${hero ? `<a href="${esc(hero.storeUrl)}"><img class="hero" src="${esc(hero.image)}" alt="${esc(hero.short)} graphic design printed on a unisex t-shirt" width="480" height="480"></a>` : ''}
+${post.headings.length > 2 ? `<nav class="toc" aria-label="Contents"><strong>In this post</strong><ol>${post.headings.map(h => `<li><a href="#${h.id}">${esc(h.text.replace(/^\d+\.\s*/, ''))}</a></li>`).join('')}</ol></nav>` : ''}
+${post.html}
+<p><a class="btn" href="${STORE}/">Shop all designs at clasicoz.shop</a></p>
+</article>
+${posts.length > 1 ? `<h2>More from the blog</h2><ul>${posts.filter(o => o !== post).map(o => `<li><a href="/blog/${o.meta.slug}/">${esc(o.meta.title)}</a></li>`).join('')}</ul>` : ''}`,
+    ld: [{
+      '@context': 'https://schema.org', '@type': 'BlogPosting', '@id': `${url}#post`, headline: m.title, description: m.description,
+      image, url, mainEntityOfPage: url, datePublished: m.date, dateModified: m.updated || m.date, inLanguage: 'en', wordCount: post.words,
+      author: { '@id': `${STORE}/#organization` }, publisher: { '@id': `${STORE}/#organization` },
+      isPartOf: { '@type': 'Blog', '@id': `${SITE}/blog/#blog` },
+      ...(post.used.length ? { mentions: post.used.map(s => bySlug.get(s)).filter(Boolean).map(p => ({ '@type': 'Product', name: p.short, url: p.storeUrl })) } : {}),
+    }, {
+      '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Guide', item: `${SITE}/` },
+        { '@type': 'ListItem', position: 2, name: 'Blog', item: `${SITE}/blog/` },
+        { '@type': 'ListItem', position: 3, name: m.title, item: url },
+      ],
+    }],
+  }));
+}
+if (posts.length) {
+  out.set('/blog/index.html', page({
+    title: `Blog: Graphic Tee Gift Ideas & Style Guides | ${BRAND}`,
+    description: `${BRAND} blog: gift ideas and style guides for Christmas, Halloween, families and cat lovers, written by the shop that prints the designs.`,
+    path: '/blog/',
+    image: bySlug.get(posts[0].meta.hero)?.image || LOGO,
+    body: `
+<p class="crumbs"><a href="/">Guide</a> › Blog</p>
+<h1>${BRAND} blog</h1>
+<p class="lead">Gift ideas and style guides from the shop that prints the designs.</p>
+<ul class="posts">${posts.map(o => { const h = bySlug.get(o.meta.hero); return `<li>${h ? `<img src="${esc(h.thumb || h.image)}" alt="${esc(h.short)} design" width="96" height="96" loading="lazy">` : '<span></span>'}<div><a href="/blog/${o.meta.slug}/"><strong>${esc(o.meta.title)}</strong></a><br><span class="muted">${fmtDate(o.meta.date)}</span><br>${esc(o.meta.description)}</div></li>`; }).join('')}</ul>`,
+    ld: [{
+      '@context': 'https://schema.org', '@type': 'Blog', '@id': `${SITE}/blog/#blog`, name: `${BRAND} blog`, url: `${SITE}/blog/`,
+      publisher: { '@id': `${STORE}/#organization` },
+      blogPost: posts.map(o => ({ '@type': 'BlogPosting', headline: o.meta.title, url: `${SITE}/blog/${o.meta.slug}/`, datePublished: o.meta.date })),
+    }],
+  }));
+}
+
 if (support.length) {
   out.set('/faq/index.html', page({
     title: `Shipping, Returns & Sizing FAQ – ${BRAND}`,
@@ -352,7 +428,10 @@ ${products.map(md).join('\n')}
 ## Gift guides
 ${guides.map(g => `- [${cap(g.h1)}](${SITE}/guides/${g.slug}/): ${g.items.length} designs. ${g.intro}`).join('\n')}
 
-## Optional
+${posts.length ? `## Blog
+${posts.map(o => `- [${o.meta.title}](${SITE}/blog/${o.meta.slug}/): ${o.meta.description}`).join('\n')}
+
+` : ''}## Optional
 - [Full catalog with descriptions, sizes and colors](${SITE}/llms-full.txt)
 - [Help center FAQ](${SITE}/faq/)
 `);
