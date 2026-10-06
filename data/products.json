@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-05T21:13:12.525Z",
+ "fetchedAt": "2026-10-06T07:35:54.818Z",
  "products": [
   {
    "path": "gathering-of-crows-tee",
@@ -4876,6 +4876,97 @@
      ],
      "sizes": [
       "11oz"
+     ]
+    }
+   ]
+  },
+  {
+   "path": "two-titles-mom-and-grandma-tee",
+   "name": "Two Titles Mom and Grandma T-Shirt | Funny Family Christmas Design",
+   "price": "$24.99",
+   "tags": [
+    "christmas"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzkwY2ViZmQxLWU0NDUtNGQ5YS04MmY2LTZmNTQ1ZjA3NTIwZQ&markw=181&markx=154&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=9e6afd47c5f1acbfb002de96e8b84656",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzkwY2ViZmQxLWU0NDUtNGQ5YS04MmY2LTZmNTQ1ZjA3NTIwZQ&markw=181&markx=154&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=9e6afd47c5f1acbfb002de96e8b84656",
+   "stealthy": false,
+   "title": "Two Titles Mom and Grandma T-Shirt | Funny Family Christmas Design",
+   "description": "A cozy snowman badge celebrating the double role of mom and grandma answers the search for a heartfelt Christmas shirt honoring family caregivers. This design gives women who wear both titles proudly a festive tee for family gatherings, gift exchanges, or everyday holiday wear.",
+   "active": true,
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Charcoal Heather",
+      "Deep Forest",
+      "Deep Red",
+      "Deep Royal",
+      "Fatigue Green",
+      "Gold",
+      "Kelly Green",
+      "Maroon",
+      "Navy",
+      "Orange",
+      "Pink",
+      "Purple",
+      "Sand"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black"
+     ],
+     "sizes": [
+      "11oz"
+     ]
+    },
+    {
+     "type": "IPHONE CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    },
+    {
+     "type": "SAMSUNG GALAXY CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    },
+    {
+     "type": "CANVAS PRINT",
+     "category": "Canvas Prints",
+     "price": "$34.00",
+     "colors": [
+      "Black"
+     ],
+     "sizes": [
+      "only"
      ]
     }
    ]
