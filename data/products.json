@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-13T19:53:21.772Z",
+ "fetchedAt": "2026-10-14T06:10:03.576Z",
  "products": [
   {
    "path": "gathering-of-crows-tee",
@@ -254,17 +254,17 @@
    ]
   },
   {
-   "path": "meowy-christmas-cat-tee",
-   "name": "Meowy Christmas T-Shirt | Funny Cat Lover Holiday Design",
+   "path": "haunted-scholar-autumn-academia-tee",
+   "name": "Haunted Scholar T-Shirt | Autumn Dark Academia Halloween Design",
    "price": "$24.99",
    "tags": [
-    "christmas"
+    "halloween"
    ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2MxMzdmOWFiLWRiMDQtNGU2Yi04Yjc1LTIzMDM3MTdkMDA1Nw&markw=181&markx=154&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0748df8736d5f91a6d24472ba6a3d76a",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2MxMzdmOWFiLWRiMDQtNGU2Yi04Yjc1LTIzMDM3MTdkMDA1Nw&markw=181&markx=154&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0748df8736d5f91a6d24472ba6a3d76a",
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzE2OGVhNWE4LWM3NzYtNDI2Mi05MTQ1LTgzZWQ0OWEyZDNmNw&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=8043269bf70d0d0db54bd5c908c2c106",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzE2OGVhNWE4LWM3NzYtNDI2Mi05MTQ1LTgzZWQ0OWEyZDNmNw&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=8043269bf70d0d0db54bd5c908c2c106",
    "stealthy": false,
-   "title": "Meowy Christmas T-Shirt | Funny Cat Lover Holiday Design",
-   "description": "Three cozy cats bundled in Santa hats and scarves answer the search for a cute, funny Christmas shirt for cat lovers. Meowy Christmas gives cat owners a playful pun-based holiday tee that works for family photos, ugly-sweater parties, or everyday festive wear all season long.",
+   "title": "Haunted Scholar T-Shirt | Autumn Dark Academia Halloween Design",
+   "description": "Stacked books, a raven and candlelight in a dark academia Halloween scene. A Halloween shirt for students, teachers and readers who want something deeper than costume-store graphics.",
    "active": true,
    "products": [
     {
@@ -273,19 +273,44 @@
      "price": "$24.99",
      "colors": [
       "Black",
-      "Charcoal Heather",
-      "Deep Forest",
+      "Carolina Blue",
       "Deep Red",
-      "Deep Royal",
       "Fatigue Green",
+      "Forest Green",
       "Gold",
-      "Kelly Green",
+      "Light Blue",
+      "Light Steel",
       "Maroon",
-      "Navy",
       "Orange",
       "Pink",
-      "Purple",
-      "Sand"
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$39.99",
+     "colors": [
+      "Ash Grey",
+      "Black",
+      "Dark Heather",
+      "Graphite Heather",
+      "Light Blue",
+      "Light Pink",
+      "Sand",
+      "Sport Grey",
+      "White"
      ],
      "sizes": [
       "S",
@@ -303,43 +328,95 @@
      "category": "Drinkware",
      "price": "$16.99",
      "colors": [
-      "Black"
+      "Black",
+      "White"
      ],
      "sizes": [
       "11oz"
      ]
-    },
+    }
+   ]
+  },
+  {
+   "path": "2027-new-chapter-raven-tee",
+   "name": "2027 New Chapter Raven Graphic Tee Design | Dark Academia New Year T-Shirt",
+   "price": "$24.99",
+   "tags": [
+    "christmas"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzRlZGRiYTRlLWJlODMtNDNjMC04NGExLTU2N2YxYWZkMTRkYQ&markw=166&markx=162&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=994a4bb11d2e68016999be7fcd0cddc4",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzRlZGRiYTRlLWJlODMtNDNjMC04NGExLTU2N2YxYWZkMTRkYQ&markw=166&markx=162&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=994a4bb11d2e68016999be7fcd0cddc4",
+   "stealthy": false,
+   "title": "2027 New Chapter Raven Graphic Tee Design | Dark Academia New Year T-Shirt",
+   "description": "A moody raven perched beside an open book, framed by the words 2027 Next Chapter in hand-lettered vintage type. A bookish New Year's shirt and gift for readers, writers, teachers and graduates turning a page.",
+   "active": true,
+   "products": [
     {
-     "type": "IPHONE CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
      "colors": [
+      "Black",
+      "Carolina Blue",
+      "Deep Red",
+      "Fatigue Green",
+      "Forest Green",
+      "Gold",
+      "Light Blue",
+      "Light Steel",
+      "Maroon",
+      "Orange",
+      "Pink",
+      "Sand",
       "White"
      ],
      "sizes": [
-      "only"
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
      ]
     },
     {
-     "type": "SAMSUNG GALAXY CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$39.99",
      "colors": [
+      "Ash Grey",
+      "Black",
+      "Dark Heather",
+      "Graphite Heather",
+      "Light Blue",
+      "Light Pink",
+      "Sand",
+      "Sport Grey",
       "White"
      ],
      "sizes": [
-      "only"
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
      ]
     },
     {
-     "type": "CANVAS PRINT",
-     "category": "Canvas Prints",
-     "price": "$34.00",
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
      "colors": [
-      "Black"
+      "Black",
+      "White"
      ],
      "sizes": [
-      "only"
+      "11oz"
      ]
     }
    ]
@@ -2120,90 +2197,6 @@
    "stealthy": false,
    "title": "Christmas Nurse Shirt | Holiday Shift Festive Nursing Graphic Design",
    "description": "A nurse's caduceus wrapped in holiday lights with the honest phrase Holiday Shift. A Christmas shirt for nurses who work through the holidays, and a thoughtful gift for coworkers and nursing students.",
-   "active": true,
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Carolina Blue",
-      "Deep Red",
-      "Fatigue Green",
-      "Forest Green",
-      "Gold",
-      "Light Blue",
-      "Light Steel",
-      "Maroon",
-      "Orange",
-      "Pink",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$39.99",
-     "colors": [
-      "Ash Grey",
-      "Black",
-      "Dark Heather",
-      "Graphite Heather",
-      "Light Blue",
-      "Light Pink",
-      "Sand",
-      "Sport Grey",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ]
-    }
-   ]
-  },
-  {
-   "path": "haunted-scholar-autumn-academia-tee",
-   "name": "Haunted Scholar T-Shirt | Autumn Dark Academia Halloween Design",
-   "price": "$24.99",
-   "tags": [
-    "halloween"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzE2OGVhNWE4LWM3NzYtNDI2Mi05MTQ1LTgzZWQ0OWEyZDNmNw&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=8043269bf70d0d0db54bd5c908c2c106",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzE2OGVhNWE4LWM3NzYtNDI2Mi05MTQ1LTgzZWQ0OWEyZDNmNw&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=8043269bf70d0d0db54bd5c908c2c106",
-   "stealthy": false,
-   "title": "Haunted Scholar T-Shirt | Autumn Dark Academia Halloween Design",
-   "description": "Stacked books, a raven and candlelight in a dark academia Halloween scene. A Halloween shirt for students, teachers and readers who want something deeper than costume-store graphics.",
    "active": true,
    "products": [
     {
@@ -4797,17 +4790,17 @@
    ]
   },
   {
-   "path": "2027-new-chapter-raven-tee",
-   "name": "2027 New Chapter Raven Graphic Tee Design | Dark Academia New Year T-Shirt",
+   "path": "meowy-christmas-cat-tee",
+   "name": "Meowy Christmas T-Shirt | Funny Cat Lover Holiday Design",
    "price": "$24.99",
    "tags": [
     "christmas"
    ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzRlZGRiYTRlLWJlODMtNDNjMC04NGExLTU2N2YxYWZkMTRkYQ&markw=166&markx=162&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=994a4bb11d2e68016999be7fcd0cddc4",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzRlZGRiYTRlLWJlODMtNDNjMC04NGExLTU2N2YxYWZkMTRkYQ&markw=166&markx=162&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=994a4bb11d2e68016999be7fcd0cddc4",
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2MxMzdmOWFiLWRiMDQtNGU2Yi04Yjc1LTIzMDM3MTdkMDA1Nw&markw=181&markx=154&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0748df8736d5f91a6d24472ba6a3d76a",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2MxMzdmOWFiLWRiMDQtNGU2Yi04Yjc1LTIzMDM3MTdkMDA1Nw&markw=181&markx=154&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0748df8736d5f91a6d24472ba6a3d76a",
    "stealthy": false,
-   "title": "2027 New Chapter Raven Graphic Tee Design | Dark Academia New Year T-Shirt",
-   "description": "A moody raven perched beside an open book, framed by the words 2027 Next Chapter in hand-lettered vintage type. A bookish New Year's shirt and gift for readers, writers, teachers and graduates turning a page.",
+   "title": "Meowy Christmas T-Shirt | Funny Cat Lover Holiday Design",
+   "description": "Three cozy cats bundled in Santa hats and scarves answer the search for a cute, funny Christmas shirt for cat lovers. Meowy Christmas gives cat owners a playful pun-based holiday tee that works for family photos, ugly-sweater parties, or everyday festive wear all season long.",
    "active": true,
    "products": [
     {
@@ -4816,44 +4809,19 @@
      "price": "$24.99",
      "colors": [
       "Black",
-      "Carolina Blue",
+      "Charcoal Heather",
+      "Deep Forest",
       "Deep Red",
+      "Deep Royal",
       "Fatigue Green",
-      "Forest Green",
       "Gold",
-      "Light Blue",
-      "Light Steel",
+      "Kelly Green",
       "Maroon",
+      "Navy",
       "Orange",
       "Pink",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$39.99",
-     "colors": [
-      "Ash Grey",
-      "Black",
-      "Dark Heather",
-      "Graphite Heather",
-      "Light Blue",
-      "Light Pink",
-      "Sand",
-      "Sport Grey",
-      "White"
+      "Purple",
+      "Sand"
      ],
      "sizes": [
       "S",
@@ -4871,11 +4839,43 @@
      "category": "Drinkware",
      "price": "$16.99",
      "colors": [
-      "Black",
-      "White"
+      "Black"
      ],
      "sizes": [
       "11oz"
+     ]
+    },
+    {
+     "type": "IPHONE CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    },
+    {
+     "type": "SAMSUNG GALAXY CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    },
+    {
+     "type": "CANVAS PRINT",
+     "category": "Canvas Prints",
+     "price": "$34.00",
+     "colors": [
+      "Black"
+     ],
+     "sizes": [
+      "only"
      ]
     }
    ]
