@@ -1,6 +1,100 @@
 {
- "fetchedAt": "2026-10-15T17:48:04.049Z",
+ "fetchedAt": "2026-10-16T05:53:48.516Z",
  "products": [
+  {
+   "path": "every-student-can-learn-tee",
+   "name": "Every Student Can Learn T-Shirt | Inspirational Teacher Design",
+   "price": "$24.99",
+   "tags": [
+    "halloween"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=LzhhMjFlNzQwLTUyMDMtNDBmNy1iYWUzLTUxOTQ1M2U4NTJiNQ&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=da732d63eb8c9fdc8f0f7a9ffa75fdbb",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=LzhhMjFlNzQwLTUyMDMtNDBmNy1iYWUzLTUxOTQ1M2U4NTJiNQ&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=da732d63eb8c9fdc8f0f7a9ffa75fdbb",
+   "stealthy": false,
+   "title": "Every Student Can Learn T-Shirt | Inspirational Teacher Design",
+   "description": "A whimsical tree decorated with Halloween ornaments and the message Every Student Can Learn, Just Not On The Same Day Or In The Same Way. A meaningful shirt and gift for special education and classroom teachers.",
+   "active": true,
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Charcoal Heather",
+      "Deep Forest",
+      "Deep Red",
+      "Deep Royal",
+      "Fatigue Green",
+      "Gold",
+      "Kelly Green",
+      "Maroon",
+      "Navy",
+      "Orange",
+      "Pink",
+      "Purple",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ]
+    },
+    {
+     "type": "IPHONE CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    },
+    {
+     "type": "SAMSUNG GALAXY CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    },
+    {
+     "type": "CANVAS PRINT",
+     "category": "Canvas Prints",
+     "price": "$34.00",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    }
+   ]
+  },
   {
    "path": "christmas-word-stack-merry-bright-tee",
    "name": "Christmas Word Stack T-Shirt | Merry Bright Joy & Cozy Typography Design",
@@ -13,6 +107,90 @@
    "stealthy": false,
    "title": "Christmas Word Stack T-Shirt | Merry Bright Joy & Cozy Typography Design",
    "description": "Stacked lettering spells out Christmas, Merry, Bright, Joy and Cozy. A simple, pretty Christmas words shirt that is easy to read at a glance and works well for family matching sets and gifts.",
+   "active": true,
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Carolina Blue",
+      "Deep Red",
+      "Fatigue Green",
+      "Forest Green",
+      "Gold",
+      "Light Blue",
+      "Light Steel",
+      "Maroon",
+      "Orange",
+      "Pink",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$39.99",
+     "colors": [
+      "Ash Grey",
+      "Black",
+      "Dark Heather",
+      "Graphite Heather",
+      "Light Blue",
+      "Light Pink",
+      "Sand",
+      "Sport Grey",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ]
+    }
+   ]
+  },
+  {
+   "path": "dog-mom-paws-christmas-cheer-tee",
+   "name": "Dog Mom Christmas Shirt | Paws & Christmas Cheer Holiday Pet Design",
+   "price": "$24.99",
+   "tags": [
+    "christmas"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFmODZiM2JkLTY4N2EtNDZiMi1hNGYzLTQ4YTlkOTIwY2I4MQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1040a0f0b3f257049b336215da8f7f33",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFmODZiM2JkLTY4N2EtNDZiMi1hNGYzLTQ4YTlkOTIwY2I4MQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1040a0f0b3f257049b336215da8f7f33",
+   "stealthy": false,
+   "title": "Dog Mom Christmas Shirt | Paws & Christmas Cheer Holiday Pet Design",
+   "description": "Paw prints woven into holiday holly in a design called Paws & Christmas Cheer. A Christmas shirt made for dog moms and a cozy gift for the pet parent on your list.",
    "active": true,
    "products": [
     {
@@ -180,100 +358,6 @@
    ]
   },
   {
-   "path": "every-student-can-learn-tee",
-   "name": "Every Student Can Learn T-Shirt | Inspirational Teacher Design",
-   "price": "$24.99",
-   "tags": [
-    "halloween"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=LzhhMjFlNzQwLTUyMDMtNDBmNy1iYWUzLTUxOTQ1M2U4NTJiNQ&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=da732d63eb8c9fdc8f0f7a9ffa75fdbb",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=LzhhMjFlNzQwLTUyMDMtNDBmNy1iYWUzLTUxOTQ1M2U4NTJiNQ&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=da732d63eb8c9fdc8f0f7a9ffa75fdbb",
-   "stealthy": false,
-   "title": "Every Student Can Learn T-Shirt | Inspirational Teacher Design",
-   "description": "A whimsical tree decorated with Halloween ornaments and the message Every Student Can Learn, Just Not On The Same Day Or In The Same Way. A meaningful shirt and gift for special education and classroom teachers.",
-   "active": true,
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Charcoal Heather",
-      "Deep Forest",
-      "Deep Red",
-      "Deep Royal",
-      "Fatigue Green",
-      "Gold",
-      "Kelly Green",
-      "Maroon",
-      "Navy",
-      "Orange",
-      "Pink",
-      "Purple",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ]
-    },
-    {
-     "type": "IPHONE CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ]
-    },
-    {
-     "type": "SAMSUNG GALAXY CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ]
-    },
-    {
-     "type": "CANVAS PRINT",
-     "category": "Canvas Prints",
-     "price": "$34.00",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ]
-    }
-   ]
-  },
-  {
    "path": "night-scholar-owl-tee",
    "name": "Night Scholar Owl T-Shirt | Dark Academia Bookish Graphic Design",
    "price": "$24.99",
@@ -285,90 +369,6 @@
    "stealthy": false,
    "title": "Night Scholar Owl T-Shirt | Dark Academia Bookish Graphic Design",
    "description": "An owl perched atop a stack of books under moonlight. A thoughtful dark academia shirt and gift for teachers, grad students and late-night readers.",
-   "active": true,
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Carolina Blue",
-      "Deep Red",
-      "Fatigue Green",
-      "Forest Green",
-      "Gold",
-      "Light Blue",
-      "Light Steel",
-      "Maroon",
-      "Orange",
-      "Pink",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$39.99",
-     "colors": [
-      "Ash Grey",
-      "Black",
-      "Dark Heather",
-      "Graphite Heather",
-      "Light Blue",
-      "Light Pink",
-      "Sand",
-      "Sport Grey",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ]
-    }
-   ]
-  },
-  {
-   "path": "dog-mom-paws-christmas-cheer-tee",
-   "name": "Dog Mom Christmas Shirt | Paws & Christmas Cheer Holiday Pet Design",
-   "price": "$24.99",
-   "tags": [
-    "christmas"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFmODZiM2JkLTY4N2EtNDZiMi1hNGYzLTQ4YTlkOTIwY2I4MQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1040a0f0b3f257049b336215da8f7f33",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFmODZiM2JkLTY4N2EtNDZiMi1hNGYzLTQ4YTlkOTIwY2I4MQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1040a0f0b3f257049b336215da8f7f33",
-   "stealthy": false,
-   "title": "Dog Mom Christmas Shirt | Paws & Christmas Cheer Holiday Pet Design",
-   "description": "Paw prints woven into holiday holly in a design called Paws & Christmas Cheer. A Christmas shirt made for dog moms and a cozy gift for the pet parent on your list.",
    "active": true,
    "products": [
     {
@@ -6548,97 +6548,6 @@
    "stealthy": false,
    "title": "Beard Is The New Broom T-Shirt | Funny Halloween Witch Beard Design",
    "description": "A bold beard graphic with the pun Beard Is The New Broom. A funny Halloween shirt for bearded guys who skip the witch hat.",
-   "active": true,
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Charcoal Heather",
-      "Deep Forest",
-      "Deep Red",
-      "Deep Royal",
-      "Fatigue Green",
-      "Gold",
-      "Kelly Green",
-      "Maroon",
-      "Navy",
-      "Orange",
-      "Pink",
-      "Purple",
-      "Sand"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black"
-     ],
-     "sizes": [
-      "11oz"
-     ]
-    },
-    {
-     "type": "IPHONE CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ]
-    },
-    {
-     "type": "SAMSUNG GALAXY CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ]
-    },
-    {
-     "type": "CANVAS PRINT",
-     "category": "Canvas Prints",
-     "price": "$34.00",
-     "colors": [
-      "Black"
-     ],
-     "sizes": [
-      "only"
-     ]
-    }
-   ]
-  },
-  {
-   "path": "teaching-is-my-boo",
-   "name": "Teaching Is My Boo T-Shirt | Cute Ghost Halloween Teacher Design",
-   "price": "$24.99",
-   "tags": [
-    "halloween"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzJkZTA5NmZlLWU2YzktNGJlMi1hMzdiLWMzNGFlYTM1NzVmMg&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=11ef2611359d391393632781105267dd",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzJkZTA5NmZlLWU2YzktNGJlMi1hMzdiLWMzNGFlYTM1NzVmMg&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=11ef2611359d391393632781105267dd",
-   "stealthy": false,
-   "title": "Teaching Is My Boo T-Shirt | Cute Ghost Halloween Teacher Design",
-   "description": "A cute witch-hat ghost holding a pencil with the line Teaching Is My Boo. A sweet, punny Halloween shirt for teachers to wear in the classroom.",
    "active": true,
    "products": [
     {
