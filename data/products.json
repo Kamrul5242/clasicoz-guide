@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-18T16:33:16.073Z",
+ "fetchedAt": "2026-10-19T06:14:08.824Z",
  "products": [
   {
    "path": "every-student-can-learn-tee",
@@ -96,90 +96,6 @@
    ]
   },
   {
-   "path": "night-scholar-owl-tee",
-   "name": "Night Scholar Owl T-Shirt | Dark Academia Bookish Graphic Design",
-   "price": "$24.99",
-   "tags": [
-    "halloween"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6ef7a4605fefc638236ee904c47985cc",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6ef7a4605fefc638236ee904c47985cc",
-   "stealthy": false,
-   "title": "Night Scholar Owl T-Shirt | Dark Academia Bookish Graphic Design",
-   "description": "An owl perched atop a stack of books under moonlight. A thoughtful dark academia shirt and gift for teachers, grad students and late-night readers.",
-   "active": true,
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Carolina Blue",
-      "Deep Red",
-      "Fatigue Green",
-      "Forest Green",
-      "Gold",
-      "Light Blue",
-      "Light Steel",
-      "Maroon",
-      "Orange",
-      "Pink",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$39.99",
-     "colors": [
-      "Ash Grey",
-      "Black",
-      "Dark Heather",
-      "Graphite Heather",
-      "Light Blue",
-      "Light Pink",
-      "Sand",
-      "Sport Grey",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ]
-    }
-   ]
-  },
-  {
    "path": "christmas-word-stack-merry-bright-tee",
    "name": "Christmas Word Stack T-Shirt | Merry Bright Joy & Cozy Typography Design",
    "price": "$24.99",
@@ -191,90 +107,6 @@
    "stealthy": false,
    "title": "Christmas Word Stack T-Shirt | Merry Bright Joy & Cozy Typography Design",
    "description": "Stacked lettering spells out Christmas, Merry, Bright, Joy and Cozy. A simple, pretty Christmas words shirt that is easy to read at a glance and works well for family matching sets and gifts.",
-   "active": true,
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Carolina Blue",
-      "Deep Red",
-      "Fatigue Green",
-      "Forest Green",
-      "Gold",
-      "Light Blue",
-      "Light Steel",
-      "Maroon",
-      "Orange",
-      "Pink",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$39.99",
-     "colors": [
-      "Ash Grey",
-      "Black",
-      "Dark Heather",
-      "Graphite Heather",
-      "Light Blue",
-      "Light Pink",
-      "Sand",
-      "Sport Grey",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ]
-    }
-   ]
-  },
-  {
-   "path": "dog-mom-paws-christmas-cheer-tee",
-   "name": "Dog Mom Christmas Shirt | Paws & Christmas Cheer Holiday Pet Design",
-   "price": "$24.99",
-   "tags": [
-    "christmas"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFmODZiM2JkLTY4N2EtNDZiMi1hNGYzLTQ4YTlkOTIwY2I4MQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1040a0f0b3f257049b336215da8f7f33",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFmODZiM2JkLTY4N2EtNDZiMi1hNGYzLTQ4YTlkOTIwY2I4MQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1040a0f0b3f257049b336215da8f7f33",
-   "stealthy": false,
-   "title": "Dog Mom Christmas Shirt | Paws & Christmas Cheer Holiday Pet Design",
-   "description": "Paw prints woven into holiday holly in a design called Paws & Christmas Cheer. A Christmas shirt made for dog moms and a cozy gift for the pet parent on your list.",
    "active": true,
    "products": [
     {
@@ -442,6 +274,258 @@
    ]
   },
   {
+   "path": "night-scholar-owl-tee",
+   "name": "Night Scholar Owl T-Shirt | Dark Academia Bookish Graphic Design",
+   "price": "$24.99",
+   "tags": [
+    "halloween"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6ef7a4605fefc638236ee904c47985cc",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6ef7a4605fefc638236ee904c47985cc",
+   "stealthy": false,
+   "title": "Night Scholar Owl T-Shirt | Dark Academia Bookish Graphic Design",
+   "description": "An owl perched atop a stack of books under moonlight. A thoughtful dark academia shirt and gift for teachers, grad students and late-night readers.",
+   "active": true,
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Carolina Blue",
+      "Deep Red",
+      "Fatigue Green",
+      "Forest Green",
+      "Gold",
+      "Light Blue",
+      "Light Steel",
+      "Maroon",
+      "Orange",
+      "Pink",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$39.99",
+     "colors": [
+      "Ash Grey",
+      "Black",
+      "Dark Heather",
+      "Graphite Heather",
+      "Light Blue",
+      "Light Pink",
+      "Sand",
+      "Sport Grey",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ]
+    }
+   ]
+  },
+  {
+   "path": "dog-mom-paws-christmas-cheer-tee",
+   "name": "Dog Mom Christmas Shirt | Paws & Christmas Cheer Holiday Pet Design",
+   "price": "$24.99",
+   "tags": [
+    "christmas"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFmODZiM2JkLTY4N2EtNDZiMi1hNGYzLTQ4YTlkOTIwY2I4MQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1040a0f0b3f257049b336215da8f7f33",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFmODZiM2JkLTY4N2EtNDZiMi1hNGYzLTQ4YTlkOTIwY2I4MQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1040a0f0b3f257049b336215da8f7f33",
+   "stealthy": false,
+   "title": "Dog Mom Christmas Shirt | Paws & Christmas Cheer Holiday Pet Design",
+   "description": "Paw prints woven into holiday holly in a design called Paws & Christmas Cheer. A Christmas shirt made for dog moms and a cozy gift for the pet parent on your list.",
+   "active": true,
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Carolina Blue",
+      "Deep Red",
+      "Fatigue Green",
+      "Forest Green",
+      "Gold",
+      "Light Blue",
+      "Light Steel",
+      "Maroon",
+      "Orange",
+      "Pink",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$39.99",
+     "colors": [
+      "Ash Grey",
+      "Black",
+      "Dark Heather",
+      "Graphite Heather",
+      "Light Blue",
+      "Light Pink",
+      "Sand",
+      "Sport Grey",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ]
+    }
+   ]
+  },
+  {
+   "path": "wired-for-christmas-electrician-tee",
+   "name": "Wired for Christmas T-Shirt | Funny Electrician Holiday Graphic Design",
+   "price": "$24.99",
+   "tags": [
+    "christmas"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=300d4b527f2c7025d6564668f5957fb6",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=300d4b527f2c7025d6564668f5957fb6",
+   "stealthy": false,
+   "title": "Wired for Christmas T-Shirt | Funny Electrician Holiday Graphic Design",
+   "description": "A glowing lightbulb in a Santa hat surrounded by pliers, wire strippers and string lights, with the line Wired for Christmas. A funny holiday tee that celebrates the electrician's trade instead of a generic ugly-sweater print, and an easy gift for coworkers and family.",
+   "active": true,
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Carolina Blue",
+      "Deep Red",
+      "Fatigue Green",
+      "Forest Green",
+      "Gold",
+      "Light Blue",
+      "Light Steel",
+      "Maroon",
+      "Orange",
+      "Pink",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$39.99",
+     "colors": [
+      "Ash Grey",
+      "Black",
+      "Dark Heather",
+      "Graphite Heather",
+      "Light Blue",
+      "Light Pink",
+      "Sand",
+      "Sport Grey",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ]
+    }
+   ]
+  },
+  {
    "path": "meowy-christmas-cat-tee",
    "name": "Meowy Christmas T-Shirt | Funny Cat Lover Holiday Design",
    "price": "$24.99",
@@ -528,90 +612,6 @@
      ],
      "sizes": [
       "only"
-     ]
-    }
-   ]
-  },
-  {
-   "path": "wired-for-christmas-electrician-tee",
-   "name": "Wired for Christmas T-Shirt | Funny Electrician Holiday Graphic Design",
-   "price": "$24.99",
-   "tags": [
-    "christmas"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=300d4b527f2c7025d6564668f5957fb6",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=300d4b527f2c7025d6564668f5957fb6",
-   "stealthy": false,
-   "title": "Wired for Christmas T-Shirt | Funny Electrician Holiday Graphic Design",
-   "description": "A glowing lightbulb in a Santa hat surrounded by pliers, wire strippers and string lights, with the line Wired for Christmas. A funny holiday tee that celebrates the electrician's trade instead of a generic ugly-sweater print, and an easy gift for coworkers and family.",
-   "active": true,
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Carolina Blue",
-      "Deep Red",
-      "Fatigue Green",
-      "Forest Green",
-      "Gold",
-      "Light Blue",
-      "Light Steel",
-      "Maroon",
-      "Orange",
-      "Pink",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$39.99",
-     "colors": [
-      "Ash Grey",
-      "Black",
-      "Dark Heather",
-      "Graphite Heather",
-      "Light Blue",
-      "Light Pink",
-      "Sand",
-      "Sport Grey",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
      ]
     }
    ]
