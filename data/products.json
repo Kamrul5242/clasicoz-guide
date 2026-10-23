@@ -1,100 +1,6 @@
 {
- "fetchedAt": "2026-10-22T17:59:38.755Z",
+ "fetchedAt": "2026-10-23T06:03:51.796Z",
  "products": [
-  {
-   "path": "every-student-can-learn-tee",
-   "name": "Every Student Can Learn T-Shirt | Inspirational Teacher Design",
-   "price": "$24.99",
-   "tags": [
-    "halloween"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=LzhhMjFlNzQwLTUyMDMtNDBmNy1iYWUzLTUxOTQ1M2U4NTJiNQ&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=da732d63eb8c9fdc8f0f7a9ffa75fdbb",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=LzhhMjFlNzQwLTUyMDMtNDBmNy1iYWUzLTUxOTQ1M2U4NTJiNQ&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=da732d63eb8c9fdc8f0f7a9ffa75fdbb",
-   "stealthy": false,
-   "title": "Every Student Can Learn T-Shirt | Inspirational Teacher Design",
-   "description": "A whimsical tree decorated with Halloween ornaments and the message Every Student Can Learn, Just Not On The Same Day Or In The Same Way. A meaningful shirt and gift for special education and classroom teachers.",
-   "active": true,
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Charcoal Heather",
-      "Deep Forest",
-      "Deep Red",
-      "Deep Royal",
-      "Fatigue Green",
-      "Gold",
-      "Kelly Green",
-      "Maroon",
-      "Navy",
-      "Orange",
-      "Pink",
-      "Purple",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ]
-    },
-    {
-     "type": "IPHONE CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ]
-    },
-    {
-     "type": "SAMSUNG GALAXY CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ]
-    },
-    {
-     "type": "CANVAS PRINT",
-     "category": "Canvas Prints",
-     "price": "$34.00",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ]
-    }
-   ]
-  },
   {
    "path": "christmas-word-stack-merry-bright-tee",
    "name": "Christmas Word Stack T-Shirt | Merry Bright Joy & Cozy Typography Design",
@@ -191,268 +97,6 @@
    "stealthy": false,
    "title": "Dog Mom Christmas Shirt | Paws & Christmas Cheer Holiday Pet Design",
    "description": "Paw prints woven into holiday holly in a design called Paws & Christmas Cheer. A Christmas shirt made for dog moms and a cozy gift for the pet parent on your list.",
-   "active": true,
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Carolina Blue",
-      "Deep Red",
-      "Fatigue Green",
-      "Forest Green",
-      "Gold",
-      "Light Blue",
-      "Light Steel",
-      "Maroon",
-      "Orange",
-      "Pink",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$39.99",
-     "colors": [
-      "Ash Grey",
-      "Black",
-      "Dark Heather",
-      "Graphite Heather",
-      "Light Blue",
-      "Light Pink",
-      "Sand",
-      "Sport Grey",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ]
-    }
-   ]
-  },
-  {
-   "path": "school-nurse-halloween-tee",
-   "name": "School Nurse Too Long T-Shirt | Funny Halloween Nurse Design",
-   "price": "$24.99",
-   "tags": [
-    "halloween"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=L2Q2NjE2YmUyLTVhOTctNDU3ZC1iNjJmLTg0NmQ1ZWIyMjgyZA&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=38cf39aca4cf7e4c2b8295625ffd2539",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=L2Q2NjE2YmUyLTVhOTctNDU3ZC1iNjJmLTg0NmQ1ZWIyMjgyZA&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=38cf39aca4cf7e4c2b8295625ffd2539",
-   "stealthy": false,
-   "title": "School Nurse Too Long T-Shirt | Funny Halloween Nurse Design",
-   "description": "A ghostly Halloween pumpkin nurse with the line You Cant Scare Me, Ive Been a School Nurse Far Too Long. A funny, relatable Halloween shirt for school nurses.",
-   "active": true,
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Charcoal Heather",
-      "Deep Forest",
-      "Deep Red",
-      "Deep Royal",
-      "Fatigue Green",
-      "Gold",
-      "Kelly Green",
-      "Maroon",
-      "Navy",
-      "Orange",
-      "Pink",
-      "Purple",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ]
-    },
-    {
-     "type": "IPHONE CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ]
-    },
-    {
-     "type": "SAMSUNG GALAXY CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ]
-    },
-    {
-     "type": "CANVAS PRINT",
-     "category": "Canvas Prints",
-     "price": "$34.00",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ]
-    }
-   ]
-  },
-  {
-   "path": "night-scholar-owl-tee",
-   "name": "Night Scholar Owl T-Shirt | Dark Academia Bookish Graphic Design",
-   "price": "$24.99",
-   "tags": [
-    "halloween"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6ef7a4605fefc638236ee904c47985cc",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6ef7a4605fefc638236ee904c47985cc",
-   "stealthy": false,
-   "title": "Night Scholar Owl T-Shirt | Dark Academia Bookish Graphic Design",
-   "description": "An owl perched atop a stack of books under moonlight. A thoughtful dark academia shirt and gift for teachers, grad students and late-night readers.",
-   "active": true,
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Carolina Blue",
-      "Deep Red",
-      "Fatigue Green",
-      "Forest Green",
-      "Gold",
-      "Light Blue",
-      "Light Steel",
-      "Maroon",
-      "Orange",
-      "Pink",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$39.99",
-     "colors": [
-      "Ash Grey",
-      "Black",
-      "Dark Heather",
-      "Graphite Heather",
-      "Light Blue",
-      "Light Pink",
-      "Sand",
-      "Sport Grey",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ]
-    }
-   ]
-  },
-  {
-   "path": "wired-for-christmas-electrician-tee",
-   "name": "Wired for Christmas T-Shirt | Funny Electrician Holiday Graphic Design",
-   "price": "$24.99",
-   "tags": [
-    "christmas"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=300d4b527f2c7025d6564668f5957fb6",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=300d4b527f2c7025d6564668f5957fb6",
-   "stealthy": false,
-   "title": "Wired for Christmas T-Shirt | Funny Electrician Holiday Graphic Design",
-   "description": "A glowing lightbulb in a Santa hat surrounded by pliers, wire strippers and string lights, with the line Wired for Christmas. A funny holiday tee that celebrates the electrician's trade instead of a generic ugly-sweater print, and an easy gift for coworkers and family.",
    "active": true,
    "products": [
     {
@@ -700,6 +344,362 @@
      "price": "$34.00",
      "colors": [
       "Black"
+     ],
+     "sizes": [
+      "only"
+     ]
+    }
+   ]
+  },
+  {
+   "path": "wired-for-christmas-electrician-tee",
+   "name": "Wired for Christmas T-Shirt | Funny Electrician Holiday Graphic Design",
+   "price": "$24.99",
+   "tags": [
+    "christmas"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=300d4b527f2c7025d6564668f5957fb6",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=300d4b527f2c7025d6564668f5957fb6",
+   "stealthy": false,
+   "title": "Wired for Christmas T-Shirt | Funny Electrician Holiday Graphic Design",
+   "description": "A glowing lightbulb in a Santa hat surrounded by pliers, wire strippers and string lights, with the line Wired for Christmas. A funny holiday tee that celebrates the electrician's trade instead of a generic ugly-sweater print, and an easy gift for coworkers and family.",
+   "active": true,
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Carolina Blue",
+      "Deep Red",
+      "Fatigue Green",
+      "Forest Green",
+      "Gold",
+      "Light Blue",
+      "Light Steel",
+      "Maroon",
+      "Orange",
+      "Pink",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$39.99",
+     "colors": [
+      "Ash Grey",
+      "Black",
+      "Dark Heather",
+      "Graphite Heather",
+      "Light Blue",
+      "Light Pink",
+      "Sand",
+      "Sport Grey",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ]
+    }
+   ]
+  },
+  {
+   "path": "every-student-can-learn-tee",
+   "name": "Every Student Can Learn T-Shirt | Inspirational Teacher Design",
+   "price": "$24.99",
+   "tags": [
+    "halloween"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=LzhhMjFlNzQwLTUyMDMtNDBmNy1iYWUzLTUxOTQ1M2U4NTJiNQ&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=da732d63eb8c9fdc8f0f7a9ffa75fdbb",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=LzhhMjFlNzQwLTUyMDMtNDBmNy1iYWUzLTUxOTQ1M2U4NTJiNQ&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=da732d63eb8c9fdc8f0f7a9ffa75fdbb",
+   "stealthy": false,
+   "title": "Every Student Can Learn T-Shirt | Inspirational Teacher Design",
+   "description": "A whimsical tree decorated with Halloween ornaments and the message Every Student Can Learn, Just Not On The Same Day Or In The Same Way. A meaningful shirt and gift for special education and classroom teachers.",
+   "active": true,
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Charcoal Heather",
+      "Deep Forest",
+      "Deep Red",
+      "Deep Royal",
+      "Fatigue Green",
+      "Gold",
+      "Kelly Green",
+      "Maroon",
+      "Navy",
+      "Orange",
+      "Pink",
+      "Purple",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ]
+    },
+    {
+     "type": "IPHONE CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    },
+    {
+     "type": "SAMSUNG GALAXY CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    },
+    {
+     "type": "CANVAS PRINT",
+     "category": "Canvas Prints",
+     "price": "$34.00",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    }
+   ]
+  },
+  {
+   "path": "night-scholar-owl-tee",
+   "name": "Night Scholar Owl T-Shirt | Dark Academia Bookish Graphic Design",
+   "price": "$24.99",
+   "tags": [
+    "halloween"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6ef7a4605fefc638236ee904c47985cc",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6ef7a4605fefc638236ee904c47985cc",
+   "stealthy": false,
+   "title": "Night Scholar Owl T-Shirt | Dark Academia Bookish Graphic Design",
+   "description": "An owl perched atop a stack of books under moonlight. A thoughtful dark academia shirt and gift for teachers, grad students and late-night readers.",
+   "active": true,
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Carolina Blue",
+      "Deep Red",
+      "Fatigue Green",
+      "Forest Green",
+      "Gold",
+      "Light Blue",
+      "Light Steel",
+      "Maroon",
+      "Orange",
+      "Pink",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$39.99",
+     "colors": [
+      "Ash Grey",
+      "Black",
+      "Dark Heather",
+      "Graphite Heather",
+      "Light Blue",
+      "Light Pink",
+      "Sand",
+      "Sport Grey",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ]
+    }
+   ]
+  },
+  {
+   "path": "school-nurse-halloween-tee",
+   "name": "School Nurse Too Long T-Shirt | Funny Halloween Nurse Design",
+   "price": "$24.99",
+   "tags": [
+    "halloween"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=L2Q2NjE2YmUyLTVhOTctNDU3ZC1iNjJmLTg0NmQ1ZWIyMjgyZA&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=38cf39aca4cf7e4c2b8295625ffd2539",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=L2Q2NjE2YmUyLTVhOTctNDU3ZC1iNjJmLTg0NmQ1ZWIyMjgyZA&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=38cf39aca4cf7e4c2b8295625ffd2539",
+   "stealthy": false,
+   "title": "School Nurse Too Long T-Shirt | Funny Halloween Nurse Design",
+   "description": "A ghostly Halloween pumpkin nurse with the line You Cant Scare Me, Ive Been a School Nurse Far Too Long. A funny, relatable Halloween shirt for school nurses.",
+   "active": true,
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Charcoal Heather",
+      "Deep Forest",
+      "Deep Red",
+      "Deep Royal",
+      "Fatigue Green",
+      "Gold",
+      "Kelly Green",
+      "Maroon",
+      "Navy",
+      "Orange",
+      "Pink",
+      "Purple",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ]
+    },
+    {
+     "type": "IPHONE CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    },
+    {
+     "type": "SAMSUNG GALAXY CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    },
+    {
+     "type": "CANVAS PRINT",
+     "category": "Canvas Prints",
+     "price": "$34.00",
+     "colors": [
+      "Black",
+      "White"
      ],
      "sizes": [
       "only"
