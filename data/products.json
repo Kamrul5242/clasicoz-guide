@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-24T16:36:32.636Z",
+ "fetchedAt": "2026-10-25T06:08:56.512Z",
  "products": [
   {
    "path": "christmas-word-stack-merry-bright-tee",
@@ -530,90 +530,6 @@
    ]
   },
   {
-   "path": "night-scholar-owl-tee",
-   "name": "Night Scholar Owl T-Shirt | Dark Academia Bookish Graphic Design",
-   "price": "$24.99",
-   "tags": [
-    "halloween"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6ef7a4605fefc638236ee904c47985cc",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6ef7a4605fefc638236ee904c47985cc",
-   "stealthy": false,
-   "title": "Night Scholar Owl T-Shirt | Dark Academia Bookish Graphic Design",
-   "description": "An owl perched atop a stack of books under moonlight. A thoughtful dark academia shirt and gift for teachers, grad students and late-night readers.",
-   "active": true,
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Carolina Blue",
-      "Deep Red",
-      "Fatigue Green",
-      "Forest Green",
-      "Gold",
-      "Light Blue",
-      "Light Steel",
-      "Maroon",
-      "Orange",
-      "Pink",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$39.99",
-     "colors": [
-      "Ash Grey",
-      "Black",
-      "Dark Heather",
-      "Graphite Heather",
-      "Light Blue",
-      "Light Pink",
-      "Sand",
-      "Sport Grey",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ]
-    }
-   ]
-  },
-  {
    "path": "school-nurse-halloween-tee",
    "name": "School Nurse Too Long T-Shirt | Funny Halloween Nurse Design",
    "price": "$24.99",
@@ -703,6 +619,90 @@
      ],
      "sizes": [
       "only"
+     ]
+    }
+   ]
+  },
+  {
+   "path": "night-scholar-owl-tee",
+   "name": "Night Scholar Owl T-Shirt | Dark Academia Bookish Graphic Design",
+   "price": "$24.99",
+   "tags": [
+    "halloween"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6ef7a4605fefc638236ee904c47985cc",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6ef7a4605fefc638236ee904c47985cc",
+   "stealthy": false,
+   "title": "Night Scholar Owl T-Shirt | Dark Academia Bookish Graphic Design",
+   "description": "An owl perched atop a stack of books under moonlight. A thoughtful dark academia shirt and gift for teachers, grad students and late-night readers.",
+   "active": true,
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Carolina Blue",
+      "Deep Red",
+      "Fatigue Green",
+      "Forest Green",
+      "Gold",
+      "Light Blue",
+      "Light Steel",
+      "Maroon",
+      "Orange",
+      "Pink",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$39.99",
+     "colors": [
+      "Ash Grey",
+      "Black",
+      "Dark Heather",
+      "Graphite Heather",
+      "Light Blue",
+      "Light Pink",
+      "Sand",
+      "Sport Grey",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
      ]
     }
    ]
