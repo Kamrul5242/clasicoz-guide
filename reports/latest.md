@@ -1,13 +1,13 @@
-# Clasicoz monitor — 2026-10-19
+# Clasicoz monitor — 2026-10-26
 
-**0 failing, 2 warnings, 31 ok, 3 skipped, 4 info.**
+**0 failing, 3 warnings, 30 ok, 3 skipped, 4 info.**
 
 ## DNS
 
 | | Check | Detail |
 |---|---|---|
 | ✅ | Nameservers are Cloudflare only | adi.ns.cloudflare.com, lennon.ns.cloudflare.com |
-| ✅ | MX records present | 70 route3.mx.cloudflare.net, 30 route2.mx.cloudflare.net, 21 route1.mx.cloudflare.net |
+| ✅ | MX records present | 21 route1.mx.cloudflare.net, 30 route2.mx.cloudflare.net, 70 route3.mx.cloudflare.net |
 | ✅ | SPF record | v=spf1 include:_spf.mx.cloudflare.net ~all |
 | ✅ | DMARC record | v=DMARC1; p=none; rua=mailto:540a78554e814ecf88fd4b49a93b3c3b@dmarc-reports.cloudflare.net |
 | ✅ | guide CNAME -> GitHub Pages (DNS only) | kamrul5242.github.io |
@@ -36,20 +36,20 @@
 | | Check | Detail |
 |---|---|---|
 | ✅ | GPTBot can read guide | HTTP 200, 66990 bytes |
-| ℹ️ | GPTBot on store | 531 bytes (GearLaunch challenge page, known platform limit; the guide covers this) |
+| ℹ️ | GPTBot on store | 552 bytes (GearLaunch challenge page, known platform limit; the guide covers this) |
 | ✅ | OAI-SearchBot can read guide | HTTP 200, 66990 bytes |
-| ℹ️ | OAI-SearchBot on store | 508 bytes (GearLaunch challenge page, known platform limit; the guide covers this) |
+| ℹ️ | OAI-SearchBot on store | 505 bytes (GearLaunch challenge page, known platform limit; the guide covers this) |
 | ✅ | PerplexityBot can read guide | HTTP 200, 66990 bytes |
-| ℹ️ | PerplexityBot on store | 552 bytes (GearLaunch challenge page, known platform limit; the guide covers this) |
+| ℹ️ | PerplexityBot on store | 570 bytes (GearLaunch challenge page, known platform limit; the guide covers this) |
 | ✅ | ClaudeBot can read guide | HTTP 200, 66990 bytes |
-| ℹ️ | ClaudeBot on store | 533 bytes (GearLaunch challenge page, known platform limit; the guide covers this) |
+| ℹ️ | ClaudeBot on store | 552 bytes (GearLaunch challenge page, known platform limit; the guide covers this) |
 
 ## Store SEO
 
 | | Check | Detail |
 |---|---|---|
 | ✅ | Rendered / | title 53ch, desc 160ch, H1 x1, canonical yes, schema Organization/WebSite |
-| ✅ | Rendered /every-student-can-learn-tee | title 62ch, desc 159ch, H1 x1, canonical yes, schema Organization/WebSite/Product/BreadcrumbList |
+| ⚠️ | Rendered /christmas-word-stack-merry-bright-tee | title 72ch, desc 158ch, H1 x1, canonical yes, schema Organization/WebSite/Product/BreadcrumbList |
 | ✅ | Rendered /_/support | title 55ch, desc 147ch, H1 x1, canonical yes, schema Organization/WebSite |
 
 ## Entity
@@ -75,7 +75,7 @@
 
 | | Check | Detail |
 |---|---|---|
-| ⚠️ | Descriptions under 200 characters | christmas-word-stack-merry-bright-tee, school-nurse-halloween-tee, night-scholar-owl-tee, dog-mom-paws-christmas-cheer-tee, haunted-scholar-autumn-academia-tee, teaching-is-my-boo, woodland-christmas-winter-cheer-tee, winter-wolf-christmas-moon-tee |
+| ⚠️ | Descriptions under 200 characters | christmas-word-stack-merry-bright-tee, dog-mom-paws-christmas-cheer-tee, school-nurse-halloween-tee, night-scholar-owl-tee, haunted-scholar-autumn-academia-tee, teaching-is-my-boo, woodland-christmas-winter-cheer-tee, winter-wolf-christmas-moon-tee |
 | ✅ | FAQ covers core buyer questions | 7 topics |
 | ⚠️ | Collections with fewer than 5 designs (content/design gap) | new-year (2) |
 
