@@ -1,90 +1,6 @@
 {
- "fetchedAt": "2026-10-27T06:17:32.405Z",
+ "fetchedAt": "2026-10-27T18:42:46.664Z",
  "products": [
-  {
-   "path": "christmas-word-stack-merry-bright-tee",
-   "name": "Christmas Word Stack T-Shirt | Merry Bright Joy & Cozy Typography Design",
-   "price": "$24.99",
-   "tags": [
-    "christmas"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFiZWQzMmU4LWQ1N2MtNDUxOS1hMjY5LTNmZTdmZmI4YjIwZg&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6d07120d62aba5b79f9a75dfb3b1842c",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFiZWQzMmU4LWQ1N2MtNDUxOS1hMjY5LTNmZTdmZmI4YjIwZg&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6d07120d62aba5b79f9a75dfb3b1842c",
-   "stealthy": false,
-   "title": "Christmas Word Stack T-Shirt | Merry Bright Joy & Cozy Typography Design",
-   "description": "Stacked lettering spells out Christmas, Merry, Bright, Joy and Cozy. A simple, pretty Christmas words shirt that is easy to read at a glance and works well for family matching sets and gifts.",
-   "active": true,
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Carolina Blue",
-      "Deep Red",
-      "Fatigue Green",
-      "Forest Green",
-      "Gold",
-      "Light Blue",
-      "Light Steel",
-      "Maroon",
-      "Orange",
-      "Pink",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$39.99",
-     "colors": [
-      "Ash Grey",
-      "Black",
-      "Dark Heather",
-      "Graphite Heather",
-      "Light Blue",
-      "Light Pink",
-      "Sand",
-      "Sport Grey",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ]
-    }
-   ]
-  },
   {
    "path": "dog-mom-paws-christmas-cheer-tee",
    "name": "Dog Mom Christmas Shirt | Paws & Christmas Cheer Holiday Pet Design",
@@ -3403,6 +3319,90 @@
    ]
   },
   {
+   "path": "fox-2027-new-horizon-tee",
+   "name": "Fox 2027 T-Shirt | New Horizon New Year Woodland Graphic Design",
+   "price": "$24.99",
+   "tags": [
+    "new-year"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2YyOTA0ODc5LTY0NTItNDA1ZS05ZjVlLWM3NWRmNTNhN2Q1Mw&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=ec1b7825ad9aace89500cd7e0565335e",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2YyOTA0ODc5LTY0NTItNDA1ZS05ZjVlLWM3NWRmNTNhN2Q1Mw&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=ec1b7825ad9aace89500cd7e0565335e",
+   "stealthy": false,
+   "title": "Fox 2027 T-Shirt | New Horizon New Year Woodland Graphic Design",
+   "description": "A fox facing a sunrise horizon with the year 2027, a symbol of fresh starts. An inspiring New Year's shirt that also suits resolutions, graduations and new-chapter gifts.",
+   "active": true,
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Carolina Blue",
+      "Deep Red",
+      "Fatigue Green",
+      "Forest Green",
+      "Gold",
+      "Light Blue",
+      "Light Steel",
+      "Maroon",
+      "Orange",
+      "Pink",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$39.99",
+     "colors": [
+      "Ash Grey",
+      "Black",
+      "Dark Heather",
+      "Graphite Heather",
+      "Light Blue",
+      "Light Pink",
+      "Sand",
+      "Sport Grey",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ]
+    }
+   ]
+  },
+  {
    "path": "crow-librarian-haunted-library-tee",
    "name": "Crow Librarian T-Shirt | Haunted Library Dark Academia Halloween Design",
    "price": "$24.99",
@@ -3750,6 +3750,90 @@
    "stealthy": false,
    "title": "Halloween Teacher Shirt | Class After Dark Spooky Educator Design",
    "description": "Chalkboard lettering reads Class After Dark, surrounded by bats and moons. A fun Halloween shirt for teachers, made for classroom parties and spooky-season school days.",
+   "active": true,
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Carolina Blue",
+      "Deep Red",
+      "Fatigue Green",
+      "Forest Green",
+      "Gold",
+      "Light Blue",
+      "Light Steel",
+      "Maroon",
+      "Orange",
+      "Pink",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$39.99",
+     "colors": [
+      "Ash Grey",
+      "Black",
+      "Dark Heather",
+      "Graphite Heather",
+      "Light Blue",
+      "Light Pink",
+      "Sand",
+      "Sport Grey",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ]
+    }
+   ]
+  },
+  {
+   "path": "christmas-word-stack-merry-bright-tee",
+   "name": "Christmas Word Stack T-Shirt | Merry Bright Joy & Cozy Typography Design",
+   "price": "$24.99",
+   "tags": [
+    "christmas"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFiZWQzMmU4LWQ1N2MtNDUxOS1hMjY5LTNmZTdmZmI4YjIwZg&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6d07120d62aba5b79f9a75dfb3b1842c",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFiZWQzMmU4LWQ1N2MtNDUxOS1hMjY5LTNmZTdmZmI4YjIwZg&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6d07120d62aba5b79f9a75dfb3b1842c",
+   "stealthy": false,
+   "title": "Christmas Word Stack T-Shirt | Merry Bright Joy & Cozy Typography Design",
+   "description": "Stacked lettering spells out Christmas, Merry, Bright, Joy and Cozy. A simple, pretty Christmas words shirt that is easy to read at a glance and works well for family matching sets and gifts.",
    "active": true,
    "products": [
     {
