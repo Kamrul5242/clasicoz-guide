@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-31T07:00:40.760Z",
+ "fetchedAt": "2026-10-31T17:44:51.280Z",
  "products": [
   {
    "path": "dog-mom-paws-christmas-cheer-tee",
@@ -81,97 +81,6 @@
      ],
      "sizes": [
       "11oz"
-     ]
-    }
-   ]
-  },
-  {
-   "path": "meowy-christmas-cat-tee",
-   "name": "Meowy Christmas T-Shirt | Funny Cat Lover Holiday Design",
-   "price": "$24.99",
-   "tags": [
-    "christmas"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2MxMzdmOWFiLWRiMDQtNGU2Yi04Yjc1LTIzMDM3MTdkMDA1Nw&markw=181&markx=154&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0748df8736d5f91a6d24472ba6a3d76a",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2MxMzdmOWFiLWRiMDQtNGU2Yi04Yjc1LTIzMDM3MTdkMDA1Nw&markw=181&markx=154&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0748df8736d5f91a6d24472ba6a3d76a",
-   "stealthy": false,
-   "title": "Meowy Christmas T-Shirt | Funny Cat Lover Holiday Design",
-   "description": "Three cozy cats bundled in Santa hats and scarves answer the search for a cute, funny Christmas shirt for cat lovers. Meowy Christmas gives cat owners a playful pun-based holiday tee that works for family photos, ugly-sweater parties, or everyday festive wear all season long.",
-   "active": true,
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Charcoal Heather",
-      "Deep Forest",
-      "Deep Red",
-      "Deep Royal",
-      "Fatigue Green",
-      "Gold",
-      "Kelly Green",
-      "Maroon",
-      "Navy",
-      "Orange",
-      "Pink",
-      "Purple",
-      "Sand"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black"
-     ],
-     "sizes": [
-      "11oz"
-     ]
-    },
-    {
-     "type": "IPHONE CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ]
-    },
-    {
-     "type": "SAMSUNG GALAXY CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ]
-    },
-    {
-     "type": "CANVAS PRINT",
-     "category": "Canvas Prints",
-     "price": "$34.00",
-     "colors": [
-      "Black"
-     ],
-     "sizes": [
-      "only"
      ]
     }
    ]
@@ -347,100 +256,6 @@
      ],
      "sizes": [
       "11oz"
-     ]
-    }
-   ]
-  },
-  {
-   "path": "every-student-can-learn-tee",
-   "name": "Every Student Can Learn T-Shirt | Inspirational Teacher Design",
-   "price": "$24.99",
-   "tags": [
-    "halloween"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=LzhhMjFlNzQwLTUyMDMtNDBmNy1iYWUzLTUxOTQ1M2U4NTJiNQ&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=da732d63eb8c9fdc8f0f7a9ffa75fdbb",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=LzhhMjFlNzQwLTUyMDMtNDBmNy1iYWUzLTUxOTQ1M2U4NTJiNQ&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=da732d63eb8c9fdc8f0f7a9ffa75fdbb",
-   "stealthy": false,
-   "title": "Every Student Can Learn T-Shirt | Inspirational Teacher Design",
-   "description": "A whimsical tree decorated with Halloween ornaments and the message Every Student Can Learn, Just Not On The Same Day Or In The Same Way. A meaningful shirt and gift for special education and classroom teachers.",
-   "active": true,
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Charcoal Heather",
-      "Deep Forest",
-      "Deep Red",
-      "Deep Royal",
-      "Fatigue Green",
-      "Gold",
-      "Kelly Green",
-      "Maroon",
-      "Navy",
-      "Orange",
-      "Pink",
-      "Purple",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ]
-    },
-    {
-     "type": "IPHONE CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ]
-    },
-    {
-     "type": "SAMSUNG GALAXY CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ]
-    },
-    {
-     "type": "CANVAS PRINT",
-     "category": "Canvas Prints",
-     "price": "$34.00",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "only"
      ]
     }
    ]
@@ -5251,6 +5066,97 @@
    ]
   },
   {
+   "path": "meowy-christmas-cat-tee",
+   "name": "Meowy Christmas T-Shirt | Funny Cat Lover Holiday Design",
+   "price": "$24.99",
+   "tags": [
+    "christmas"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2MxMzdmOWFiLWRiMDQtNGU2Yi04Yjc1LTIzMDM3MTdkMDA1Nw&markw=181&markx=154&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0748df8736d5f91a6d24472ba6a3d76a",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2MxMzdmOWFiLWRiMDQtNGU2Yi04Yjc1LTIzMDM3MTdkMDA1Nw&markw=181&markx=154&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0748df8736d5f91a6d24472ba6a3d76a",
+   "stealthy": false,
+   "title": "Meowy Christmas T-Shirt | Funny Cat Lover Holiday Design",
+   "description": "Three cozy cats bundled in Santa hats and scarves answer the search for a cute, funny Christmas shirt for cat lovers. Meowy Christmas gives cat owners a playful pun-based holiday tee that works for family photos, ugly-sweater parties, or everyday festive wear all season long.",
+   "active": true,
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Charcoal Heather",
+      "Deep Forest",
+      "Deep Red",
+      "Deep Royal",
+      "Fatigue Green",
+      "Gold",
+      "Kelly Green",
+      "Maroon",
+      "Navy",
+      "Orange",
+      "Pink",
+      "Purple",
+      "Sand"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black"
+     ],
+     "sizes": [
+      "11oz"
+     ]
+    },
+    {
+     "type": "IPHONE CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    },
+    {
+     "type": "SAMSUNG GALAXY CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    },
+    {
+     "type": "CANVAS PRINT",
+     "category": "Canvas Prints",
+     "price": "$34.00",
+     "colors": [
+      "Black"
+     ],
+     "sizes": [
+      "only"
+     ]
+    }
+   ]
+  },
+  {
    "path": "whiskey-and-christmas-tee",
    "name": "Whiskey and Christmas T-Shirt | Funny Holiday Drinking Design",
    "price": "$24.99",
@@ -6172,6 +6078,100 @@
    "stealthy": false,
    "title": "I Teach The Cutest Owls T-Shirt | Funny Teacher Halloween Design",
    "description": "Three costumed owls perched on a branch with the line I Teach The Cutest Owls On The Branch. A cute, non-scary Halloween shirt for elementary teachers that celebrates their students.",
+   "active": true,
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Charcoal Heather",
+      "Deep Forest",
+      "Deep Red",
+      "Deep Royal",
+      "Fatigue Green",
+      "Gold",
+      "Kelly Green",
+      "Maroon",
+      "Navy",
+      "Orange",
+      "Pink",
+      "Purple",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ]
+    },
+    {
+     "type": "IPHONE CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    },
+    {
+     "type": "SAMSUNG GALAXY CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    },
+    {
+     "type": "CANVAS PRINT",
+     "category": "Canvas Prints",
+     "price": "$34.00",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    }
+   ]
+  },
+  {
+   "path": "every-student-can-learn-tee",
+   "name": "Every Student Can Learn T-Shirt | Inspirational Teacher Design",
+   "price": "$24.99",
+   "tags": [
+    "halloween"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=LzhhMjFlNzQwLTUyMDMtNDBmNy1iYWUzLTUxOTQ1M2U4NTJiNQ&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=da732d63eb8c9fdc8f0f7a9ffa75fdbb",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=LzhhMjFlNzQwLTUyMDMtNDBmNy1iYWUzLTUxOTQ1M2U4NTJiNQ&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=da732d63eb8c9fdc8f0f7a9ffa75fdbb",
+   "stealthy": false,
+   "title": "Every Student Can Learn T-Shirt | Inspirational Teacher Design",
+   "description": "A whimsical tree decorated with Halloween ornaments and the message Every Student Can Learn, Just Not On The Same Day Or In The Same Way. A meaningful shirt and gift for special education and classroom teachers.",
    "active": true,
    "products": [
     {
