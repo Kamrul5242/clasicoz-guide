@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-31T17:44:51.280Z",
+ "fetchedAt": "2026-11-01T07:32:43.888Z",
  "products": [
   {
    "path": "dog-mom-paws-christmas-cheer-tee",
@@ -256,100 +256,6 @@
      ],
      "sizes": [
       "11oz"
-     ]
-    }
-   ]
-  },
-  {
-   "path": "school-nurse-halloween-tee",
-   "name": "School Nurse Too Long T-Shirt | Funny Halloween Nurse Design",
-   "price": "$24.99",
-   "tags": [
-    "halloween"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=L2Q2NjE2YmUyLTVhOTctNDU3ZC1iNjJmLTg0NmQ1ZWIyMjgyZA&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=38cf39aca4cf7e4c2b8295625ffd2539",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=L2Q2NjE2YmUyLTVhOTctNDU3ZC1iNjJmLTg0NmQ1ZWIyMjgyZA&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=38cf39aca4cf7e4c2b8295625ffd2539",
-   "stealthy": false,
-   "title": "School Nurse Too Long T-Shirt | Funny Halloween Nurse Design",
-   "description": "A ghostly Halloween pumpkin nurse with the line You Cant Scare Me, Ive Been a School Nurse Far Too Long. A funny, relatable Halloween shirt for school nurses.",
-   "active": true,
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Charcoal Heather",
-      "Deep Forest",
-      "Deep Red",
-      "Deep Royal",
-      "Fatigue Green",
-      "Gold",
-      "Kelly Green",
-      "Maroon",
-      "Navy",
-      "Orange",
-      "Pink",
-      "Purple",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ]
-    },
-    {
-     "type": "IPHONE CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ]
-    },
-    {
-     "type": "SAMSUNG GALAXY CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ]
-    },
-    {
-     "type": "CANVAS PRINT",
-     "category": "Canvas Prints",
-     "price": "$34.00",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "only"
      ]
     }
    ]
@@ -6078,6 +5984,100 @@
    "stealthy": false,
    "title": "I Teach The Cutest Owls T-Shirt | Funny Teacher Halloween Design",
    "description": "Three costumed owls perched on a branch with the line I Teach The Cutest Owls On The Branch. A cute, non-scary Halloween shirt for elementary teachers that celebrates their students.",
+   "active": true,
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Charcoal Heather",
+      "Deep Forest",
+      "Deep Red",
+      "Deep Royal",
+      "Fatigue Green",
+      "Gold",
+      "Kelly Green",
+      "Maroon",
+      "Navy",
+      "Orange",
+      "Pink",
+      "Purple",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ]
+    },
+    {
+     "type": "IPHONE CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    },
+    {
+     "type": "SAMSUNG GALAXY CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    },
+    {
+     "type": "CANVAS PRINT",
+     "category": "Canvas Prints",
+     "price": "$34.00",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    }
+   ]
+  },
+  {
+   "path": "school-nurse-halloween-tee",
+   "name": "School Nurse Too Long T-Shirt | Funny Halloween Nurse Design",
+   "price": "$24.99",
+   "tags": [
+    "halloween"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=L2Q2NjE2YmUyLTVhOTctNDU3ZC1iNjJmLTg0NmQ1ZWIyMjgyZA&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=38cf39aca4cf7e4c2b8295625ffd2539",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=L2Q2NjE2YmUyLTVhOTctNDU3ZC1iNjJmLTg0NmQ1ZWIyMjgyZA&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=38cf39aca4cf7e4c2b8295625ffd2539",
+   "stealthy": false,
+   "title": "School Nurse Too Long T-Shirt | Funny Halloween Nurse Design",
+   "description": "A ghostly Halloween pumpkin nurse with the line You Cant Scare Me, Ive Been a School Nurse Far Too Long. A funny, relatable Halloween shirt for school nurses.",
    "active": true,
    "products": [
     {
