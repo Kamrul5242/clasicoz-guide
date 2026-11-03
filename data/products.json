@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-02T22:20:47.946Z",
+ "fetchedAt": "2026-11-03T07:56:11.989Z",
  "products": [
   {
    "path": "wired-for-christmas-electrician-tee",
@@ -4892,6 +4892,97 @@
    "stealthy": false,
    "title": "Meowy Christmas T-Shirt | Funny Cat Lover Holiday Design",
    "description": "Three cozy cats bundled in Santa hats and scarves answer the search for a cute, funny Christmas shirt for cat lovers. Meowy Christmas gives cat owners a playful pun-based holiday tee that works for family photos, ugly-sweater parties, or everyday festive wear all season long.",
+   "active": true,
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Charcoal Heather",
+      "Deep Forest",
+      "Deep Red",
+      "Deep Royal",
+      "Fatigue Green",
+      "Gold",
+      "Kelly Green",
+      "Maroon",
+      "Navy",
+      "Orange",
+      "Pink",
+      "Purple",
+      "Sand"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black"
+     ],
+     "sizes": [
+      "11oz"
+     ]
+    },
+    {
+     "type": "IPHONE CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    },
+    {
+     "type": "SAMSUNG GALAXY CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ]
+    },
+    {
+     "type": "CANVAS PRINT",
+     "category": "Canvas Prints",
+     "price": "$34.00",
+     "colors": [
+      "Black"
+     ],
+     "sizes": [
+      "only"
+     ]
+    }
+   ]
+  },
+  {
+   "path": "two-titles-mom-and-grandma-tee",
+   "name": "Two Titles Mom and Grandma T-Shirt | Funny Family Christmas Design",
+   "price": "$24.99",
+   "tags": [
+    "christmas"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzkwY2ViZmQxLWU0NDUtNGQ5YS04MmY2LTZmNTQ1ZjA3NTIwZQ&markw=181&markx=154&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=9e6afd47c5f1acbfb002de96e8b84656",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzkwY2ViZmQxLWU0NDUtNGQ5YS04MmY2LTZmNTQ1ZjA3NTIwZQ&markw=181&markx=154&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=9e6afd47c5f1acbfb002de96e8b84656",
+   "stealthy": false,
+   "title": "Two Titles Mom and Grandma T-Shirt | Funny Family Christmas Design",
+   "description": "A cozy snowman badge celebrating the double role of mom and grandma. A heartfelt Christmas shirt for women who wear both titles proudly, made for family gatherings, gift exchanges and everyday holiday wear.",
    "active": true,
    "products": [
     {
