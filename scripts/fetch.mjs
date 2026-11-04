@@ -108,6 +108,14 @@ const details = await evalRetry(async (paths) => {
       const raw = extractObject(html, 'globalCampaign =');
       if (!raw) { out[p] = { error: 'no-campaign' }; continue; }
       const c = JSON.parse(raw);
+      // Repeated objects are serialised once with "@id" and later as {"@ref": id}.
+      const refs = {};
+      (function walk(o) {
+        if (!o || typeof o !== 'object') return;
+        if (o['@id'] && !o['@ref']) refs[o['@id']] = o;
+        for (const k in o) walk(o[k]);
+      })(c);
+      const deref = o => (o && o['@ref'] && refs[o['@ref']]) || o;
       const products = [];
       const seenTypes = new Set();
       for (const v of c.variants || []) {
@@ -127,9 +135,22 @@ const details = await evalRetry(async (paths) => {
           price: (v.price && (v.price.pretty || v.price.str)) || null,
           colors: colors.slice(0, 30),
           sizes: sizes.slice(0, 15),
+          // Merchant feed: the default colour as the store first shows it, with per-size surcharges.
+          variantId: typeof v.id === 'string' ? v.id : null,
+          defaultColor: typeof v.defaultColor === 'string' ? v.defaultColor : null,
+          priceCents: (v.price && v.price.amount) || null,
+          ...(() => {
+            const col = deref((v.colors || []).map(deref).find(x => x && x.name === v.defaultColor) || deref((v.colors || [])[0]));
+            if (!col) return {};
+            return {
+              defaultImage: typeof col.imageFeatured === 'string' ? col.imageFeatured : null,
+              sizePrices: (col.sizes || []).map(deref).filter(s => s && (s.pretty || s.name))
+                .map(s => [s.pretty || s.name, (s.surcharge && s.surcharge.amount) || 0]),
+            };
+          })(),
         });
       }
-      out[p] = { title: c.name || null, description: c.descriptionPlain || null, active: c.active !== false, products };
+      out[p] = { title: c.name || null, description: c.descriptionPlain || null, active: c.active !== false, campaignId: c.id ? String(c.id) : null, products };
     } catch (e) { out[p] = { error: String(e).slice(0, 120) }; }
   }
   return out;

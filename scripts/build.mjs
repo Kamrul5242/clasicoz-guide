@@ -396,6 +396,57 @@ out.set('/sitemap.xml', urlset(guideUrls, today));
 // Store URLs, for cross-submission in Search Console / Bing (both hosts are under the verified clasicoz.shop domain).
 out.set('/store-sitemap.xml', urlset([`${STORE}/`, ...products.map(p => p.storeUrl), ...support.map(s => STORE + s.path)], today));
 
+// Google Merchant Center feed (US). One item per design x product x size in the store's default colour,
+// linking to that colour (?s=&c=) so the landing page shows the same image and price. Only sizes with no
+// surcharge are listed, because the landing page can't preselect a size and would show the base price.
+const FEED_TYPES = [
+  { re: /tee/i, label: 'Unisex Classic T-Shirt', apparel: true, ship: '5.99', category: 'Apparel & Accessories > Clothing > Shirts & Tops', ptype: 'T-Shirts' },
+  { re: /hoodie/i, label: 'Unisex Pullover Hoodie', apparel: true, ship: '7.99', category: 'Apparel & Accessories > Clothing > Shirts & Tops', ptype: 'Hoodies' },
+  { re: /mug/i, label: '11oz Ceramic Mug', apparel: false, ship: '6.99', category: 'Home & Garden > Kitchen & Dining > Tableware > Drinkware > Mugs', ptype: 'Mugs' },
+];
+const feedItems = [];
+for (const p of products) {
+  if (!p.campaignId) continue;
+  for (const t of p.types) {
+    const ft = FEED_TYPES.find(f => f.re.test(t.type));
+    if (!ft || !t.variantId || !t.defaultColor || !t.defaultImage || !t.priceCents) continue;
+    const group = `${p.campaignId}-${t.variantId}`;
+    const link = `${STORE}/${p.path}?s=${encodeURIComponent(t.variantId)}&c=${encodeURIComponent(t.defaultColor)}`;
+    for (const [size, surcharge] of t.sizePrices || []) {
+      if (surcharge) continue;
+      const tag = (k, v) => `<g:${k}>${esc(v)}</g:${k}>`;
+      feedItems.push(`<item>
+${tag('id', `${group}-${t.defaultColor}-${size}`.replace(/\s+/g, '').slice(0, 50))}
+${tag('item_group_id', group)}
+<title>${esc(`${p.short.replace(/\s*\b(t-?shirt|tee|shirt)$/i, '')} - ${ft.label}${ft.apparel ? ` (${t.defaultColor}, ${size})` : ''}`.slice(0, 150))}</title>
+<description>${esc(p.desc.slice(0, 4900))}</description>
+<link>${esc(link)}</link>
+${tag('image_link', t.defaultImage)}
+${tag('availability', 'in_stock')}
+${tag('price', `${(t.priceCents / 100).toFixed(2)} USD`)}
+${tag('brand', BRAND)}
+${tag('condition', 'new')}
+${tag('identifier_exists', 'no')}
+${tag('google_product_category', ft.category)}
+${tag('product_type', [ft.ptype, ...(p.tags || []).map(x => COLLECTIONS[x] ? COLLECTIONS[x].name : null).filter(Boolean)].join(' > '))}
+${tag('color', t.defaultColor)}
+${ft.apparel ? [tag('size', size), tag('size_system', 'US'), tag('gender', 'unisex'), tag('age_group', 'adult')].join('\n') : ''}
+<g:shipping><g:country>US</g:country><g:service>Standard</g:service><g:price>${ft.ship} USD</g:price></g:shipping>
+</item>`.replace(/\n\n/g, '\n'));
+    }
+  }
+}
+out.set('/merchant-feed.xml', `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+<channel>
+<title>${esc(BRAND)}</title>
+<link>${STORE}/</link>
+<description>${esc(BRAND)} product feed</description>
+${feedItems.join('\n')}
+</channel>
+</rss>
+`);
+
 out.set('/robots.txt', `# All crawlers welcome, including AI search and assistant crawlers.
 User-agent: *
 Allow: /
