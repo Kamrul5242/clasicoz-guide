@@ -411,7 +411,7 @@ for (const p of products) {
     const ft = FEED_TYPES.find(f => f.re.test(t.type));
     if (!ft || !t.variantId || !t.defaultColor || !t.defaultImage || !t.priceCents) continue;
     const group = `${p.campaignId}-${t.variantId}`;
-    const link = `${STORE}/${p.path}?s=${encodeURIComponent(t.variantId)}&c=${encodeURIComponent(t.defaultColor)}`;
+    const link = `${STORE}/${p.path}?s=${encodeURIComponent(t.variantId)}&c=${encodeURIComponent(t.defaultColor)}&p=FRONT`;
     for (const [size, surcharge] of t.sizePrices || []) {
       if (surcharge) continue;
       const tag = (k, v) => `<g:${k}>${esc(v)}</g:${k}>`;
