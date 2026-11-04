@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-04T07:30:32.808Z",
+ "fetchedAt": "2026-11-04T20:27:23.078Z",
  "products": [
   {
    "path": "wired-for-christmas-electrician-tee",
@@ -857,6 +857,177 @@
    ]
   },
   {
+   "path": "dog-mom-paws-christmas-cheer-tee",
+   "name": "Dog Mom Christmas Shirt | Paws & Christmas Cheer Holiday Pet Design",
+   "price": "$24.99",
+   "tags": [
+    "christmas"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFmODZiM2JkLTY4N2EtNDZiMi1hNGYzLTQ4YTlkOTIwY2I4MQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1040a0f0b3f257049b336215da8f7f33",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFmODZiM2JkLTY4N2EtNDZiMi1hNGYzLTQ4YTlkOTIwY2I4MQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1040a0f0b3f257049b336215da8f7f33",
+   "stealthy": false,
+   "title": "Dog Mom Christmas Shirt | Paws & Christmas Cheer Holiday Pet Design",
+   "description": "Paw prints woven into holiday holly in a design called Paws & Christmas Cheer. A Christmas shirt made for dog moms and a cozy gift for the pet parent on your list.",
+   "active": true,
+   "campaignId": "34739053474",
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Carolina Blue",
+      "Deep Red",
+      "Fatigue Green",
+      "Forest Green",
+      "Gold",
+      "Light Blue",
+      "Light Steel",
+      "Maroon",
+      "Orange",
+      "Pink",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "hanes-5250",
+     "defaultColor": "Black",
+     "priceCents": 2499,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFmODZiM2JkLTY4N2EtNDZiMi1hNGYzLTQ4YTlkOTIwY2I4MQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1040a0f0b3f257049b336215da8f7f33",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ],
+      [
+       "4XL",
+       500
+      ],
+      [
+       "5XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$39.99",
+     "colors": [
+      "Ash Grey",
+      "Black",
+      "Dark Heather",
+      "Graphite Heather",
+      "Light Blue",
+      "Light Pink",
+      "Sand",
+      "Sport Grey",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "gildan-18500",
+     "defaultColor": "Black",
+     "priceCents": 3999,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=LzFmODZiM2JkLTY4N2EtNDZiMi1hNGYzLTQ4YTlkOTIwY2I4MQ&markw=152&markx=164&marky=133&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=5174ec85090ff90963fbd87960c5eea6",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       400
+      ],
+      [
+       "3XL",
+       500
+      ],
+      [
+       "4XL",
+       600
+      ],
+      [
+       "5XL",
+       600
+      ]
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ],
+     "variantId": "ceramic-11",
+     "defaultColor": "White",
+     "priceCents": 1699,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzFmODZiM2JkLTY4N2EtNDZiMi1hNGYzLTQ4YTlkOTIwY2I4MQ&markw=193&markx=189&marky=144&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=5d3ebf15ad01cceb2c4613b473545287",
+     "sizePrices": [
+      [
+       "11oz",
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
    "path": "2027-new-chapter-raven-tee",
    "name": "2027 New Chapter Raven Graphic Tee Design | Dark Academia New Year T-Shirt",
    "price": "$24.99",
@@ -1021,6 +1192,179 @@
      "sizePrices": [
       [
        "11oz",
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "path": "every-student-can-learn-tee",
+   "name": "Every Student Can Learn T-Shirt | Inspirational Teacher Design",
+   "price": "$24.99",
+   "tags": [
+    "halloween"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=LzhhMjFlNzQwLTUyMDMtNDBmNy1iYWUzLTUxOTQ1M2U4NTJiNQ&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=da732d63eb8c9fdc8f0f7a9ffa75fdbb",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=LzhhMjFlNzQwLTUyMDMtNDBmNy1iYWUzLTUxOTQ1M2U4NTJiNQ&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=da732d63eb8c9fdc8f0f7a9ffa75fdbb",
+   "stealthy": false,
+   "title": "Every Student Can Learn T-Shirt | Inspirational Teacher Design",
+   "description": "A whimsical tree decorated with Halloween ornaments and the message Every Student Can Learn, Just Not On The Same Day Or In The Same Way. A meaningful shirt and gift for special education and classroom teachers.",
+   "active": true,
+   "campaignId": "29151594727",
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Charcoal Heather",
+      "Deep Forest",
+      "Deep Red",
+      "Deep Royal",
+      "Fatigue Green",
+      "Gold",
+      "Kelly Green",
+      "Maroon",
+      "Navy",
+      "Orange",
+      "Pink",
+      "Purple",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "hanes-5250",
+     "defaultColor": "White",
+     "priceCents": 2499,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=LzhhMjFlNzQwLTUyMDMtNDBmNy1iYWUzLTUxOTQ1M2U4NTJiNQ&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=da732d63eb8c9fdc8f0f7a9ffa75fdbb",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ],
+      [
+       "4XL",
+       500
+      ],
+      [
+       "5XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ],
+     "variantId": "ceramic-11",
+     "defaultColor": "White",
+     "priceCents": 1699,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzhhMjFlNzQwLTUyMDMtNDBmNy1iYWUzLTUxOTQ1M2U4NTJiNQ&markw=170&markx=200&marky=130&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=9ca3ac65b92cd791031e17ac7981c641",
+     "sizePrices": [
+      [
+       "11oz",
+       0
+      ]
+     ]
+    },
+    {
+     "type": "IPHONE CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ],
+     "variantId": "iphone-15-clear",
+     "defaultColor": "White",
+     "priceCents": 2100,
+     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FIP15_JIC_B_2cc53b4368.png%3Fs%3D9274955d8a095835714a2a64d7fb0ea1&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F8a21e740-5203-40f7-bae3-519453e852b5%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3Daebd81654fac27126a89e3f6b8945908&offsetX=136&offsetY=175&imageWidth=209&bgColor=FFFFFF&mockupWidth=480",
+     "sizePrices": [
+      [
+       "only",
+       0
+      ]
+     ]
+    },
+    {
+     "type": "SAMSUNG GALAXY CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ],
+     "variantId": "galaxy-s24-clear",
+     "defaultColor": "White",
+     "priceCents": 2100,
+     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FSGS24-C_73987ca4e5.png%3Fs%3D466944b03b84ba22d1ef0767d88933a3&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F8a21e740-5203-40f7-bae3-519453e852b5%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3Daebd81654fac27126a89e3f6b8945908&offsetX=149&offsetY=187&imageWidth=179&bgColor=FFFFFF&mockupWidth=480",
+     "sizePrices": [
+      [
+       "only",
+       0
+      ]
+     ]
+    },
+    {
+     "type": "CANVAS PRINT",
+     "category": "Canvas Prints",
+     "price": "$34.00",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ],
+     "variantId": "canvas-16x20",
+     "defaultColor": "White",
+     "priceCents": 3400,
+     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FCanvasPrint-16x20_ffd8cb80d7.png%3Fs%3D580f6aaa4e500fdfe71143705476f83c&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F8a21e740-5203-40f7-bae3-519453e852b5%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3Daebd81654fac27126a89e3f6b8945908&offsetX=98&offsetY=58&imageWidth=280&bgColor=FFFFFF&mockupWidth=480",
+     "sizePrices": [
+      [
+       "only",
        0
       ]
      ]
@@ -5976,177 +6320,6 @@
      "defaultColor": "White",
      "priceCents": 1699,
      "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=L2YyOTA0ODc5LTY0NTItNDA1ZS05ZjVlLWM3NWRmNTNhN2Q1Mw&markw=193&markx=189&marky=144&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=34d6309493818273b8fbf99587dc819d",
-     "sizePrices": [
-      [
-       "11oz",
-       0
-      ]
-     ]
-    }
-   ]
-  },
-  {
-   "path": "dog-mom-paws-christmas-cheer-tee",
-   "name": "Dog Mom Christmas Shirt | Paws & Christmas Cheer Holiday Pet Design",
-   "price": "$24.99",
-   "tags": [
-    "christmas"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFmODZiM2JkLTY4N2EtNDZiMi1hNGYzLTQ4YTlkOTIwY2I4MQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1040a0f0b3f257049b336215da8f7f33",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFmODZiM2JkLTY4N2EtNDZiMi1hNGYzLTQ4YTlkOTIwY2I4MQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1040a0f0b3f257049b336215da8f7f33",
-   "stealthy": false,
-   "title": "Dog Mom Christmas Shirt | Paws & Christmas Cheer Holiday Pet Design",
-   "description": "Paw prints woven into holiday holly in a design called Paws & Christmas Cheer. A Christmas shirt made for dog moms and a cozy gift for the pet parent on your list.",
-   "active": true,
-   "campaignId": "34739053474",
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Carolina Blue",
-      "Deep Red",
-      "Fatigue Green",
-      "Forest Green",
-      "Gold",
-      "Light Blue",
-      "Light Steel",
-      "Maroon",
-      "Orange",
-      "Pink",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "hanes-5250",
-     "defaultColor": "Black",
-     "priceCents": 2499,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFmODZiM2JkLTY4N2EtNDZiMi1hNGYzLTQ4YTlkOTIwY2I4MQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1040a0f0b3f257049b336215da8f7f33",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       350
-      ],
-      [
-       "3XL",
-       450
-      ],
-      [
-       "4XL",
-       500
-      ],
-      [
-       "5XL",
-       500
-      ]
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$39.99",
-     "colors": [
-      "Ash Grey",
-      "Black",
-      "Dark Heather",
-      "Graphite Heather",
-      "Light Blue",
-      "Light Pink",
-      "Sand",
-      "Sport Grey",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "gildan-18500",
-     "defaultColor": "Black",
-     "priceCents": 3999,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=LzFmODZiM2JkLTY4N2EtNDZiMi1hNGYzLTQ4YTlkOTIwY2I4MQ&markw=152&markx=164&marky=133&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=5174ec85090ff90963fbd87960c5eea6",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       400
-      ],
-      [
-       "3XL",
-       500
-      ],
-      [
-       "4XL",
-       600
-      ],
-      [
-       "5XL",
-       600
-      ]
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ],
-     "variantId": "ceramic-11",
-     "defaultColor": "White",
-     "priceCents": 1699,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzFmODZiM2JkLTY4N2EtNDZiMi1hNGYzLTQ4YTlkOTIwY2I4MQ&markw=193&markx=189&marky=144&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=5d3ebf15ad01cceb2c4613b473545287",
      "sizePrices": [
       [
        "11oz",
