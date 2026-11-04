@@ -400,9 +400,9 @@ out.set('/store-sitemap.xml', urlset([`${STORE}/`, ...products.map(p => p.storeU
 // linking to that colour (?s=&c=) so the landing page shows the same image and price. Only sizes with no
 // surcharge are listed, because the landing page can't preselect a size and would show the base price.
 const FEED_TYPES = [
-  { re: /tee/i, label: 'Unisex Classic T-Shirt', apparel: true, ship: '5.99', category: 'Apparel & Accessories > Clothing > Shirts & Tops', ptype: 'T-Shirts' },
-  { re: /hoodie/i, label: 'Unisex Pullover Hoodie', apparel: true, ship: '7.99', category: 'Apparel & Accessories > Clothing > Shirts & Tops', ptype: 'Hoodies' },
-  { re: /mug/i, label: '11oz Ceramic Mug', apparel: false, ship: '6.99', category: 'Home & Garden > Kitchen & Dining > Tableware > Drinkware > Mugs', ptype: 'Mugs' },
+  { re: /tee/i, apparel: true, ship: '5.99', category: 'Apparel & Accessories > Clothing > Shirts & Tops', ptype: 'T-Shirts' },
+  { re: /hoodie/i, apparel: true, ship: '7.99', category: 'Apparel & Accessories > Clothing > Shirts & Tops', ptype: 'Hoodies' },
+  { re: /mug/i, apparel: false, ship: '6.99', category: 'Home & Garden > Kitchen & Dining > Tableware > Drinkware > Mugs', ptype: 'Mugs' },
 ];
 const feedItems = [];
 for (const p of products) {
@@ -418,7 +418,7 @@ for (const p of products) {
       feedItems.push(`<item>
 ${tag('id', `${group}-${t.defaultColor}-${size}`.replace(/\s+/g, '').slice(0, 50))}
 ${tag('item_group_id', group)}
-<title>${esc(`${p.short.replace(/\s*\b(t-?shirt|tee|shirt)$/i, '')} - ${ft.label}${ft.apparel ? ` (${t.defaultColor}, ${size})` : ''}`.slice(0, 150))}</title>
+<title>${esc(`${p.short.replace(/\s*\b(graphic\s+)?(t-?shirt|tee|shirt)(\s+design)?\s*$/i, '')} - ${t.type}${ft.apparel ? ` (${t.defaultColor}, ${size})` : ''}`.slice(0, 150))}</title>
 <description>${esc(p.desc.slice(0, 4900))}</description>
 <link>${esc(link)}</link>
 ${tag('image_link', t.defaultImage)}
@@ -430,7 +430,7 @@ ${tag('identifier_exists', 'no')}
 ${tag('google_product_category', ft.category)}
 ${tag('product_type', [ft.ptype, ...(p.tags || []).map(x => COLLECTIONS[x] ? COLLECTIONS[x].name : null).filter(Boolean)].join(' > '))}
 ${tag('color', t.defaultColor)}
-${ft.apparel ? [tag('size', size), tag('size_system', 'US'), tag('gender', 'unisex'), tag('age_group', 'adult')].join('\n') : ''}
+${ft.apparel ? [tag('size', size), tag('size_system', 'US'), tag('gender', /women/i.test(t.type) ? 'female' : 'unisex'), tag('age_group', 'adult')].join('\n') : ''}
 <g:shipping><g:country>US</g:country><g:service>Standard</g:service><g:price>${ft.ship} USD</g:price></g:shipping>
 </item>`.replace(/\n\n/g, '\n'));
     }
