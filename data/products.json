@@ -1,177 +1,6 @@
 {
- "fetchedAt": "2026-11-05T17:19:45.983Z",
+ "fetchedAt": "2026-11-05T20:41:17.484Z",
  "products": [
-  {
-   "path": "wired-for-christmas-electrician-tee",
-   "name": "Wired for Christmas T-Shirt | Funny Electrician Holiday Graphic Design",
-   "price": "$24.99",
-   "tags": [
-    "christmas"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=300d4b527f2c7025d6564668f5957fb6",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=300d4b527f2c7025d6564668f5957fb6",
-   "stealthy": false,
-   "title": "Wired for Christmas T-Shirt | Funny Electrician Holiday Graphic Design",
-   "description": "A glowing lightbulb in a Santa hat surrounded by pliers, wire strippers and string lights, with the line Wired for Christmas. A funny holiday tee that celebrates the electrician's trade instead of a generic ugly-sweater print, and an easy gift for coworkers and family.",
-   "active": true,
-   "campaignId": "34739081289",
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Carolina Blue",
-      "Deep Red",
-      "Fatigue Green",
-      "Forest Green",
-      "Gold",
-      "Light Blue",
-      "Light Steel",
-      "Maroon",
-      "Orange",
-      "Pink",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "hanes-5250",
-     "defaultColor": "Black",
-     "priceCents": 2499,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=300d4b527f2c7025d6564668f5957fb6",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       350
-      ],
-      [
-       "3XL",
-       450
-      ],
-      [
-       "4XL",
-       500
-      ],
-      [
-       "5XL",
-       500
-      ]
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$39.99",
-     "colors": [
-      "Ash Grey",
-      "Black",
-      "Dark Heather",
-      "Graphite Heather",
-      "Light Blue",
-      "Light Pink",
-      "Sand",
-      "Sport Grey",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "gildan-18500",
-     "defaultColor": "Black",
-     "priceCents": 3999,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=134&markx=173&marky=122&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=72f643eb9ed80d1a681fd731e9af7afe",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       400
-      ],
-      [
-       "3XL",
-       500
-      ],
-      [
-       "4XL",
-       600
-      ],
-      [
-       "5XL",
-       600
-      ]
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ],
-     "variantId": "ceramic-11",
-     "defaultColor": "White",
-     "priceCents": 1699,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=171&markx=200&marky=130&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=8d29efb0b9fb9e1edd8c75ece3141e2d",
-     "sizePrices": [
-      [
-       "11oz",
-       0
-      ]
-     ]
-    }
-   ]
-  },
   {
    "path": "night-scholar-owl-tee",
    "name": "Night Scholar Owl T-Shirt | Dark Academia Bookish Graphic Design",
@@ -2045,6 +1874,177 @@
      "defaultColor": "White",
      "priceCents": 1699,
      "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzQ3MDU1YjNlLTU1MzYtNGJiZi1hZTQ5LTViMDIyMjYwZGEyZA&markw=183&markx=193&marky=133&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=2e02221db246bea083f4d4dc571f387e",
+     "sizePrices": [
+      [
+       "11oz",
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "path": "wired-for-christmas-electrician-tee",
+   "name": "Wired for Christmas T-Shirt | Funny Electrician Holiday Graphic Design",
+   "price": "$24.99",
+   "tags": [
+    "christmas"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=300d4b527f2c7025d6564668f5957fb6",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=300d4b527f2c7025d6564668f5957fb6",
+   "stealthy": false,
+   "title": "Wired for Christmas T-Shirt | Funny Electrician Holiday Graphic Design",
+   "description": "A glowing lightbulb in a Santa hat surrounded by pliers, wire strippers and string lights, with the line Wired for Christmas. A funny holiday tee that celebrates the electrician's trade instead of a generic ugly-sweater print, and an easy gift for coworkers and family.",
+   "active": true,
+   "campaignId": "34739081289",
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Carolina Blue",
+      "Deep Red",
+      "Fatigue Green",
+      "Forest Green",
+      "Gold",
+      "Light Blue",
+      "Light Steel",
+      "Maroon",
+      "Orange",
+      "Pink",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "hanes-5250",
+     "defaultColor": "Black",
+     "priceCents": 2499,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=300d4b527f2c7025d6564668f5957fb6",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ],
+      [
+       "4XL",
+       500
+      ],
+      [
+       "5XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$39.99",
+     "colors": [
+      "Ash Grey",
+      "Black",
+      "Dark Heather",
+      "Graphite Heather",
+      "Light Blue",
+      "Light Pink",
+      "Sand",
+      "Sport Grey",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "gildan-18500",
+     "defaultColor": "Black",
+     "priceCents": 3999,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=134&markx=173&marky=122&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=72f643eb9ed80d1a681fd731e9af7afe",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       400
+      ],
+      [
+       "3XL",
+       500
+      ],
+      [
+       "4XL",
+       600
+      ],
+      [
+       "5XL",
+       600
+      ]
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ],
+     "variantId": "ceramic-11",
+     "defaultColor": "White",
+     "priceCents": 1699,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=171&markx=200&marky=130&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=8d29efb0b9fb9e1edd8c75ece3141e2d",
      "sizePrices": [
       [
        "11oz",
