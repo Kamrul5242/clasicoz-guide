@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-07T18:03:29.175Z",
+ "fetchedAt": "2026-11-08T07:20:00.809Z",
  "products": [
   {
    "path": "night-scholar-owl-tee",
@@ -847,6 +847,177 @@
      "defaultColor": "White",
      "priceCents": 1699,
      "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzFmODZiM2JkLTY4N2EtNDZiMi1hNGYzLTQ4YTlkOTIwY2I4MQ&markw=193&markx=189&marky=144&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=5d3ebf15ad01cceb2c4613b473545287",
+     "sizePrices": [
+      [
+       "11oz",
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "path": "christmas-word-stack-merry-bright-tee",
+   "name": "Christmas Word Stack T-Shirt | Merry Bright Joy & Cozy Typography Design",
+   "price": "$24.99",
+   "tags": [
+    "christmas"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFiZWQzMmU4LWQ1N2MtNDUxOS1hMjY5LTNmZTdmZmI4YjIwZg&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6d07120d62aba5b79f9a75dfb3b1842c",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFiZWQzMmU4LWQ1N2MtNDUxOS1hMjY5LTNmZTdmZmI4YjIwZg&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6d07120d62aba5b79f9a75dfb3b1842c",
+   "stealthy": false,
+   "title": "Christmas Word Stack T-Shirt | Merry Bright Joy & Cozy Typography Design",
+   "description": "Stacked lettering spells out Christmas, Merry, Bright, Joy and Cozy. A simple, pretty Christmas words shirt that is easy to read at a glance and works well for family matching sets and gifts.",
+   "active": true,
+   "campaignId": "34679297192",
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Carolina Blue",
+      "Deep Red",
+      "Fatigue Green",
+      "Forest Green",
+      "Gold",
+      "Light Blue",
+      "Light Steel",
+      "Maroon",
+      "Orange",
+      "Pink",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "hanes-5250",
+     "defaultColor": "Black",
+     "priceCents": 2499,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFiZWQzMmU4LWQ1N2MtNDUxOS1hMjY5LTNmZTdmZmI4YjIwZg&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6d07120d62aba5b79f9a75dfb3b1842c",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ],
+      [
+       "4XL",
+       500
+      ],
+      [
+       "5XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$39.99",
+     "colors": [
+      "Ash Grey",
+      "Black",
+      "Dark Heather",
+      "Graphite Heather",
+      "Light Blue",
+      "Light Pink",
+      "Sand",
+      "Sport Grey",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "gildan-18500",
+     "defaultColor": "Black",
+     "priceCents": 3999,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=LzFiZWQzMmU4LWQ1N2MtNDUxOS1hMjY5LTNmZTdmZmI4YjIwZg&markw=134&markx=173&marky=122&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1fa7d405695b7a994044c70994b08be2",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       400
+      ],
+      [
+       "3XL",
+       500
+      ],
+      [
+       "4XL",
+       600
+      ],
+      [
+       "5XL",
+       600
+      ]
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ],
+     "variantId": "ceramic-11",
+     "defaultColor": "White",
+     "priceCents": 1699,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzFiZWQzMmU4LWQ1N2MtNDUxOS1hMjY5LTNmZTdmZmI4YjIwZg&markw=171&markx=200&marky=130&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=273b75f4120f217aa84ad8cf292d88db",
      "sizePrices": [
       [
        "11oz",
@@ -7175,177 +7346,6 @@
      "defaultColor": "White",
      "priceCents": 1699,
      "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=L2EwNTg3ZTdmLWNmM2QtNDBlMi05ZDRiLTg2YzNlZjRhMmM0Mw&markw=193&markx=189&marky=144&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=04dd0b67b2fd8293206c59e5506a8926",
-     "sizePrices": [
-      [
-       "11oz",
-       0
-      ]
-     ]
-    }
-   ]
-  },
-  {
-   "path": "christmas-word-stack-merry-bright-tee",
-   "name": "Christmas Word Stack T-Shirt | Merry Bright Joy & Cozy Typography Design",
-   "price": "$24.99",
-   "tags": [
-    "christmas"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFiZWQzMmU4LWQ1N2MtNDUxOS1hMjY5LTNmZTdmZmI4YjIwZg&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6d07120d62aba5b79f9a75dfb3b1842c",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFiZWQzMmU4LWQ1N2MtNDUxOS1hMjY5LTNmZTdmZmI4YjIwZg&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6d07120d62aba5b79f9a75dfb3b1842c",
-   "stealthy": false,
-   "title": "Christmas Word Stack T-Shirt | Merry Bright Joy & Cozy Typography Design",
-   "description": "Stacked lettering spells out Christmas, Merry, Bright, Joy and Cozy. A simple, pretty Christmas words shirt that is easy to read at a glance and works well for family matching sets and gifts.",
-   "active": true,
-   "campaignId": "34679297192",
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Carolina Blue",
-      "Deep Red",
-      "Fatigue Green",
-      "Forest Green",
-      "Gold",
-      "Light Blue",
-      "Light Steel",
-      "Maroon",
-      "Orange",
-      "Pink",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "hanes-5250",
-     "defaultColor": "Black",
-     "priceCents": 2499,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzFiZWQzMmU4LWQ1N2MtNDUxOS1hMjY5LTNmZTdmZmI4YjIwZg&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6d07120d62aba5b79f9a75dfb3b1842c",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       350
-      ],
-      [
-       "3XL",
-       450
-      ],
-      [
-       "4XL",
-       500
-      ],
-      [
-       "5XL",
-       500
-      ]
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$39.99",
-     "colors": [
-      "Ash Grey",
-      "Black",
-      "Dark Heather",
-      "Graphite Heather",
-      "Light Blue",
-      "Light Pink",
-      "Sand",
-      "Sport Grey",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "gildan-18500",
-     "defaultColor": "Black",
-     "priceCents": 3999,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=LzFiZWQzMmU4LWQ1N2MtNDUxOS1hMjY5LTNmZTdmZmI4YjIwZg&markw=134&markx=173&marky=122&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1fa7d405695b7a994044c70994b08be2",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       400
-      ],
-      [
-       "3XL",
-       500
-      ],
-      [
-       "4XL",
-       600
-      ],
-      [
-       "5XL",
-       600
-      ]
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ],
-     "variantId": "ceramic-11",
-     "defaultColor": "White",
-     "priceCents": 1699,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzFiZWQzMmU4LWQ1N2MtNDUxOS1hMjY5LTNmZTdmZmI4YjIwZg&markw=171&markx=200&marky=130&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=273b75f4120f217aa84ad8cf292d88db",
      "sizePrices": [
       [
        "11oz",
