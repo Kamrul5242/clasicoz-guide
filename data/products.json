@@ -1,177 +1,6 @@
 {
- "fetchedAt": "2026-11-10T08:26:33.394Z",
+ "fetchedAt": "2026-11-10T20:29:19.265Z",
  "products": [
-  {
-   "path": "night-scholar-owl-tee",
-   "name": "Night Scholar Owl T-Shirt | Dark Academia Bookish Graphic Design",
-   "price": "$24.99",
-   "tags": [
-    "halloween"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6ef7a4605fefc638236ee904c47985cc",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6ef7a4605fefc638236ee904c47985cc",
-   "stealthy": false,
-   "title": "Night Scholar Owl T-Shirt | Dark Academia Bookish Graphic Design",
-   "description": "An owl perched atop a stack of books under moonlight. A thoughtful dark academia shirt and gift for teachers, grad students and late-night readers.",
-   "active": true,
-   "campaignId": "34721730271",
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Carolina Blue",
-      "Deep Red",
-      "Fatigue Green",
-      "Forest Green",
-      "Gold",
-      "Light Blue",
-      "Light Steel",
-      "Maroon",
-      "Orange",
-      "Pink",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "hanes-5250",
-     "defaultColor": "Black",
-     "priceCents": 2499,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6ef7a4605fefc638236ee904c47985cc",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       350
-      ],
-      [
-       "3XL",
-       450
-      ],
-      [
-       "4XL",
-       500
-      ],
-      [
-       "5XL",
-       500
-      ]
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$39.99",
-     "colors": [
-      "Ash Grey",
-      "Black",
-      "Dark Heather",
-      "Graphite Heather",
-      "Light Blue",
-      "Light Pink",
-      "Sand",
-      "Sport Grey",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "gildan-18500",
-     "defaultColor": "Black",
-     "priceCents": 3999,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=152&markx=164&marky=133&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=68c689ae9aefc4ede6e458ce3beb6f7c",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       400
-      ],
-      [
-       "3XL",
-       500
-      ],
-      [
-       "4XL",
-       600
-      ],
-      [
-       "5XL",
-       600
-      ]
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ],
-     "variantId": "ceramic-11",
-     "defaultColor": "White",
-     "priceCents": 1699,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=193&markx=189&marky=144&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=b12c8f1bb945f24f6e9086b25bf56e99",
-     "sizePrices": [
-      [
-       "11oz",
-       0
-      ]
-     ]
-    }
-   ]
-  },
   {
    "path": "gathering-of-crows-tee",
    "name": "Gathering of Crows T-Shirt | Gothic Halloween Murder of Crows Design",
@@ -3413,6 +3242,177 @@
      "defaultColor": "White",
      "priceCents": 1699,
      "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=Lzg1ZDRjMjM3LWJiMjAtNDVkMS05NjkwLTM5MjNjZThmYTVjMQ&markw=193&markx=189&marky=180&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=85681ff03d7f30423283099e312d6ec1",
+     "sizePrices": [
+      [
+       "11oz",
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "path": "night-scholar-owl-tee",
+   "name": "Night Scholar Owl T-Shirt | Dark Academia Bookish Graphic Design",
+   "price": "$24.99",
+   "tags": [
+    "halloween"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6ef7a4605fefc638236ee904c47985cc",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6ef7a4605fefc638236ee904c47985cc",
+   "stealthy": false,
+   "title": "Night Scholar Owl T-Shirt | Dark Academia Bookish Graphic Design",
+   "description": "An owl perched atop a stack of books under moonlight. A thoughtful dark academia shirt and gift for teachers, grad students and late-night readers.",
+   "active": true,
+   "campaignId": "34721730271",
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Carolina Blue",
+      "Deep Red",
+      "Fatigue Green",
+      "Forest Green",
+      "Gold",
+      "Light Blue",
+      "Light Steel",
+      "Maroon",
+      "Orange",
+      "Pink",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "hanes-5250",
+     "defaultColor": "Black",
+     "priceCents": 2499,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=167&markx=161&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6ef7a4605fefc638236ee904c47985cc",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ],
+      [
+       "4XL",
+       500
+      ],
+      [
+       "5XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$39.99",
+     "colors": [
+      "Ash Grey",
+      "Black",
+      "Dark Heather",
+      "Graphite Heather",
+      "Light Blue",
+      "Light Pink",
+      "Sand",
+      "Sport Grey",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "gildan-18500",
+     "defaultColor": "Black",
+     "priceCents": 3999,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=152&markx=164&marky=133&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=68c689ae9aefc4ede6e458ce3beb6f7c",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       400
+      ],
+      [
+       "3XL",
+       500
+      ],
+      [
+       "4XL",
+       600
+      ],
+      [
+       "5XL",
+       600
+      ]
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ],
+     "variantId": "ceramic-11",
+     "defaultColor": "White",
+     "priceCents": 1699,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=L2U3ZjMzYzllLTU1YWMtNDdlOS1iY2M0LTNiYTE0ZTNhNWYxZQ&markw=193&markx=189&marky=144&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=b12c8f1bb945f24f6e9086b25bf56e99",
      "sizePrices": [
       [
        "11oz",
