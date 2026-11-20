@@ -1,177 +1,6 @@
 {
- "fetchedAt": "2026-11-19T21:34:08.924Z",
+ "fetchedAt": "2026-11-20T08:33:33.073Z",
  "products": [
-  {
-   "path": "winter-whiskers-black-cat-tee",
-   "name": "Winter Whiskers T-Shirt | Cozy Black Cat Christmas Design",
-   "price": "$24.99",
-   "tags": [
-    "christmas"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzJiNzk5ZGEyLTg4NGYtNDE0ZS1iNmNhLWRmMDI0YjBkN2Q2Yg&markw=166&markx=162&marky=102&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=e99d94263e790da769e856c537406785",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzJiNzk5ZGEyLTg4NGYtNDE0ZS1iNmNhLWRmMDI0YjBkN2Q2Yg&markw=166&markx=162&marky=102&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=e99d94263e790da769e856c537406785",
-   "stealthy": false,
-   "title": "Winter Whiskers T-Shirt | Cozy Black Cat Christmas Design",
-   "description": "A black cat wrapped in a cozy red scarf under a full winter moon, with storybook village scenery and warm lantern light. A gentle, festive holiday shirt for cat lovers who prefer charm over loud graphics.",
-   "active": true,
-   "campaignId": "34721634648",
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Carolina Blue",
-      "Deep Red",
-      "Fatigue Green",
-      "Forest Green",
-      "Gold",
-      "Light Blue",
-      "Light Steel",
-      "Maroon",
-      "Orange",
-      "Pink",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "hanes-5250",
-     "defaultColor": "Black",
-     "priceCents": 2499,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzJiNzk5ZGEyLTg4NGYtNDE0ZS1iNmNhLWRmMDI0YjBkN2Q2Yg&markw=166&markx=162&marky=102&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=e99d94263e790da769e856c537406785",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       350
-      ],
-      [
-       "3XL",
-       450
-      ],
-      [
-       "4XL",
-       500
-      ],
-      [
-       "5XL",
-       500
-      ]
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$39.99",
-     "colors": [
-      "Ash Grey",
-      "Black",
-      "Dark Heather",
-      "Graphite Heather",
-      "Light Blue",
-      "Light Pink",
-      "Sand",
-      "Sport Grey",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "gildan-18500",
-     "defaultColor": "Black",
-     "priceCents": 3999,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=LzJiNzk5ZGEyLTg4NGYtNDE0ZS1iNmNhLWRmMDI0YjBkN2Q2Yg&markw=151&markx=165&marky=134&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=5e95c5dda98e2b5d6d670a0de79875b6",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       400
-      ],
-      [
-       "3XL",
-       500
-      ],
-      [
-       "4XL",
-       600
-      ],
-      [
-       "5XL",
-       600
-      ]
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ],
-     "variantId": "ceramic-11",
-     "defaultColor": "White",
-     "priceCents": 1699,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzJiNzk5ZGEyLTg4NGYtNDE0ZS1iNmNhLWRmMDI0YjBkN2Q2Yg&markw=192&markx=190&marky=144&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=2965746a8d0e68b52e4b2fc120f2ce6b",
-     "sizePrices": [
-      [
-       "11oz",
-       0
-      ]
-     ]
-    }
-   ]
-  },
   {
    "path": "haunted-scholar-autumn-academia-tee",
    "name": "Haunted Scholar T-Shirt | Autumn Dark Academia Halloween Design",
@@ -862,8 +691,8 @@
    "tags": [
     "christmas"
    ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzA2YTY5NzI5LTg5NTgtNDU5ZS1hZDllLTk0MzczOGQxZTYzYw&markw=168&markx=161&marky=86&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=de1583d5282583dd11bc863ab04ca55c",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzA2YTY5NzI5LTg5NTgtNDU5ZS1hZDllLTk0MzczOGQxZTYzYw&markw=168&markx=161&marky=86&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=de1583d5282583dd11bc863ab04ca55c",
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=Lzk4NGExYWNiLTIxOTktNGM4NC04OGNkLTkwNGQ1NGEyODQzOQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0235a5c50ad4e1fc09b3c751f8dc4bc4",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=Lzk4NGExYWNiLTIxOTktNGM4NC04OGNkLTkwNGQ1NGEyODQzOQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0235a5c50ad4e1fc09b3c751f8dc4bc4",
    "stealthy": false,
    "title": "Woodland Christmas T-Shirt | Winter Cheer Forest Animal Holiday Design",
    "description": "A fox, an owl and a deer gather beneath snow-laden pines in this cozy woodland Christmas scene. A holiday shirt for nature lovers who would rather not pick just one animal.",
@@ -902,7 +731,7 @@
      "variantId": "hanes-5250",
      "defaultColor": "Black",
      "priceCents": 2499,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzA2YTY5NzI5LTg5NTgtNDU5ZS1hZDllLTk0MzczOGQxZTYzYw&markw=168&markx=161&marky=86&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=de1583d5282583dd11bc863ab04ca55c",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=Lzk4NGExYWNiLTIxOTktNGM4NC04OGNkLTkwNGQ1NGEyODQzOQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0235a5c50ad4e1fc09b3c751f8dc4bc4",
      "sizePrices": [
       [
        "S",
@@ -966,7 +795,7 @@
      "variantId": "gildan-18500",
      "defaultColor": "Black",
      "priceCents": 3999,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=LzA2YTY5NzI5LTg5NTgtNDU5ZS1hZDllLTk0MzczOGQxZTYzYw&markw=152&markx=164&marky=119&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=ee87518518cc42947d8112d47a91d1ab",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=Lzk4NGExYWNiLTIxOTktNGM4NC04OGNkLTkwNGQ1NGEyODQzOQ&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6f350839171e78ac92fb1706080f318f",
      "sizePrices": [
       [
        "S",
@@ -1016,7 +845,7 @@
      "variantId": "ceramic-11",
      "defaultColor": "White",
      "priceCents": 1699,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzA2YTY5NzI5LTg5NTgtNDU5ZS1hZDllLTk0MzczOGQxZTYzYw&markw=193&markx=189&marky=126&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=5a187152f6d7d202347003055b3738cf",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=Lzk4NGExYWNiLTIxOTktNGM4NC04OGNkLTkwNGQ1NGEyODQzOQ&markw=236&markx=168&marky=104&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=10390558182734f13b92aaa7efd8f86d",
      "sizePrices": [
       [
        "11oz",
@@ -1033,8 +862,8 @@
    "tags": [
     "christmas"
    ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzY2ZGVmZjJjLTkzZTktNDhjNS1iNWI0LTkyZTRhMDBkMzk0MQ&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=3a58dd31284dd0493b5285c846e80bb7",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzY2ZGVmZjJjLTkzZTktNDhjNS1iNWI0LTkyZTRhMDBkMzk0MQ&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=3a58dd31284dd0493b5285c846e80bb7",
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzRiZDJlZTY3LTcwMDYtNDQ4My05MWQ0LWU3YTc1MTgwODI5YQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=4c7db20908efdc89241252714e933e9c",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzRiZDJlZTY3LTcwMDYtNDQ4My05MWQ0LWU3YTc1MTgwODI5YQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=4c7db20908efdc89241252714e933e9c",
    "stealthy": false,
    "title": "Dark Christmas Night T-Shirt | Gothic Crow Winter Holiday Design",
    "description": "A crow silhouetted against a snowy midnight sky, for a moody, gothic take on Christmas. Made for anyone who finds bright red-and-green holiday designs too sweet and wants something different from Santa.",
@@ -1073,7 +902,7 @@
      "variantId": "hanes-5250",
      "defaultColor": "Black",
      "priceCents": 2499,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzY2ZGVmZjJjLTkzZTktNDhjNS1iNWI0LTkyZTRhMDBkMzk0MQ&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=3a58dd31284dd0493b5285c846e80bb7",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzRiZDJlZTY3LTcwMDYtNDQ4My05MWQ0LWU3YTc1MTgwODI5YQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=4c7db20908efdc89241252714e933e9c",
      "sizePrices": [
       [
        "S",
@@ -1137,7 +966,7 @@
      "variantId": "gildan-18500",
      "defaultColor": "Black",
      "priceCents": 3999,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=LzY2ZGVmZjJjLTkzZTktNDhjNS1iNWI0LTkyZTRhMDBkMzk0MQ&markw=134&markx=173&marky=122&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=3f229a5fd2cbe8938eb7ded1604d88a2",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=LzRiZDJlZTY3LTcwMDYtNDQ4My05MWQ0LWU3YTc1MTgwODI5YQ&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6b33d8c8fe0c58a4a995e6eb3d5e82b9",
      "sizePrices": [
       [
        "S",
@@ -1187,7 +1016,7 @@
      "variantId": "ceramic-11",
      "defaultColor": "White",
      "priceCents": 1699,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzY2ZGVmZjJjLTkzZTktNDhjNS1iNWI0LTkyZTRhMDBkMzk0MQ&markw=170&markx=200&marky=130&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=052107e50219a7b2fe79de08993877f2",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzRiZDJlZTY3LTcwMDYtNDQ4My05MWQ0LWU3YTc1MTgwODI5YQ&markw=236&markx=168&marky=104&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=a13cbbbf084f4dbdd3dcfa3d91c8eb39",
      "sizePrices": [
       [
        "11oz",
@@ -1204,8 +1033,8 @@
    "tags": [
     "christmas"
    ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzQ3MDU1YjNlLTU1MzYtNGJiZi1hZTQ5LTViMDIyMjYwZGEyZA&markw=159&markx=165&marky=92&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=86f36baa3c364d62f06effeeb35d9d80",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzQ3MDU1YjNlLTU1MzYtNGJiZi1hZTQ5LTViMDIyMjYwZGEyZA&markw=159&markx=165&marky=92&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=86f36baa3c364d62f06effeeb35d9d80",
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzgzMDMxM2YwLTE2ZDItNGNmYy1iOWE4LTYyZTQyZWQzYjNlMw&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=924b1565ce7cc6247c61f2707ac2f69c",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzgzMDMxM2YwLTE2ZDItNGNmYy1iOWE4LTYyZTQyZWQzYjNlMw&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=924b1565ce7cc6247c61f2707ac2f69c",
    "stealthy": false,
    "title": "Wise & Merry T-Shirt | Christmas Teacher Owl Holiday Design",
    "description": "A wise owl in glasses and a Santa hat perched on a stack of books labeled Teach, Inspire, Change Tomorrow. A heartfelt Christmas shirt and gift for teachers that celebrates the difference they make all year.",
@@ -1244,7 +1073,7 @@
      "variantId": "hanes-5250",
      "defaultColor": "Black",
      "priceCents": 2499,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzQ3MDU1YjNlLTU1MzYtNGJiZi1hZTQ5LTViMDIyMjYwZGEyZA&markw=159&markx=165&marky=92&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=86f36baa3c364d62f06effeeb35d9d80",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzgzMDMxM2YwLTE2ZDItNGNmYy1iOWE4LTYyZTQyZWQzYjNlMw&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=924b1565ce7cc6247c61f2707ac2f69c",
      "sizePrices": [
       [
        "S",
@@ -1308,7 +1137,7 @@
      "variantId": "gildan-18500",
      "defaultColor": "Black",
      "priceCents": 3999,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=LzQ3MDU1YjNlLTU1MzYtNGJiZi1hZTQ5LTViMDIyMjYwZGEyZA&markw=144&markx=168&marky=124&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=920e56b9b1d7c5ce301d0bacebd02e00",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=LzgzMDMxM2YwLTE2ZDItNGNmYy1iOWE4LTYyZTQyZWQzYjNlMw&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=571a9e9f4f11e6ba672f33a58885de2b",
      "sizePrices": [
       [
        "S",
@@ -1358,7 +1187,7 @@
      "variantId": "ceramic-11",
      "defaultColor": "White",
      "priceCents": 1699,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzQ3MDU1YjNlLTU1MzYtNGJiZi1hZTQ5LTViMDIyMjYwZGEyZA&markw=183&markx=193&marky=133&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=2e02221db246bea083f4d4dc571f387e",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzgzMDMxM2YwLTE2ZDItNGNmYy1iOWE4LTYyZTQyZWQzYjNlMw&markw=236&markx=168&marky=104&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=8a454aa715780e2f5051a2f3e6829a33",
      "sizePrices": [
       [
        "11oz",
@@ -1375,8 +1204,8 @@
    "tags": [
     "christmas"
    ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=300d4b527f2c7025d6564668f5957fb6",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=300d4b527f2c7025d6564668f5957fb6",
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzU4ODcxMjQzLWYxZTgtNGZmOC05MzVhLTM4ZTM3NDY4MzdjMw&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=a74f706f716ed3eb257b5f7e3f5d16a6",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzU4ODcxMjQzLWYxZTgtNGZmOC05MzVhLTM4ZTM3NDY4MzdjMw&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=a74f706f716ed3eb257b5f7e3f5d16a6",
    "stealthy": false,
    "title": "Wired for Christmas T-Shirt | Funny Electrician Holiday Graphic Design",
    "description": "A glowing lightbulb in a Santa hat surrounded by pliers, wire strippers and string lights, with the line Wired for Christmas. A funny holiday tee that celebrates the electrician's trade instead of a generic ugly-sweater print, and an easy gift for coworkers and family.",
@@ -1415,7 +1244,7 @@
      "variantId": "hanes-5250",
      "defaultColor": "Black",
      "priceCents": 2499,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=300d4b527f2c7025d6564668f5957fb6",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzU4ODcxMjQzLWYxZTgtNGZmOC05MzVhLTM4ZTM3NDY4MzdjMw&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=a74f706f716ed3eb257b5f7e3f5d16a6",
      "sizePrices": [
       [
        "S",
@@ -1479,7 +1308,7 @@
      "variantId": "gildan-18500",
      "defaultColor": "Black",
      "priceCents": 3999,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=134&markx=173&marky=122&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=72f643eb9ed80d1a681fd731e9af7afe",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=LzU4ODcxMjQzLWYxZTgtNGZmOC05MzVhLTM4ZTM3NDY4MzdjMw&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=32ec5347d2d10cac84134b16725a6b90",
      "sizePrices": [
       [
        "S",
@@ -1529,7 +1358,7 @@
      "variantId": "ceramic-11",
      "defaultColor": "White",
      "priceCents": 1699,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=L2UwYmNhMDRlLWY0NWItNDE4ZC1iNzhkLTFlNTY4NTY0OGM0Mw&markw=171&markx=200&marky=130&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=8d29efb0b9fb9e1edd8c75ece3141e2d",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzU4ODcxMjQzLWYxZTgtNGZmOC05MzVhLTM4ZTM3NDY4MzdjMw&markw=236&markx=168&marky=104&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=384c591f575b19d4833d00726b504b9c",
      "sizePrices": [
       [
        "11oz",
@@ -1546,8 +1375,8 @@
    "tags": [
     "christmas"
    ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2M1OTNkNGFlLWExZWMtNGIwOC1hYTUwLTI1ODJkNTJiZmE3YQ&markw=166&markx=162&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=2e5a605ec930b3c8581472ada341cbfe",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2M1OTNkNGFlLWExZWMtNGIwOC1hYTUwLTI1ODJkNTJiZmE3YQ&markw=166&markx=162&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=2e5a605ec930b3c8581472ada341cbfe",
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzVlNGU1ZjMyLWFjNDYtNGVjYS1hZTExLWI1YmM3Y2M2ODgyOA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=28643ad83bca7adfb774e76ca448e8e4",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzVlNGU1ZjMyLWFjNDYtNGVjYS1hZTExLWI1YmM3Y2M2ODgyOA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=28643ad83bca7adfb774e76ca448e8e4",
    "stealthy": false,
    "title": "Winter Wolf Christmas Moon T-Shirt | Howling Wolf Holiday Graphic Design",
    "description": "A lone wolf howling at a giant winter moon, framed by snowy pines and festive ornaments. A rugged Christmas shirt for outdoorsmen, wolf lovers and anyone who wants holiday style with a wild edge.",
@@ -1586,7 +1415,7 @@
      "variantId": "hanes-5250",
      "defaultColor": "Black",
      "priceCents": 2499,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2M1OTNkNGFlLWExZWMtNGIwOC1hYTUwLTI1ODJkNTJiZmE3YQ&markw=166&markx=162&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=2e5a605ec930b3c8581472ada341cbfe",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzVlNGU1ZjMyLWFjNDYtNGVjYS1hZTExLWI1YmM3Y2M2ODgyOA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=28643ad83bca7adfb774e76ca448e8e4",
      "sizePrices": [
       [
        "S",
@@ -1650,7 +1479,7 @@
      "variantId": "gildan-18500",
      "defaultColor": "Black",
      "priceCents": 3999,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=L2M1OTNkNGFlLWExZWMtNGIwOC1hYTUwLTI1ODJkNTJiZmE3YQ&markw=150&markx=165&marky=133&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=9103d9e81675e1efd5488de1c0f21cbd",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=LzVlNGU1ZjMyLWFjNDYtNGVjYS1hZTExLWI1YmM3Y2M2ODgyOA&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=fff9892fd43d2f87b1af7f7d0a12a864",
      "sizePrices": [
       [
        "S",
@@ -1700,7 +1529,7 @@
      "variantId": "ceramic-11",
      "defaultColor": "White",
      "priceCents": 1699,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=L2M1OTNkNGFlLWExZWMtNGIwOC1hYTUwLTI1ODJkNTJiZmE3YQ&markw=191&markx=190&marky=144&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=5c052e8cf4a6097bdf12dd884caa24ed",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzVlNGU1ZjMyLWFjNDYtNGVjYS1hZTExLWI1YmM3Y2M2ODgyOA&markw=236&markx=168&marky=104&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=122085985694f95caefdc2f36184a18f",
      "sizePrices": [
       [
        "11oz",
