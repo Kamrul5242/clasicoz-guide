@@ -1,13 +1,13 @@
-# Clasicoz monitor — 2026-11-16
+# Clasicoz monitor — 2026-11-23
 
-**0 failing, 2 warnings, 31 ok, 3 skipped, 4 info.**
+**0 failing, 3 warnings, 30 ok, 3 skipped, 4 info.**
 
 ## DNS
 
 | | Check | Detail |
 |---|---|---|
 | ✅ | Nameservers are Cloudflare only | adi.ns.cloudflare.com, lennon.ns.cloudflare.com |
-| ✅ | MX records present | 30 route2.mx.cloudflare.net, 70 route3.mx.cloudflare.net, 21 route1.mx.cloudflare.net |
+| ✅ | MX records present | 70 route3.mx.cloudflare.net, 21 route1.mx.cloudflare.net, 30 route2.mx.cloudflare.net |
 | ✅ | SPF record | v=spf1 include:_spf.mx.cloudflare.net ~all |
 | ✅ | DMARC record | v=DMARC1; p=none; rua=mailto:540a78554e814ecf88fd4b49a93b3c3b@dmarc-reports.cloudflare.net |
 | ✅ | guide CNAME -> GitHub Pages (DNS only) | kamrul5242.github.io |
@@ -24,7 +24,7 @@
 
 | | Check | Detail |
 |---|---|---|
-| ✅ | llms.txt lists every live product | 81 products |
+| ✅ | llms.txt lists every live product | 95 products |
 | ✅ | /sitemap.xml reachable | HTTP 200 |
 | ✅ | /store-sitemap.xml reachable | HTTP 200 |
 | ✅ | /robots.txt reachable | HTTP 200 |
@@ -35,21 +35,21 @@
 
 | | Check | Detail |
 |---|---|---|
-| ✅ | GPTBot can read guide | HTTP 200, 66990 bytes |
-| ℹ️ | GPTBot on store | 552 bytes (GearLaunch challenge page, known platform limit; the guide covers this) |
-| ✅ | OAI-SearchBot can read guide | HTTP 200, 66990 bytes |
-| ℹ️ | OAI-SearchBot on store | 505 bytes (GearLaunch challenge page, known platform limit; the guide covers this) |
-| ✅ | PerplexityBot can read guide | HTTP 200, 66990 bytes |
+| ✅ | GPTBot can read guide | HTTP 200, 76556 bytes |
+| ℹ️ | GPTBot on store | 551 bytes (GearLaunch challenge page, known platform limit; the guide covers this) |
+| ✅ | OAI-SearchBot can read guide | HTTP 200, 76556 bytes |
+| ℹ️ | OAI-SearchBot on store | 506 bytes (GearLaunch challenge page, known platform limit; the guide covers this) |
+| ✅ | PerplexityBot can read guide | HTTP 200, 76556 bytes |
 | ℹ️ | PerplexityBot on store | 572 bytes (GearLaunch challenge page, known platform limit; the guide covers this) |
-| ✅ | ClaudeBot can read guide | HTTP 200, 66990 bytes |
-| ℹ️ | ClaudeBot on store | 549 bytes (GearLaunch challenge page, known platform limit; the guide covers this) |
+| ✅ | ClaudeBot can read guide | HTTP 200, 76556 bytes |
+| ℹ️ | ClaudeBot on store | 555 bytes (GearLaunch challenge page, known platform limit; the guide covers this) |
 
 ## Store SEO
 
 | | Check | Detail |
 |---|---|---|
 | ✅ | Rendered / | title 53ch, desc 160ch, H1 x1, canonical yes, schema Organization/WebSite |
-| ✅ | Rendered /gathering-of-crows-tee | title 50ch, desc 160ch, H1 x1, canonical yes, schema Organization/WebSite/Product/BreadcrumbList |
+| ⚠️ | Rendered /merry-metal | title 62ch, desc 0ch, H1 x1, canonical yes, schema Organization/WebSite/Product/BreadcrumbList |
 | ✅ | Rendered /_/support | title 55ch, desc 147ch, H1 x1, canonical yes, schema Organization/WebSite |
 
 ## Entity
@@ -61,23 +61,23 @@
 | ✅ | Social profiles (sameAs) identical | 3 on store |
 | ✅ | Disambiguation statement present |  |
 | ✅ | Profile reachable: www.tiktok.com | HTTP 200 |
-| ✅ | Profile reachable: www.instagram.com | HTTP 200 |
+| ⚠️ | Profile reachable: www.instagram.com | HTTP 429 |
 | ✅ | Profile reachable: www.facebook.com | HTTP 200 |
 
 ## Catalog
 
 | | Check | Detail |
 |---|---|---|
-| ✅ | Live products | 81 (added 0, removed 0) |
+| ✅ | Live products | 95 (added 14, removed 0) |
 | ✅ | No "Keywords:" spam in descriptions |  |
 
 ## Gaps
 
 | | Check | Detail |
 |---|---|---|
-| ⚠️ | Descriptions under 200 characters | haunted-scholar-autumn-academia-tee, dog-mom-paws-christmas-cheer-tee, christmas-word-stack-merry-bright-tee, teaching-is-my-boo, woodland-christmas-winter-cheer-tee, winter-wolf-christmas-moon-tee, winter-king-christmas-tee, spooky-season-gathering-tee |
+| ⚠️ | Descriptions under 200 characters | merry-metal, naughty-ish-list, christmas-queen, too-tough-to-crumble, cool-santa, vintage-santa-night, merry-dog-mom, sleep-in-resolution |
 | ✅ | FAQ covers core buyer questions | 7 topics |
-| ⚠️ | Collections with fewer than 5 designs (content/design gap) | new-year (2) |
+| ✅ | Collections with fewer than 5 designs (content/design gap) |  |
 
 ## Search
 
