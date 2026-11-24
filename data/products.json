@@ -1,6 +1,177 @@
 {
- "fetchedAt": "2026-11-23T09:05:04.276Z",
+ "fetchedAt": "2026-11-24T00:51:57.197Z",
  "products": [
+  {
+   "path": "halloween-stag-forest-omen-tee",
+   "name": "Halloween Stag T-Shirt | Forest Omen Gothic Woodland Deer Design",
+   "price": "$24.99",
+   "tags": [
+    "halloween"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2I3NzBlNzk0LWI5NjEtNGJiNy1iNzhkLThhNDM2MTI0MzdiNA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=77707d0fcac6a48a815694308e205d61",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2I3NzBlNzk0LWI5NjEtNGJiNy1iNzhkLThhNDM2MTI0MzdiNA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=77707d0fcac6a48a815694308e205d61",
+   "stealthy": false,
+   "title": "Halloween Stag T-Shirt | Forest Omen Gothic Woodland Deer Design",
+   "description": "An antlered stag standing beneath a blood-orange Halloween moon, a figure tied to omens and the wild unknown in folklore. A striking, gallery-poster style Halloween shirt for hunters, cabin owners and gothic nature fans.",
+   "active": true,
+   "campaignId": "34742540232",
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Carolina Blue",
+      "Deep Red",
+      "Fatigue Green",
+      "Forest Green",
+      "Gold",
+      "Light Blue",
+      "Light Steel",
+      "Maroon",
+      "Orange",
+      "Pink",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "hanes-5250",
+     "defaultColor": "Black",
+     "priceCents": 2499,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2I3NzBlNzk0LWI5NjEtNGJiNy1iNzhkLThhNDM2MTI0MzdiNA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=77707d0fcac6a48a815694308e205d61",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ],
+      [
+       "4XL",
+       500
+      ],
+      [
+       "5XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$39.99",
+     "colors": [
+      "Ash Grey",
+      "Black",
+      "Dark Heather",
+      "Graphite Heather",
+      "Light Blue",
+      "Light Pink",
+      "Sand",
+      "Sport Grey",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "gildan-18500",
+     "defaultColor": "Black",
+     "priceCents": 3999,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=L2I3NzBlNzk0LWI5NjEtNGJiNy1iNzhkLThhNDM2MTI0MzdiNA&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=c0d4215803caa02bb60c940b3177b56e",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       400
+      ],
+      [
+       "3XL",
+       500
+      ],
+      [
+       "4XL",
+       600
+      ],
+      [
+       "5XL",
+       600
+      ]
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ],
+     "variantId": "ceramic-11",
+     "defaultColor": "White",
+     "priceCents": 1699,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=L2I3NzBlNzk0LWI5NjEtNGJiNy1iNzhkLThhNDM2MTI0MzdiNA&markw=236&markx=168&marky=104&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=e63edbf0bf9e5361e7cbfbff3111d9e3",
+     "sizePrices": [
+      [
+       "11oz",
+       0
+      ]
+     ]
+    }
+   ]
+  },
   {
    "path": "merry-metal",
    "name": "Merry Metal T-Shirt | Skull Santa Heavy Metal Christmas Design",
@@ -7547,348 +7718,6 @@
      "defaultColor": "White",
      "priceCents": 1699,
      "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzE1YTZhZWJmLTkxMmUtNGM4ZS1hZjQyLWFmYmFlNDhlOWZmYQ&markw=236&markx=168&marky=104&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=87d8036efa4edea31d5f8d6f85438fdd",
-     "sizePrices": [
-      [
-       "11oz",
-       0
-      ]
-     ]
-    }
-   ]
-  },
-  {
-   "path": "halloween-wolf-midnight-howl-tee",
-   "name": "Halloween Wolf T-Shirt | Midnight Howl Gothic Full Moon Design",
-   "price": "$24.99",
-   "tags": [
-    "halloween"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzQwMWU5ZjQ1LTcxODItNDVhMC04MmIzLTkwNjM2YjczZTI1NQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=c9091273801cb846457bd926b6aeda16",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzQwMWU5ZjQ1LTcxODItNDVhMC04MmIzLTkwNjM2YjczZTI1NQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=c9091273801cb846457bd926b6aeda16",
-   "stealthy": false,
-   "title": "Halloween Wolf T-Shirt | Midnight Howl Gothic Full Moon Design",
-   "description": "A wolf howling, silhouetted against a full Halloween moon, in a scene called Midnight Howl. A dramatic Halloween shirt for wolf lovers that pairs with the Winter Wolf Christmas design for a two-season set.",
-   "active": true,
-   "campaignId": "34744366442",
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Carolina Blue",
-      "Deep Red",
-      "Fatigue Green",
-      "Forest Green",
-      "Gold",
-      "Light Blue",
-      "Light Steel",
-      "Maroon",
-      "Orange",
-      "Pink",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "hanes-5250",
-     "defaultColor": "Black",
-     "priceCents": 2499,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzQwMWU5ZjQ1LTcxODItNDVhMC04MmIzLTkwNjM2YjczZTI1NQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=c9091273801cb846457bd926b6aeda16",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       350
-      ],
-      [
-       "3XL",
-       450
-      ],
-      [
-       "4XL",
-       500
-      ],
-      [
-       "5XL",
-       500
-      ]
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$39.99",
-     "colors": [
-      "Ash Grey",
-      "Black",
-      "Dark Heather",
-      "Graphite Heather",
-      "Light Blue",
-      "Light Pink",
-      "Sand",
-      "Sport Grey",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "gildan-18500",
-     "defaultColor": "Black",
-     "priceCents": 3999,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=LzQwMWU5ZjQ1LTcxODItNDVhMC04MmIzLTkwNjM2YjczZTI1NQ&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=d923568b07ba16e331c69375d03999b2",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       400
-      ],
-      [
-       "3XL",
-       500
-      ],
-      [
-       "4XL",
-       600
-      ],
-      [
-       "5XL",
-       600
-      ]
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ],
-     "variantId": "ceramic-11",
-     "defaultColor": "White",
-     "priceCents": 1699,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzQwMWU5ZjQ1LTcxODItNDVhMC04MmIzLTkwNjM2YjczZTI1NQ&markw=236&markx=168&marky=104&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=b1a73c870f53c6bcd8daf8b17780d217",
-     "sizePrices": [
-      [
-       "11oz",
-       0
-      ]
-     ]
-    }
-   ]
-  },
-  {
-   "path": "halloween-stag-forest-omen-tee",
-   "name": "Halloween Stag T-Shirt | Forest Omen Gothic Woodland Deer Design",
-   "price": "$24.99",
-   "tags": [
-    "halloween"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2I3NzBlNzk0LWI5NjEtNGJiNy1iNzhkLThhNDM2MTI0MzdiNA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=77707d0fcac6a48a815694308e205d61",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2I3NzBlNzk0LWI5NjEtNGJiNy1iNzhkLThhNDM2MTI0MzdiNA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=77707d0fcac6a48a815694308e205d61",
-   "stealthy": false,
-   "title": "Halloween Stag T-Shirt | Forest Omen Gothic Woodland Deer Design",
-   "description": "An antlered stag standing beneath a blood-orange Halloween moon, a figure tied to omens and the wild unknown in folklore. A striking, gallery-poster style Halloween shirt for hunters, cabin owners and gothic nature fans.",
-   "active": true,
-   "campaignId": "34742540232",
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Carolina Blue",
-      "Deep Red",
-      "Fatigue Green",
-      "Forest Green",
-      "Gold",
-      "Light Blue",
-      "Light Steel",
-      "Maroon",
-      "Orange",
-      "Pink",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "hanes-5250",
-     "defaultColor": "Black",
-     "priceCents": 2499,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2I3NzBlNzk0LWI5NjEtNGJiNy1iNzhkLThhNDM2MTI0MzdiNA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=77707d0fcac6a48a815694308e205d61",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       350
-      ],
-      [
-       "3XL",
-       450
-      ],
-      [
-       "4XL",
-       500
-      ],
-      [
-       "5XL",
-       500
-      ]
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$39.99",
-     "colors": [
-      "Ash Grey",
-      "Black",
-      "Dark Heather",
-      "Graphite Heather",
-      "Light Blue",
-      "Light Pink",
-      "Sand",
-      "Sport Grey",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "gildan-18500",
-     "defaultColor": "Black",
-     "priceCents": 3999,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=L2I3NzBlNzk0LWI5NjEtNGJiNy1iNzhkLThhNDM2MTI0MzdiNA&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=c0d4215803caa02bb60c940b3177b56e",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       400
-      ],
-      [
-       "3XL",
-       500
-      ],
-      [
-       "4XL",
-       600
-      ],
-      [
-       "5XL",
-       600
-      ]
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ],
-     "variantId": "ceramic-11",
-     "defaultColor": "White",
-     "priceCents": 1699,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=L2I3NzBlNzk0LWI5NjEtNGJiNy1iNzhkLThhNDM2MTI0MzdiNA&markw=236&markx=168&marky=104&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=e63edbf0bf9e5361e7cbfbff3111d9e3",
      "sizePrices": [
       [
        "11oz",
