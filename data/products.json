@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-24T23:02:43.078Z",
+ "fetchedAt": "2026-11-25T05:34:49.022Z",
  "products": [
   {
    "path": "halloween-stag-forest-omen-tee",
@@ -166,6 +166,1033 @@
      "sizePrices": [
       [
        "11oz",
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "path": "gathering-of-crows-shirt",
+   "name": "Gathering of Crows T-Shirt | Gothic Halloween Murder of Crows Design",
+   "price": "$24.99",
+   "tags": [
+    "halloween"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2JmOGMyODBlLWJlMjgtNGM5Mi04ZDI4LWJjYzU3N2I1NWRlNA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=7c9cecab781016fec76ca1f22244319d",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2JmOGMyODBlLWJlMjgtNGM5Mi04ZDI4LWJjYzU3N2I1NWRlNA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=7c9cecab781016fec76ca1f22244319d",
+   "stealthy": false,
+   "title": "Gathering of Crows T-Shirt | Gothic Halloween Murder of Crows Design",
+   "description": "A murder of crows gathered on bare autumn branches, drawn like a nature illustration rather than a cartoon. Made for anyone who wants a moody, gothic fall shirt instead of plastic-looking pumpkins and skeletons, including dark academia fans.",
+   "active": true,
+   "campaignId": "35317797307",
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Carolina Blue",
+      "Deep Red",
+      "Fatigue Green",
+      "Forest Green",
+      "Gold",
+      "Light Blue",
+      "Light Steel",
+      "Maroon",
+      "Orange",
+      "Pink",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "hanes-5250",
+     "defaultColor": "Black",
+     "priceCents": 2499,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2JmOGMyODBlLWJlMjgtNGM5Mi04ZDI4LWJjYzU3N2I1NWRlNA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=7c9cecab781016fec76ca1f22244319d",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ],
+      [
+       "4XL",
+       500
+      ],
+      [
+       "5XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$39.99",
+     "colors": [
+      "Ash Grey",
+      "Black",
+      "Dark Heather",
+      "Graphite Heather",
+      "Light Blue",
+      "Light Pink",
+      "Sand",
+      "Sport Grey",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "gildan-18500",
+     "defaultColor": "Black",
+     "priceCents": 3999,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=L2JmOGMyODBlLWJlMjgtNGM5Mi04ZDI4LWJjYzU3N2I1NWRlNA&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=572373913b06225325a071571968838e",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       400
+      ],
+      [
+       "3XL",
+       500
+      ],
+      [
+       "4XL",
+       600
+      ],
+      [
+       "5XL",
+       600
+      ]
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ],
+     "variantId": "ceramic-11",
+     "defaultColor": "White",
+     "priceCents": 1699,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=L2JmOGMyODBlLWJlMjgtNGM5Mi04ZDI4LWJjYzU3N2I1NWRlNA&markw=236&markx=168&marky=104&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=4e828b29c015121d78bd779eb37e486c",
+     "sizePrices": [
+      [
+       "11oz",
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "path": "every-student-can-learn-shirt",
+   "name": "Every Student Can Learn T-Shirt | Inspirational Teacher Design",
+   "price": "$24.99",
+   "tags": [
+    "halloween"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=L2JmM2IxNTNlLTYwNTEtNDJjNy1iYzAxLWU1ODYwYzIyZjg0Mw&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=e65919eb1f81c2bbed589de9c54f0299",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=L2JmM2IxNTNlLTYwNTEtNDJjNy1iYzAxLWU1ODYwYzIyZjg0Mw&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=e65919eb1f81c2bbed589de9c54f0299",
+   "stealthy": false,
+   "title": "Every Student Can Learn T-Shirt | Inspirational Teacher Design",
+   "description": "A whimsical tree decorated with Halloween ornaments and the message Every Student Can Learn, Just Not On The Same Day Or In The Same Way. A meaningful shirt and gift for special education and classroom teachers.",
+   "active": true,
+   "campaignId": "35301003792",
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Charcoal Heather",
+      "Deep Forest",
+      "Deep Red",
+      "Deep Royal",
+      "Fatigue Green",
+      "Gold",
+      "Kelly Green",
+      "Maroon",
+      "Navy",
+      "Orange",
+      "Pink",
+      "Purple",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "hanes-5250",
+     "defaultColor": "White",
+     "priceCents": 2499,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=L2JmM2IxNTNlLTYwNTEtNDJjNy1iYzAxLWU1ODYwYzIyZjg0Mw&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=e65919eb1f81c2bbed589de9c54f0299",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ],
+      [
+       "4XL",
+       500
+      ],
+      [
+       "5XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ],
+     "variantId": "ceramic-11",
+     "defaultColor": "White",
+     "priceCents": 1699,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=L2JmM2IxNTNlLTYwNTEtNDJjNy1iYzAxLWU1ODYwYzIyZjg0Mw&markw=236&markx=168&marky=104&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=2bdf01734a3eab70e85b29f7d1fe1439",
+     "sizePrices": [
+      [
+       "11oz",
+       0
+      ]
+     ]
+    },
+    {
+     "type": "IPHONE CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ],
+     "variantId": "iphone-15-clear",
+     "defaultColor": "White",
+     "priceCents": 2100,
+     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FIP15_JIC_B_2cc53b4368.png%3Fs%3D9274955d8a095835714a2a64d7fb0ea1&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2Fbf3b153e-6051-42c7-bc01-e5860c22f843%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3D2f41f6400ab0abb82d66333f0db76f84&offsetX=120&offsetY=0&imageWidth=240&bgColor=FFFFFF&mockupWidth=480",
+     "sizePrices": [
+      [
+       "only",
+       0
+      ]
+     ]
+    },
+    {
+     "type": "SAMSUNG GALAXY CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ],
+     "variantId": "galaxy-s24-clear",
+     "defaultColor": "White",
+     "priceCents": 2100,
+     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FSGS24-C_73987ca4e5.png%3Fs%3D466944b03b84ba22d1ef0767d88933a3&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2Fbf3b153e-6051-42c7-bc01-e5860c22f843%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3D2f41f6400ab0abb82d66333f0db76f84&offsetX=135&offsetY=38&imageWidth=205&bgColor=FFFFFF&mockupWidth=480",
+     "sizePrices": [
+      [
+       "only",
+       0
+      ]
+     ]
+    },
+    {
+     "type": "CANVAS PRINT",
+     "category": "Canvas Prints",
+     "price": "$34.00",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ],
+     "variantId": "canvas-16x20",
+     "defaultColor": "White",
+     "priceCents": 3400,
+     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FCanvasPrint-16x20_ffd8cb80d7.png%3Fs%3D580f6aaa4e500fdfe71143705476f83c&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2Fbf3b153e-6051-42c7-bc01-e5860c22f843%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3D2f41f6400ab0abb82d66333f0db76f84&offsetX=45&offsetY=19&imageWidth=388&bgColor=FFFFFF&mockupWidth=480",
+     "sizePrices": [
+      [
+       "only",
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "path": "cant-scare-me-firefighter-shirt",
+   "name": "You Cant Scare Me Firefighter T-Shirt | Funny Halloween Design",
+   "price": "$24.99",
+   "tags": [
+    "halloween"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzI1MTQyZjdmLTFmYmUtNGMwNC1hMDkwLTA5NGIwMmZiMDgyMA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=cd8d53b3b421a5ba0f6d95e2aa0b1f0d",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzI1MTQyZjdmLTFmYmUtNGMwNC1hMDkwLTA5NGIwMmZiMDgyMA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=cd8d53b3b421a5ba0f6d95e2aa0b1f0d",
+   "stealthy": false,
+   "title": "You Cant Scare Me Firefighter T-Shirt | Funny Halloween Design",
+   "description": "A fire truck battling ghosts with the line You Cant Scare Me, Im a Firefighter Who Survived 2020 Pandemic. A bold Halloween shirt for firefighters and first responders who mix job pride with spooky-season humor.",
+   "active": true,
+   "campaignId": "35299713589",
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Charcoal Heather",
+      "Deep Forest",
+      "Deep Red",
+      "Deep Royal",
+      "Fatigue Green",
+      "Gold",
+      "Kelly Green",
+      "Maroon",
+      "Navy",
+      "Orange",
+      "Pink",
+      "Purple",
+      "Sand"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "hanes-5250",
+     "defaultColor": "Black",
+     "priceCents": 2499,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzI1MTQyZjdmLTFmYmUtNGMwNC1hMDkwLTA5NGIwMmZiMDgyMA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=cd8d53b3b421a5ba0f6d95e2aa0b1f0d",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ],
+      [
+       "4XL",
+       500
+      ],
+      [
+       "5XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black"
+     ],
+     "sizes": [
+      "11oz"
+     ],
+     "variantId": "ceramic-11",
+     "defaultColor": "Black",
+     "priceCents": 1699,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=000000&mark64=LzI1MTQyZjdmLTFmYmUtNGMwNC1hMDkwLTA5NGIwMmZiMDgyMA&markw=236&markx=168&marky=104&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=bdc57b88557b7515a8514aa6dfd4833a",
+     "sizePrices": [
+      [
+       "11oz",
+       0
+      ]
+     ]
+    },
+    {
+     "type": "IPHONE CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ],
+     "variantId": "iphone-15-clear",
+     "defaultColor": "White",
+     "priceCents": 2100,
+     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FIP15_JIC_B_2cc53b4368.png%3Fs%3D9274955d8a095835714a2a64d7fb0ea1&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F25142f7f-1fbe-4c04-a090-094b02fb0820%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3D00885cd17ce7af4ab70fa5abb80099e9&offsetX=120&offsetY=0&imageWidth=240&bgColor=FFFFFF&mockupWidth=480",
+     "sizePrices": [
+      [
+       "only",
+       0
+      ]
+     ]
+    },
+    {
+     "type": "SAMSUNG GALAXY CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ],
+     "variantId": "galaxy-s24-clear",
+     "defaultColor": "White",
+     "priceCents": 2100,
+     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FSGS24-C_73987ca4e5.png%3Fs%3D466944b03b84ba22d1ef0767d88933a3&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F25142f7f-1fbe-4c04-a090-094b02fb0820%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3D00885cd17ce7af4ab70fa5abb80099e9&offsetX=135&offsetY=38&imageWidth=205&bgColor=FFFFFF&mockupWidth=480",
+     "sizePrices": [
+      [
+       "only",
+       0
+      ]
+     ]
+    },
+    {
+     "type": "CANVAS PRINT",
+     "category": "Canvas Prints",
+     "price": "$34.00",
+     "colors": [
+      "Black"
+     ],
+     "sizes": [
+      "only"
+     ],
+     "variantId": "canvas-16x20",
+     "defaultColor": "Black",
+     "priceCents": 3400,
+     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FCanvasPrint-16x20_ffd8cb80d7.png%3Fs%3D580f6aaa4e500fdfe71143705476f83c&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F25142f7f-1fbe-4c04-a090-094b02fb0820%3Ffit%3Dclamp%26bg%3D000000%26ixlib%3Djava-1.1.0%26s%3Def289e4d9994c358cb3234ec58dd83ac&offsetX=45&offsetY=19&imageWidth=388&bgColor=000000&mockupWidth=480",
+     "sizePrices": [
+      [
+       "only",
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "path": "dadcula-shirt",
+   "name": "Dadcula T-Shirt | Funny Cool Dad Halloween Design",
+   "price": "$24.99",
+   "tags": [
+    "halloween"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=LzgyYTM3ZjcwLTkxYzUtNGJlMC04Y2RjLWZiZDNlZGY4YTRmYQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=45196c86cc04677d94311dafc2cba6ac",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=LzgyYTM3ZjcwLTkxYzUtNGJlMC04Y2RjLWZiZDNlZGY4YTRmYQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=45196c86cc04677d94311dafc2cba6ac",
+   "stealthy": false,
+   "title": "Dadcula T-Shirt | Funny Cool Dad Halloween Design",
+   "description": "A cool dad with slicked-back hair and spiderweb sunglasses next to the word Dadcula. A funny Halloween shirt with dad-joke energy for dads who don't do costumes.",
+   "active": true,
+   "campaignId": "35342940252",
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Charcoal Heather",
+      "Deep Forest",
+      "Deep Red",
+      "Deep Royal",
+      "Fatigue Green",
+      "Gold",
+      "Kelly Green",
+      "Maroon",
+      "Navy",
+      "Orange",
+      "Pink",
+      "Purple",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "hanes-5250",
+     "defaultColor": "White",
+     "priceCents": 2499,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=LzgyYTM3ZjcwLTkxYzUtNGJlMC04Y2RjLWZiZDNlZGY4YTRmYQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=45196c86cc04677d94311dafc2cba6ac",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ],
+      [
+       "4XL",
+       500
+      ],
+      [
+       "5XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "11oz"
+     ],
+     "variantId": "ceramic-11",
+     "defaultColor": "White",
+     "priceCents": 1699,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzgyYTM3ZjcwLTkxYzUtNGJlMC04Y2RjLWZiZDNlZGY4YTRmYQ&markw=236&markx=168&marky=104&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=7410d177ce3d6bdffc84f8227e45cee2",
+     "sizePrices": [
+      [
+       "11oz",
+       0
+      ]
+     ]
+    },
+    {
+     "type": "IPHONE CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ],
+     "variantId": "iphone-15-clear",
+     "defaultColor": "White",
+     "priceCents": 2100,
+     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FIP15_JIC_B_2cc53b4368.png%3Fs%3D9274955d8a095835714a2a64d7fb0ea1&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F82a37f70-91c5-4be0-8cdc-fbd3edf8a4fa%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3D3ba510db47ff1c7c348079fadb2458fd&offsetX=120&offsetY=0&imageWidth=240&bgColor=FFFFFF&mockupWidth=480",
+     "sizePrices": [
+      [
+       "only",
+       0
+      ]
+     ]
+    },
+    {
+     "type": "SAMSUNG GALAXY CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ],
+     "variantId": "galaxy-s24-clear",
+     "defaultColor": "White",
+     "priceCents": 2100,
+     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FSGS24-C_73987ca4e5.png%3Fs%3D466944b03b84ba22d1ef0767d88933a3&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F82a37f70-91c5-4be0-8cdc-fbd3edf8a4fa%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3D3ba510db47ff1c7c348079fadb2458fd&offsetX=135&offsetY=38&imageWidth=205&bgColor=FFFFFF&mockupWidth=480",
+     "sizePrices": [
+      [
+       "only",
+       0
+      ]
+     ]
+    },
+    {
+     "type": "CANVAS PRINT",
+     "category": "Canvas Prints",
+     "price": "$34.00",
+     "colors": [
+      "Black",
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ],
+     "variantId": "canvas-16x20",
+     "defaultColor": "White",
+     "priceCents": 3400,
+     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FCanvasPrint-16x20_ffd8cb80d7.png%3Fs%3D580f6aaa4e500fdfe71143705476f83c&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F82a37f70-91c5-4be0-8cdc-fbd3edf8a4fa%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3D3ba510db47ff1c7c348079fadb2458fd&offsetX=45&offsetY=19&imageWidth=388&bgColor=FFFFFF&mockupWidth=480",
+     "sizePrices": [
+      [
+       "only",
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "path": "two-titles-mom-and-grandma-shirt",
+   "name": "Two Titles Mom and Grandma T-Shirt | Funny Family Christmas Design",
+   "price": "$24.99",
+   "tags": [
+    "christmas"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzA3NDAzNTljLTdkYjctNDk4MC1iNTM0LTJjMTIzYjU4OTMwMA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=a39f4034f7e9abdb5919c878f7161bdb",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzA3NDAzNTljLTdkYjctNDk4MC1iNTM0LTJjMTIzYjU4OTMwMA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=a39f4034f7e9abdb5919c878f7161bdb",
+   "stealthy": false,
+   "title": "Two Titles Mom and Grandma T-Shirt | Funny Family Christmas Design",
+   "description": "A cozy snowman badge celebrating the double role of mom and grandma. A heartfelt Christmas shirt for women who wear both titles proudly, made for family gatherings, gift exchanges and everyday holiday wear.",
+   "active": true,
+   "campaignId": "35350830005",
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Charcoal Heather",
+      "Deep Forest",
+      "Deep Red",
+      "Deep Royal",
+      "Fatigue Green",
+      "Gold",
+      "Kelly Green",
+      "Maroon",
+      "Navy",
+      "Orange",
+      "Pink",
+      "Purple",
+      "Sand"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "hanes-5250",
+     "defaultColor": "Black",
+     "priceCents": 2499,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzA3NDAzNTljLTdkYjctNDk4MC1iNTM0LTJjMTIzYjU4OTMwMA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=a39f4034f7e9abdb5919c878f7161bdb",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ],
+      [
+       "4XL",
+       500
+      ],
+      [
+       "5XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black"
+     ],
+     "sizes": [
+      "11oz"
+     ],
+     "variantId": "ceramic-11",
+     "defaultColor": "Black",
+     "priceCents": 1699,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=000000&mark64=LzA3NDAzNTljLTdkYjctNDk4MC1iNTM0LTJjMTIzYjU4OTMwMA&markw=236&markx=168&marky=104&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6827816b4f23e5490f94e0a60d01c44d",
+     "sizePrices": [
+      [
+       "11oz",
+       0
+      ]
+     ]
+    },
+    {
+     "type": "IPHONE CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ],
+     "variantId": "iphone-15-clear",
+     "defaultColor": "White",
+     "priceCents": 2100,
+     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FIP15_JIC_B_2cc53b4368.png%3Fs%3D9274955d8a095835714a2a64d7fb0ea1&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F0740359c-7db7-4980-b534-2c123b589300%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3Db409c5f2ebb52fa2b38fd019bde9e766&offsetX=120&offsetY=0&imageWidth=240&bgColor=FFFFFF&mockupWidth=480",
+     "sizePrices": [
+      [
+       "only",
+       0
+      ]
+     ]
+    },
+    {
+     "type": "SAMSUNG GALAXY CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ],
+     "variantId": "galaxy-s24-clear",
+     "defaultColor": "White",
+     "priceCents": 2100,
+     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FSGS24-C_73987ca4e5.png%3Fs%3D466944b03b84ba22d1ef0767d88933a3&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F0740359c-7db7-4980-b534-2c123b589300%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3Db409c5f2ebb52fa2b38fd019bde9e766&offsetX=135&offsetY=38&imageWidth=205&bgColor=FFFFFF&mockupWidth=480",
+     "sizePrices": [
+      [
+       "only",
+       0
+      ]
+     ]
+    },
+    {
+     "type": "CANVAS PRINT",
+     "category": "Canvas Prints",
+     "price": "$34.00",
+     "colors": [
+      "Black"
+     ],
+     "sizes": [
+      "only"
+     ],
+     "variantId": "canvas-16x20",
+     "defaultColor": "Black",
+     "priceCents": 3400,
+     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FCanvasPrint-16x20_ffd8cb80d7.png%3Fs%3D580f6aaa4e500fdfe71143705476f83c&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F0740359c-7db7-4980-b534-2c123b589300%3Ffit%3Dclamp%26bg%3D000000%26ixlib%3Djava-1.1.0%26s%3Dbc2f977d20f545f7251c55f7e95886d6&offsetX=45&offsetY=19&imageWidth=388&bgColor=000000&mockupWidth=480",
+     "sizePrices": [
+      [
+       "only",
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "path": "meowy-christmas-cat-shirt",
+   "name": "Meowy Christmas T-Shirt | Funny Cat Lover Holiday Design",
+   "price": "$24.99",
+   "tags": [
+    "christmas"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2NhNDlkNDU3LTNiODUtNDk3MC04ZDdjLWNmZjI4YjM1NjIzZg&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6fbf52cd19b0d1143c18831c2b1c6019",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2NhNDlkNDU3LTNiODUtNDk3MC04ZDdjLWNmZjI4YjM1NjIzZg&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6fbf52cd19b0d1143c18831c2b1c6019",
+   "stealthy": false,
+   "title": "Meowy Christmas T-Shirt | Funny Cat Lover Holiday Design",
+   "description": "Three cozy cats bundled in Santa hats and scarves answer the search for a cute, funny Christmas shirt for cat lovers. Meowy Christmas gives cat owners a playful pun-based holiday tee that works for family photos, ugly-sweater parties, or everyday festive wear all season long.",
+   "active": true,
+   "campaignId": "35349898350",
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$24.99",
+     "colors": [
+      "Black",
+      "Charcoal Heather",
+      "Deep Forest",
+      "Deep Red",
+      "Deep Royal",
+      "Fatigue Green",
+      "Gold",
+      "Kelly Green",
+      "Maroon",
+      "Navy",
+      "Orange",
+      "Pink",
+      "Purple",
+      "Sand"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "hanes-5250",
+     "defaultColor": "Black",
+     "priceCents": 2499,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2NhNDlkNDU3LTNiODUtNDk3MC04ZDdjLWNmZjI4YjM1NjIzZg&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6fbf52cd19b0d1143c18831c2b1c6019",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ],
+      [
+       "4XL",
+       500
+      ],
+      [
+       "5XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "MUG",
+     "category": "Drinkware",
+     "price": "$16.99",
+     "colors": [
+      "Black"
+     ],
+     "sizes": [
+      "11oz"
+     ],
+     "variantId": "ceramic-11",
+     "defaultColor": "Black",
+     "priceCents": 1699,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=000000&mark64=L2NhNDlkNDU3LTNiODUtNDk3MC04ZDdjLWNmZjI4YjM1NjIzZg&markw=236&markx=168&marky=104&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=a31b31d086acbded5185daf0ab285c0a",
+     "sizePrices": [
+      [
+       "11oz",
+       0
+      ]
+     ]
+    },
+    {
+     "type": "IPHONE CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ],
+     "variantId": "iphone-15-clear",
+     "defaultColor": "White",
+     "priceCents": 2100,
+     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FIP15_JIC_B_2cc53b4368.png%3Fs%3D9274955d8a095835714a2a64d7fb0ea1&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2Fca49d457-3b85-4970-8d7c-cff28b35623f%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3D996d71c0e9bf619a6677dc0f4fa3d291&offsetX=120&offsetY=0&imageWidth=240&bgColor=FFFFFF&mockupWidth=480",
+     "sizePrices": [
+      [
+       "only",
+       0
+      ]
+     ]
+    },
+    {
+     "type": "SAMSUNG GALAXY CLEAR CASE",
+     "category": "Phone Cases",
+     "price": "$21.00",
+     "colors": [
+      "White"
+     ],
+     "sizes": [
+      "only"
+     ],
+     "variantId": "galaxy-s24-clear",
+     "defaultColor": "White",
+     "priceCents": 2100,
+     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FSGS24-C_73987ca4e5.png%3Fs%3D466944b03b84ba22d1ef0767d88933a3&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2Fca49d457-3b85-4970-8d7c-cff28b35623f%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3D996d71c0e9bf619a6677dc0f4fa3d291&offsetX=135&offsetY=38&imageWidth=205&bgColor=FFFFFF&mockupWidth=480",
+     "sizePrices": [
+      [
+       "only",
+       0
+      ]
+     ]
+    },
+    {
+     "type": "CANVAS PRINT",
+     "category": "Canvas Prints",
+     "price": "$34.00",
+     "colors": [
+      "Black"
+     ],
+     "sizes": [
+      "only"
+     ],
+     "variantId": "canvas-16x20",
+     "defaultColor": "Black",
+     "priceCents": 3400,
+     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FCanvasPrint-16x20_ffd8cb80d7.png%3Fs%3D580f6aaa4e500fdfe71143705476f83c&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2Fca49d457-3b85-4970-8d7c-cff28b35623f%3Ffit%3Dclamp%26bg%3D000000%26ixlib%3Djava-1.1.0%26s%3Dd43f3964c898ffb68285fa4f99a31e03&offsetX=45&offsetY=19&imageWidth=388&bgColor=000000&mockupWidth=480",
+     "sizePrices": [
+      [
+       "only",
        0
       ]
      ]
@@ -6943,177 +7970,6 @@
    ]
   },
   {
-   "path": "gathering-of-crows-tee",
-   "name": "Gathering of Crows T-Shirt | Gothic Halloween Murder of Crows Design",
-   "price": "$24.99",
-   "tags": [
-    "halloween"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzkwNDE2NjAzLTdmNTgtNDdmZi1hZDgzLWZhNTEwYjhlM2M2Yg&markw=167&markx=161&marky=133&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=39c73d8d86bf2a5f1a926165384d9de6",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzkwNDE2NjAzLTdmNTgtNDdmZi1hZDgzLWZhNTEwYjhlM2M2Yg&markw=167&markx=161&marky=133&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=39c73d8d86bf2a5f1a926165384d9de6",
-   "stealthy": false,
-   "title": "Gathering of Crows T-Shirt | Gothic Halloween Murder of Crows Design",
-   "description": "A murder of crows gathered on bare autumn branches, drawn like a nature illustration rather than a cartoon. Made for anyone who wants a moody, gothic fall shirt instead of plastic-looking pumpkins and skeletons, including dark academia fans.",
-   "active": true,
-   "campaignId": "34760004996",
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Carolina Blue",
-      "Deep Red",
-      "Fatigue Green",
-      "Forest Green",
-      "Gold",
-      "Light Blue",
-      "Light Steel",
-      "Maroon",
-      "Orange",
-      "Pink",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "hanes-5250",
-     "defaultColor": "Black",
-     "priceCents": 2499,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzkwNDE2NjAzLTdmNTgtNDdmZi1hZDgzLWZhNTEwYjhlM2M2Yg&markw=167&markx=161&marky=133&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=39c73d8d86bf2a5f1a926165384d9de6",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       350
-      ],
-      [
-       "3XL",
-       450
-      ],
-      [
-       "4XL",
-       500
-      ],
-      [
-       "5XL",
-       500
-      ]
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$39.99",
-     "colors": [
-      "Ash Grey",
-      "Black",
-      "Dark Heather",
-      "Graphite Heather",
-      "Light Blue",
-      "Light Pink",
-      "Sand",
-      "Sport Grey",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "gildan-18500",
-     "defaultColor": "Black",
-     "priceCents": 3999,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=LzkwNDE2NjAzLTdmNTgtNDdmZi1hZDgzLWZhNTEwYjhlM2M2Yg&markw=152&markx=164&marky=162&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=c824259bc37643e6852e880ae38768df",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       400
-      ],
-      [
-       "3XL",
-       500
-      ],
-      [
-       "4XL",
-       600
-      ],
-      [
-       "5XL",
-       600
-      ]
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ],
-     "variantId": "ceramic-11",
-     "defaultColor": "White",
-     "priceCents": 1699,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzkwNDE2NjAzLTdmNTgtNDdmZi1hZDgzLWZhNTEwYjhlM2M2Yg&markw=193&markx=189&marky=180&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=4ebb64113664291e6366b1533699971c",
-     "sizePrices": [
-      [
-       "11oz",
-       0
-      ]
-     ]
-    }
-   ]
-  },
-  {
    "path": "fox-2027-new-horizon-tee",
    "name": "Fox 2027 T-Shirt | New Horizon New Year Woodland Graphic Design",
    "price": "$24.99",
@@ -11389,346 +12245,6 @@
    ]
   },
   {
-   "path": "meowy-christmas-cat-tee",
-   "name": "Meowy Christmas T-Shirt | Funny Cat Lover Holiday Design",
-   "price": "$24.99",
-   "tags": [
-    "christmas"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2MxMzdmOWFiLWRiMDQtNGU2Yi04Yjc1LTIzMDM3MTdkMDA1Nw&markw=181&markx=154&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0748df8736d5f91a6d24472ba6a3d76a",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2MxMzdmOWFiLWRiMDQtNGU2Yi04Yjc1LTIzMDM3MTdkMDA1Nw&markw=181&markx=154&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0748df8736d5f91a6d24472ba6a3d76a",
-   "stealthy": false,
-   "title": "Meowy Christmas T-Shirt | Funny Cat Lover Holiday Design",
-   "description": "Three cozy cats bundled in Santa hats and scarves answer the search for a cute, funny Christmas shirt for cat lovers. Meowy Christmas gives cat owners a playful pun-based holiday tee that works for family photos, ugly-sweater parties, or everyday festive wear all season long.",
-   "active": true,
-   "campaignId": "29170254058",
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Charcoal Heather",
-      "Deep Forest",
-      "Deep Red",
-      "Deep Royal",
-      "Fatigue Green",
-      "Gold",
-      "Kelly Green",
-      "Maroon",
-      "Navy",
-      "Orange",
-      "Pink",
-      "Purple",
-      "Sand"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "hanes-5250",
-     "defaultColor": "Black",
-     "priceCents": 2499,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2MxMzdmOWFiLWRiMDQtNGU2Yi04Yjc1LTIzMDM3MTdkMDA1Nw&markw=181&markx=154&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0748df8736d5f91a6d24472ba6a3d76a",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       350
-      ],
-      [
-       "3XL",
-       450
-      ],
-      [
-       "4XL",
-       500
-      ],
-      [
-       "5XL",
-       500
-      ]
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black"
-     ],
-     "sizes": [
-      "11oz"
-     ],
-     "variantId": "ceramic-11",
-     "defaultColor": "Black",
-     "priceCents": 1699,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=000000&mark64=L2MxMzdmOWFiLWRiMDQtNGU2Yi04Yjc1LTIzMDM3MTdkMDA1Nw&markw=208&markx=180&marky=104&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=ba8e7b738af726e00a2d74dfbf202678",
-     "sizePrices": [
-      [
-       "11oz",
-       0
-      ]
-     ]
-    },
-    {
-     "type": "IPHONE CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ],
-     "variantId": "iphone-15-clear",
-     "defaultColor": "White",
-     "priceCents": 2100,
-     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FIP15_JIC_B_2cc53b4368.png%3Fs%3D9274955d8a095835714a2a64d7fb0ea1&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2Fc137f9ab-db04-4e6b-8b75-2303717d0057%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3Df8959d7b1bcd630f45087b970e79b31a&offsetX=135&offsetY=106&imageWidth=209&bgColor=FFFFFF&mockupWidth=480",
-     "sizePrices": [
-      [
-       "only",
-       0
-      ]
-     ]
-    },
-    {
-     "type": "SAMSUNG GALAXY CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ],
-     "variantId": "galaxy-s24-clear",
-     "defaultColor": "White",
-     "priceCents": 2100,
-     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FSGS24-C_73987ca4e5.png%3Fs%3D466944b03b84ba22d1ef0767d88933a3&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2Fc137f9ab-db04-4e6b-8b75-2303717d0057%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3Df8959d7b1bcd630f45087b970e79b31a&offsetX=148&offsetY=128&imageWidth=179&bgColor=FFFFFF&mockupWidth=480",
-     "sizePrices": [
-      [
-       "only",
-       0
-      ]
-     ]
-    },
-    {
-     "type": "CANVAS PRINT",
-     "category": "Canvas Prints",
-     "price": "$34.00",
-     "colors": [
-      "Black"
-     ],
-     "sizes": [
-      "only"
-     ],
-     "variantId": "canvas-16x20",
-     "defaultColor": "Black",
-     "priceCents": 3400,
-     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FCanvasPrint-16x20_ffd8cb80d7.png%3Fs%3D580f6aaa4e500fdfe71143705476f83c&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2Fc137f9ab-db04-4e6b-8b75-2303717d0057%3Ffit%3Dclamp%26bg%3D000000%26ixlib%3Djava-1.1.0%26s%3D80cb1a6f9b58df90d89bf2ff23d62acb&offsetX=66&offsetY=19&imageWidth=343&bgColor=000000&mockupWidth=480",
-     "sizePrices": [
-      [
-       "only",
-       0
-      ]
-     ]
-    }
-   ]
-  },
-  {
-   "path": "two-titles-mom-and-grandma-tee",
-   "name": "Two Titles Mom and Grandma T-Shirt | Funny Family Christmas Design",
-   "price": "$24.99",
-   "tags": [
-    "christmas"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzkwY2ViZmQxLWU0NDUtNGQ5YS04MmY2LTZmNTQ1ZjA3NTIwZQ&markw=181&markx=154&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=9e6afd47c5f1acbfb002de96e8b84656",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzkwY2ViZmQxLWU0NDUtNGQ5YS04MmY2LTZmNTQ1ZjA3NTIwZQ&markw=181&markx=154&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=9e6afd47c5f1acbfb002de96e8b84656",
-   "stealthy": false,
-   "title": "Two Titles Mom and Grandma T-Shirt | Funny Family Christmas Design",
-   "description": "A cozy snowman badge celebrating the double role of mom and grandma. A heartfelt Christmas shirt for women who wear both titles proudly, made for family gatherings, gift exchanges and everyday holiday wear.",
-   "active": true,
-   "campaignId": "29145289567",
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Charcoal Heather",
-      "Deep Forest",
-      "Deep Red",
-      "Deep Royal",
-      "Fatigue Green",
-      "Gold",
-      "Kelly Green",
-      "Maroon",
-      "Navy",
-      "Orange",
-      "Pink",
-      "Purple",
-      "Sand"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "hanes-5250",
-     "defaultColor": "Black",
-     "priceCents": 2499,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzkwY2ViZmQxLWU0NDUtNGQ5YS04MmY2LTZmNTQ1ZjA3NTIwZQ&markw=181&markx=154&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=9e6afd47c5f1acbfb002de96e8b84656",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       350
-      ],
-      [
-       "3XL",
-       450
-      ],
-      [
-       "4XL",
-       500
-      ],
-      [
-       "5XL",
-       500
-      ]
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black"
-     ],
-     "sizes": [
-      "11oz"
-     ],
-     "variantId": "ceramic-11",
-     "defaultColor": "Black",
-     "priceCents": 1699,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=000000&mark64=LzkwY2ViZmQxLWU0NDUtNGQ5YS04MmY2LTZmNTQ1ZjA3NTIwZQ&markw=208&markx=180&marky=104&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=9684e10183e3a94c2743e1b7def72ef3",
-     "sizePrices": [
-      [
-       "11oz",
-       0
-      ]
-     ]
-    },
-    {
-     "type": "IPHONE CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ],
-     "variantId": "iphone-15-clear",
-     "defaultColor": "White",
-     "priceCents": 2100,
-     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FIP15_JIC_B_2cc53b4368.png%3Fs%3D9274955d8a095835714a2a64d7fb0ea1&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F90cebfd1-e445-4d9a-82f6-6f545f07520e%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3D695f22471a24a545a498fe144c398b62&offsetX=135&offsetY=119&imageWidth=211&bgColor=FFFFFF&mockupWidth=480",
-     "sizePrices": [
-      [
-       "only",
-       0
-      ]
-     ]
-    },
-    {
-     "type": "SAMSUNG GALAXY CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ],
-     "variantId": "galaxy-s24-clear",
-     "defaultColor": "White",
-     "priceCents": 2100,
-     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FSGS24-C_73987ca4e5.png%3Fs%3D466944b03b84ba22d1ef0767d88933a3&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F90cebfd1-e445-4d9a-82f6-6f545f07520e%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3D695f22471a24a545a498fe144c398b62&offsetX=148&offsetY=140&imageWidth=180&bgColor=FFFFFF&mockupWidth=480",
-     "sizePrices": [
-      [
-       "only",
-       0
-      ]
-     ]
-    },
-    {
-     "type": "CANVAS PRINT",
-     "category": "Canvas Prints",
-     "price": "$34.00",
-     "colors": [
-      "Black"
-     ],
-     "sizes": [
-      "only"
-     ],
-     "variantId": "canvas-16x20",
-     "defaultColor": "Black",
-     "priceCents": 3400,
-     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FCanvasPrint-16x20_ffd8cb80d7.png%3Fs%3D580f6aaa4e500fdfe71143705476f83c&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F90cebfd1-e445-4d9a-82f6-6f545f07520e%3Ffit%3Dclamp%26bg%3D000000%26ixlib%3Djava-1.1.0%26s%3Dc280a52187a95d2792ab7bfbd77b3a69&offsetX=68&offsetY=6&imageWidth=342&bgColor=000000&mockupWidth=480",
-     "sizePrices": [
-      [
-       "only",
-       0
-      ]
-     ]
-    }
-   ]
-  },
-  {
    "path": "whiskey-and-christmas-tee",
    "name": "Whiskey and Christmas T-Shirt | Funny Holiday Drinking Design",
    "price": "$24.99",
@@ -13259,176 +13775,6 @@
    ]
   },
   {
-   "path": "you-cant-scare-me-firefighter",
-   "name": "You Cant Scare Me Firefighter T-Shirt | Funny Halloween Design",
-   "price": "$24.99",
-   "tags": [
-    "halloween"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzQ3OGQ2Yjg2LTI0MTktNDUxYS04ZjFjLThmYzM1YzVkMWE3ZQ&markw=181&markx=154&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=5d929e0cc512c55976d5c45ec0aef87b",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzQ3OGQ2Yjg2LTI0MTktNDUxYS04ZjFjLThmYzM1YzVkMWE3ZQ&markw=181&markx=154&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=5d929e0cc512c55976d5c45ec0aef87b",
-   "stealthy": false,
-   "title": "You Cant Scare Me Firefighter T-Shirt | Funny Halloween Design",
-   "description": "A fire truck battling ghosts with the line You Cant Scare Me, Im a Firefighter Who Survived 2020 Pandemic. A bold Halloween shirt for firefighters and first responders who mix job pride with spooky-season humor.",
-   "active": true,
-   "campaignId": "29139650602",
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Charcoal Heather",
-      "Deep Forest",
-      "Deep Red",
-      "Deep Royal",
-      "Fatigue Green",
-      "Gold",
-      "Kelly Green",
-      "Maroon",
-      "Navy",
-      "Orange",
-      "Pink",
-      "Purple",
-      "Sand"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "hanes-5250",
-     "defaultColor": "Black",
-     "priceCents": 2499,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzQ3OGQ2Yjg2LTI0MTktNDUxYS04ZjFjLThmYzM1YzVkMWE3ZQ&markw=181&markx=154&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=5d929e0cc512c55976d5c45ec0aef87b",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       350
-      ],
-      [
-       "3XL",
-       450
-      ],
-      [
-       "4XL",
-       500
-      ],
-      [
-       "5XL",
-       500
-      ]
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black"
-     ],
-     "sizes": [
-      "11oz"
-     ],
-     "variantId": "ceramic-11",
-     "defaultColor": "Black",
-     "priceCents": 1699,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=000000&mark64=LzQ3OGQ2Yjg2LTI0MTktNDUxYS04ZjFjLThmYzM1YzVkMWE3ZQ&markw=208&markx=180&marky=104&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=9d5770466ebe26efba642a88a8ffd422",
-     "sizePrices": [
-      [
-       "11oz",
-       0
-      ]
-     ]
-    },
-    {
-     "type": "IPHONE CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ],
-     "variantId": "iphone-15-clear",
-     "defaultColor": "White",
-     "priceCents": 2100,
-     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FIP15_JIC_B_2cc53b4368.png%3Fs%3D9274955d8a095835714a2a64d7fb0ea1&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F478d6b86-2419-451a-8f1c-8fc35c5d1a7e%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3D09e887b3d4d6c68c3088e84471505092&offsetX=135&offsetY=160&imageWidth=209&bgColor=FFFFFF&mockupWidth=480",
-     "sizePrices": [
-      [
-       "only",
-       0
-      ]
-     ]
-    },
-    {
-     "type": "SAMSUNG GALAXY CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ],
-     "variantId": "galaxy-s24-clear",
-     "defaultColor": "White",
-     "priceCents": 2100,
-     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FSGS24-C_73987ca4e5.png%3Fs%3D466944b03b84ba22d1ef0767d88933a3&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F478d6b86-2419-451a-8f1c-8fc35c5d1a7e%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3D09e887b3d4d6c68c3088e84471505092&offsetX=148&offsetY=174&imageWidth=179&bgColor=FFFFFF&mockupWidth=480",
-     "sizePrices": [
-      [
-       "only",
-       0
-      ]
-     ]
-    },
-    {
-     "type": "CANVAS PRINT",
-     "category": "Canvas Prints",
-     "price": "$34.00",
-     "colors": [
-      "Black"
-     ],
-     "sizes": [
-      "only"
-     ],
-     "variantId": "canvas-16x20",
-     "defaultColor": "Black",
-     "priceCents": 3400,
-     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FCanvasPrint-16x20_ffd8cb80d7.png%3Fs%3D580f6aaa4e500fdfe71143705476f83c&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F478d6b86-2419-451a-8f1c-8fc35c5d1a7e%3Ffit%3Dclamp%26bg%3D000000%26ixlib%3Djava-1.1.0%26s%3Da9c6370dfe4ac3e6a998ac7085657539&offsetX=98&offsetY=23&imageWidth=291&bgColor=000000&mockupWidth=480",
-     "sizePrices": [
-      [
-       "only",
-       0
-      ]
-     ]
-    }
-   ]
-  },
-  {
    "path": "i-teach-the-cutes-owls",
    "name": "I Teach The Cutest Owls T-Shirt | Funny Teacher Halloween Design",
    "price": "$24.99",
@@ -13775,179 +14121,6 @@
    ]
   },
   {
-   "path": "every-student-can-learn-tee",
-   "name": "Every Student Can Learn T-Shirt | Inspirational Teacher Design",
-   "price": "$24.99",
-   "tags": [
-    "halloween"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=LzhhMjFlNzQwLTUyMDMtNDBmNy1iYWUzLTUxOTQ1M2U4NTJiNQ&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=da732d63eb8c9fdc8f0f7a9ffa75fdbb",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=LzhhMjFlNzQwLTUyMDMtNDBmNy1iYWUzLTUxOTQ1M2U4NTJiNQ&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=da732d63eb8c9fdc8f0f7a9ffa75fdbb",
-   "stealthy": false,
-   "title": "Every Student Can Learn T-Shirt | Inspirational Teacher Design",
-   "description": "A whimsical tree decorated with Halloween ornaments and the message Every Student Can Learn, Just Not On The Same Day Or In The Same Way. A meaningful shirt and gift for special education and classroom teachers.",
-   "active": true,
-   "campaignId": "29151594727",
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Charcoal Heather",
-      "Deep Forest",
-      "Deep Red",
-      "Deep Royal",
-      "Fatigue Green",
-      "Gold",
-      "Kelly Green",
-      "Maroon",
-      "Navy",
-      "Orange",
-      "Pink",
-      "Purple",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "hanes-5250",
-     "defaultColor": "White",
-     "priceCents": 2499,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=LzhhMjFlNzQwLTUyMDMtNDBmNy1iYWUzLTUxOTQ1M2U4NTJiNQ&markw=148&markx=171&marky=90&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=da732d63eb8c9fdc8f0f7a9ffa75fdbb",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       350
-      ],
-      [
-       "3XL",
-       450
-      ],
-      [
-       "4XL",
-       500
-      ],
-      [
-       "5XL",
-       500
-      ]
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ],
-     "variantId": "ceramic-11",
-     "defaultColor": "White",
-     "priceCents": 1699,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzhhMjFlNzQwLTUyMDMtNDBmNy1iYWUzLTUxOTQ1M2U4NTJiNQ&markw=170&markx=200&marky=130&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=9ca3ac65b92cd791031e17ac7981c641",
-     "sizePrices": [
-      [
-       "11oz",
-       0
-      ]
-     ]
-    },
-    {
-     "type": "IPHONE CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ],
-     "variantId": "iphone-15-clear",
-     "defaultColor": "White",
-     "priceCents": 2100,
-     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FIP15_JIC_B_2cc53b4368.png%3Fs%3D9274955d8a095835714a2a64d7fb0ea1&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F8a21e740-5203-40f7-bae3-519453e852b5%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3Daebd81654fac27126a89e3f6b8945908&offsetX=136&offsetY=175&imageWidth=209&bgColor=FFFFFF&mockupWidth=480",
-     "sizePrices": [
-      [
-       "only",
-       0
-      ]
-     ]
-    },
-    {
-     "type": "SAMSUNG GALAXY CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ],
-     "variantId": "galaxy-s24-clear",
-     "defaultColor": "White",
-     "priceCents": 2100,
-     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FSGS24-C_73987ca4e5.png%3Fs%3D466944b03b84ba22d1ef0767d88933a3&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F8a21e740-5203-40f7-bae3-519453e852b5%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3Daebd81654fac27126a89e3f6b8945908&offsetX=149&offsetY=187&imageWidth=179&bgColor=FFFFFF&mockupWidth=480",
-     "sizePrices": [
-      [
-       "only",
-       0
-      ]
-     ]
-    },
-    {
-     "type": "CANVAS PRINT",
-     "category": "Canvas Prints",
-     "price": "$34.00",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ],
-     "variantId": "canvas-16x20",
-     "defaultColor": "White",
-     "priceCents": 3400,
-     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FCanvasPrint-16x20_ffd8cb80d7.png%3Fs%3D580f6aaa4e500fdfe71143705476f83c&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F8a21e740-5203-40f7-bae3-519453e852b5%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3Daebd81654fac27126a89e3f6b8945908&offsetX=98&offsetY=58&imageWidth=280&bgColor=FFFFFF&mockupWidth=480",
-     "sizePrices": [
-      [
-       "only",
-       0
-      ]
-     ]
-    }
-   ]
-  },
-  {
    "path": "dont-make-me-flip",
    "name": "Dont Make Me Flip My Witch Switch T-Shirt | Funny Black Cat Halloween",
    "price": "$24.99",
@@ -14281,179 +14454,6 @@
      "defaultColor": "Black",
      "priceCents": 3400,
      "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FCanvasPrint-16x20_ffd8cb80d7.png%3Fs%3D580f6aaa4e500fdfe71143705476f83c&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F9d9de249-9ce5-4d36-b6b5-73c5f0d76fe1%3Ffit%3Dclamp%26bg%3D000000%26ixlib%3Djava-1.1.0%26s%3Dc0c1058789cecaa93083445de7ba9601&offsetX=45&offsetY=19&imageWidth=388&bgColor=000000&mockupWidth=480",
-     "sizePrices": [
-      [
-       "only",
-       0
-      ]
-     ]
-    }
-   ]
-  },
-  {
-   "path": "dadcula",
-   "name": "Dadcula T-Shirt | Funny Cool Dad Halloween Design",
-   "price": "$24.99",
-   "tags": [
-    "halloween"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=Lzg0OTRlYmU0LTczOTMtNDBjMy04YjY1LTEyOTFlZjg0MTAyOA&markw=180&markx=155&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1b543ae1841c7984ceb554a15e955483",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=Lzg0OTRlYmU0LTczOTMtNDBjMy04YjY1LTEyOTFlZjg0MTAyOA&markw=180&markx=155&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1b543ae1841c7984ceb554a15e955483",
-   "stealthy": false,
-   "title": "Dadcula T-Shirt | Funny Cool Dad Halloween Design",
-   "description": "A cool dad with slicked-back hair and spiderweb sunglasses next to the word Dadcula. A funny Halloween shirt with dad-joke energy for dads who don't do costumes.",
-   "active": true,
-   "campaignId": "29139587341",
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$24.99",
-     "colors": [
-      "Black",
-      "Charcoal Heather",
-      "Deep Forest",
-      "Deep Red",
-      "Deep Royal",
-      "Fatigue Green",
-      "Gold",
-      "Kelly Green",
-      "Maroon",
-      "Navy",
-      "Orange",
-      "Pink",
-      "Purple",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "hanes-5250",
-     "defaultColor": "White",
-     "priceCents": 2499,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=FFFFFF&mark64=Lzg0OTRlYmU0LTczOTMtNDBjMy04YjY1LTEyOTFlZjg0MTAyOA&markw=180&markx=155&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1b543ae1841c7984ceb554a15e955483",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       350
-      ],
-      [
-       "3XL",
-       450
-      ],
-      [
-       "4XL",
-       500
-      ],
-      [
-       "5XL",
-       500
-      ]
-     ]
-    },
-    {
-     "type": "MUG",
-     "category": "Drinkware",
-     "price": "$16.99",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "11oz"
-     ],
-     "variantId": "ceramic-11",
-     "defaultColor": "White",
-     "priceCents": 1699,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=Lzg0OTRlYmU0LTczOTMtNDBjMy04YjY1LTEyOTFlZjg0MTAyOA&markw=207&markx=182&marky=104&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=07f1ec574fc9bdfb1b5c5fd3c6ea05b6",
-     "sizePrices": [
-      [
-       "11oz",
-       0
-      ]
-     ]
-    },
-    {
-     "type": "IPHONE CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ],
-     "variantId": "iphone-15-clear",
-     "defaultColor": "White",
-     "priceCents": 2100,
-     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FIP15_JIC_B_2cc53b4368.png%3Fs%3D9274955d8a095835714a2a64d7fb0ea1&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F8494ebe4-7393-40c3-8b65-1291ef841028%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3Db3bd699821bf713c52013a461b68c921&offsetX=135&offsetY=140&imageWidth=209&bgColor=FFFFFF&mockupWidth=480",
-     "sizePrices": [
-      [
-       "only",
-       0
-      ]
-     ]
-    },
-    {
-     "type": "SAMSUNG GALAXY CLEAR CASE",
-     "category": "Phone Cases",
-     "price": "$21.00",
-     "colors": [
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ],
-     "variantId": "galaxy-s24-clear",
-     "defaultColor": "White",
-     "priceCents": 2100,
-     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FSGS24-C_73987ca4e5.png%3Fs%3D466944b03b84ba22d1ef0767d88933a3&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F8494ebe4-7393-40c3-8b65-1291ef841028%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3Db3bd699821bf713c52013a461b68c921&offsetX=148&offsetY=157&imageWidth=179&bgColor=FFFFFF&mockupWidth=480",
-     "sizePrices": [
-      [
-       "only",
-       0
-      ]
-     ]
-    },
-    {
-     "type": "CANVAS PRINT",
-     "category": "Canvas Prints",
-     "price": "$34.00",
-     "colors": [
-      "Black",
-      "White"
-     ],
-     "sizes": [
-      "only"
-     ],
-     "variantId": "canvas-16x20",
-     "defaultColor": "White",
-     "priceCents": 3400,
-     "defaultImage": "https://banksy.gearint.com/mockuplite?overlayPath=https%3A%2F%2Fgearlaunch-product-images-secure.imgix.net%2Fimg%2Fproduct%2FCanvasPrint-16x20_ffd8cb80d7.png%3Fs%3D580f6aaa4e500fdfe71143705476f83c&artPath=https%3A%2F%2Fgearlaunch-prod-imgix-secure.imgix.net%2F8494ebe4-7393-40c3-8b65-1291ef841028%3Ffit%3Dclamp%26bg%3DFFFFFF%26ixlib%3Djava-1.1.0%26s%3Db3bd699821bf713c52013a461b68c921&offsetX=68&offsetY=19&imageWidth=340&bgColor=FFFFFF&mockupWidth=480",
      "sizePrices": [
       [
        "only",
