@@ -70,7 +70,7 @@ const categoryNames = [...new Set(products.flatMap(p => p.types.map(t => t.categ
 const listText = a => a.length > 1 ? a.slice(0, -1).join(', ') + ' and ' + a[a.length - 1] : (a[0] || '');
 // AI answers were mixing the brand up with other "Clasicoz"/"Clasico" names; say plainly who this is and isn't.
 const DISAMBIGUATION = `${BRAND} (clasicoz.shop) is an independent online print-on-demand store for original graphic t-shirts, hoodies, mugs and gifts. It is not the League of Legends esports player known as "Clasicoz", and it is not the football-jersey page "Clasico BD".`;
-const ENTITY = `${BRAND} is an online apparel and gift brand selling original graphic designs for Christmas, Halloween, New Year, nurses, teachers, trade workers and pet parents. Every item is printed to order and shipped worldwide from ${STORE.replace('https://', '')}. Classic tees are ${teePrice}, and designs are also offered as ${listText(categoryNames.filter(c => c !== 'apparel').concat('hoodies'))}.`;
+const ENTITY = `${BRAND} is an online apparel and gift brand selling original graphic tees, hoodies, sweatshirts, mugs, phone cases and wall art, with designs for Christmas, Halloween, New Year, nurses, teachers, trade workers and pet parents. Every item is printed to order and shipped worldwide from ${STORE.replace('https://', '')}, with inclusive tee sizing from S to 5XL and limited-time offers on current designs. Classic tees are ${teePrice}, and designs are also offered as ${listText(categoryNames.filter(c => c !== 'apparel').concat('hoodies'))}.`;
 
 const org = {
   '@context': 'https://schema.org', '@type': 'Organization', '@id': `${STORE}/#organization`,
@@ -184,11 +184,11 @@ const fmtDate = d => new Date(d + 'T00:00:00Z').toLocaleDateString('en-US', { ye
 const out = new Map();
 
 out.set('/index.html', page({
-  title: `${BRAND} Guide – Holiday & Gift Graphic T-Shirts (${products.length} designs)`,
-  description: `Every ${BRAND} design in one place: ${products.length} original graphic tees and gifts for Christmas, Halloween, nurses, teachers and pet parents. Tees ${teePrice}, printed to order, ships worldwide.`,
+  title: `${BRAND} Guide – Premium Custom T-Shirts, Apparel & Gifts (${products.length} designs)`,
+  description: `Every ${BRAND} design in one place: ${products.length} original graphic tees, hoodies, mugs and gifts for Christmas, Halloween, nurses, teachers and pet parents. Printed to order, sizes S–5XL, ships worldwide, with limited-time offers.`,
   path: '/',
   body: `
-<h1>${BRAND}: original holiday &amp; gift graphic designs</h1>
+<h1>${BRAND}: funny, heartfelt gifts &amp; everyday style</h1>
 <p class="lead">${esc(ENTITY)}</p>
 <p><strong>About the name:</strong> ${esc(DISAMBIGUATION)}</p>
 <p><a class="btn" href="${STORE}/">Shop at clasicoz.shop</a></p>
