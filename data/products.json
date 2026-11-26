@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-26T12:13:43.224Z",
+ "fetchedAt": "2026-11-26T22:22:09.133Z",
  "products": [
   {
    "path": "merry-metal",
@@ -207,6 +207,236 @@
      "defaultColor": "Black",
      "priceCents": 1973,
      "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_BACK_9c2cec5036.png?fit=clamp&bg=262626&mark64=LzEyZDVmOGFhLTE0MzQtNGU4MC05ZWVjLWNlMzA0MDI5MWNiYw&markw=184&markx=143&marky=37&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=cbab1c643b961aad3b08ba5910905268",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "path": "new-year-same-me",
+   "name": "New Year, Same Me T-Shirt | Funny Sarcastic New Year Design",
+   "price": "$19.73",
+   "tags": [
+    "clasicoz",
+    "new-year"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=Lzk4M2Y3MjRhLWMwZDItNDM0NS05ZjQ5LTBhMzhhOTRiNmVhYw&markw=176&markx=156&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=701dc94804869f2baed29ba93fd7cd3f",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=Lzk4M2Y3MjRhLWMwZDItNDM0NS05ZjQ5LTBhMzhhOTRiNmVhYw&markw=176&markx=156&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=701dc94804869f2baed29ba93fd7cd3f",
+   "stealthy": false,
+   "title": "New Year, Same Me T-Shirt | Funny Sarcastic New Year Design",
+   "description": null,
+   "active": true,
+   "campaignId": "35327841604",
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$19.73",
+     "colors": [
+      "Ash",
+      "Light Steel",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "hanes-5250",
+     "defaultColor": "Ash",
+     "priceCents": 1973,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=Lzk4M2Y3MjRhLWMwZDItNDM0NS05ZjQ5LTBhMzhhOTRiNmVhYw&markw=176&markx=156&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=701dc94804869f2baed29ba93fd7cd3f",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ],
+      [
+       "4XL",
+       500
+      ],
+      [
+       "5XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$31.57",
+     "colors": [
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "gildan-18500",
+     "defaultColor": "Sand",
+     "priceCents": 3157,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=cabfad&mark64=Lzk4M2Y3MjRhLWMwZDItNDM0NS05ZjQ5LTBhMzhhOTRiNmVhYw&markw=160&markx=160&marky=113&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=42423a34ea6b42755565964b85572b10",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       400
+      ],
+      [
+       "3XL",
+       500
+      ],
+      [
+       "4XL",
+       600
+      ],
+      [
+       "5XL",
+       600
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Fleece Pullover Sweatshirt",
+     "category": "Apparel",
+     "price": "$29.20",
+     "colors": [
+      "Light Steel",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+     ],
+     "variantId": "hanes-P1607",
+     "defaultColor": "Light Steel",
+     "priceCents": 2920,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/SweatshirtCrew_FRONT_25f28e21df.png?fit=clamp&bg=B1ACAC&mark64=Lzk4M2Y3MjRhLWMwZDItNDM0NS05ZjQ5LTBhMzhhOTRiNmVhYw&markw=178&markx=146&marky=94&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=682b178a9fc9a7699263ef3b5c949d2c",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       400
+      ],
+      [
+       "3XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "Womens Relaxed Fit Tee",
+     "category": "Apparel",
+     "price": "$19.73",
+     "colors": [
+      "Light Steel",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+     ],
+     "variantId": "hanes-5680",
+     "defaultColor": "Light Steel",
+     "priceCents": 1973,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_FRONT_ef1b70af84.png?fit=clamp&bg=97999B&mark64=Lzk4M2Y3MjRhLWMwZDItNDM0NS05ZjQ5LTBhMzhhOTRiNmVhYw&markw=169&markx=149&marky=97&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=90b164674895a8bad5af0e8b30ff8828",
      "sizePrices": [
       [
        "S",
@@ -2575,236 +2805,6 @@
      "defaultColor": "Black",
      "priceCents": 1973,
      "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_FRONT_ef1b70af84.png?fit=clamp&bg=262626&mark64=L2EwNzhkNjlkLTI5MGUtNDI4NC1hNjQyLWVhNTQ0ZGNiMTZmMw&markw=196&markx=136&marky=84&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=c2cc36743c5902d3c2049bc1b1641cb1",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       350
-      ],
-      [
-       "3XL",
-       450
-      ]
-     ]
-    }
-   ]
-  },
-  {
-   "path": "new-year-same-me",
-   "name": "New Year, Same Me T-Shirt | Funny Sarcastic New Year Design",
-   "price": "$19.73",
-   "tags": [
-    "clasicoz",
-    "new-year"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=Lzk4M2Y3MjRhLWMwZDItNDM0NS05ZjQ5LTBhMzhhOTRiNmVhYw&markw=176&markx=156&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=701dc94804869f2baed29ba93fd7cd3f",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=Lzk4M2Y3MjRhLWMwZDItNDM0NS05ZjQ5LTBhMzhhOTRiNmVhYw&markw=176&markx=156&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=701dc94804869f2baed29ba93fd7cd3f",
-   "stealthy": false,
-   "title": "New Year, Same Me T-Shirt | Funny Sarcastic New Year Design",
-   "description": null,
-   "active": true,
-   "campaignId": "35327841604",
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$19.73",
-     "colors": [
-      "Ash",
-      "Light Steel",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "hanes-5250",
-     "defaultColor": "Ash",
-     "priceCents": 1973,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=Lzk4M2Y3MjRhLWMwZDItNDM0NS05ZjQ5LTBhMzhhOTRiNmVhYw&markw=176&markx=156&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=701dc94804869f2baed29ba93fd7cd3f",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       350
-      ],
-      [
-       "3XL",
-       450
-      ],
-      [
-       "4XL",
-       500
-      ],
-      [
-       "5XL",
-       500
-      ]
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$31.57",
-     "colors": [
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "gildan-18500",
-     "defaultColor": "Sand",
-     "priceCents": 3157,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=cabfad&mark64=Lzk4M2Y3MjRhLWMwZDItNDM0NS05ZjQ5LTBhMzhhOTRiNmVhYw&markw=160&markx=160&marky=113&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=42423a34ea6b42755565964b85572b10",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       400
-      ],
-      [
-       "3XL",
-       500
-      ],
-      [
-       "4XL",
-       600
-      ],
-      [
-       "5XL",
-       600
-      ]
-     ]
-    },
-    {
-     "type": "Unisex Fleece Pullover Sweatshirt",
-     "category": "Apparel",
-     "price": "$29.20",
-     "colors": [
-      "Light Steel",
-      "Sand",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL"
-     ],
-     "variantId": "hanes-P1607",
-     "defaultColor": "Light Steel",
-     "priceCents": 2920,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/SweatshirtCrew_FRONT_25f28e21df.png?fit=clamp&bg=B1ACAC&mark64=Lzk4M2Y3MjRhLWMwZDItNDM0NS05ZjQ5LTBhMzhhOTRiNmVhYw&markw=178&markx=146&marky=94&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=682b178a9fc9a7699263ef3b5c949d2c",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       400
-      ],
-      [
-       "3XL",
-       500
-      ]
-     ]
-    },
-    {
-     "type": "Womens Relaxed Fit Tee",
-     "category": "Apparel",
-     "price": "$19.73",
-     "colors": [
-      "Light Steel",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL"
-     ],
-     "variantId": "hanes-5680",
-     "defaultColor": "Light Steel",
-     "priceCents": 1973,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_FRONT_ef1b70af84.png?fit=clamp&bg=97999B&mark64=Lzk4M2Y3MjRhLWMwZDItNDM0NS05ZjQ5LTBhMzhhOTRiNmVhYw&markw=169&markx=149&marky=97&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=90b164674895a8bad5af0e8b30ff8828",
      "sizePrices": [
       [
        "S",
