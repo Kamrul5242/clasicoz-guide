@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-25T22:32:20.770Z",
+ "fetchedAt": "2026-11-26T09:32:47.540Z",
  "products": [
   {
    "path": "merry-metal",
@@ -9,8 +9,8 @@
     "christmas",
     "clasicoz"
    ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_BACK_40e61d69b0.png?fit=clamp&bg=262626&mark64=LzNiM2E4ZTJhLTE4NzEtNGIxYi04NDUwLTc3MmQ2MjgyYzRiZQ&markw=230&markx=123&marky=43&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=b8288a9f49dce6fd53341adf446c29e6",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_BACK_40e61d69b0.png?fit=clamp&bg=262626&mark64=LzNiM2E4ZTJhLTE4NzEtNGIxYi04NDUwLTc3MmQ2MjgyYzRiZQ&markw=230&markx=123&marky=43&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=b8288a9f49dce6fd53341adf446c29e6",
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_BACK_40e61d69b0.png?fit=clamp&bg=262626&mark64=LzEyZDVmOGFhLTE0MzQtNGU4MC05ZWVjLWNlMzA0MDI5MWNiYw&markw=199&markx=138&marky=43&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6251015c8796669e66a3318430f6281c",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_BACK_40e61d69b0.png?fit=clamp&bg=262626&mark64=LzEyZDVmOGFhLTE0MzQtNGU4MC05ZWVjLWNlMzA0MDI5MWNiYw&markw=199&markx=138&marky=43&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6251015c8796669e66a3318430f6281c",
    "stealthy": false,
    "title": "Merry Metal T-Shirt | Skull Santa Heavy Metal Christmas Design",
    "description": null,
@@ -41,7 +41,7 @@
      "variantId": "hanes-5250",
      "defaultColor": "Black",
      "priceCents": 1973,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_BACK_40e61d69b0.png?fit=clamp&bg=262626&mark64=LzNiM2E4ZTJhLTE4NzEtNGIxYi04NDUwLTc3MmQ2MjgyYzRiZQ&markw=230&markx=123&marky=43&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=b8288a9f49dce6fd53341adf446c29e6",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_BACK_40e61d69b0.png?fit=clamp&bg=262626&mark64=LzEyZDVmOGFhLTE0MzQtNGU4MC05ZWVjLWNlMzA0MDI5MWNiYw&markw=199&markx=138&marky=43&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6251015c8796669e66a3318430f6281c",
      "sizePrices": [
       [
        "S",
@@ -100,7 +100,7 @@
      "variantId": "gildan-18500",
      "defaultColor": "Black",
      "priceCents": 3157,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_BACK_2a0ffeb278.png?fit=clamp&bg=262626&mark64=LzNiM2E4ZTJhLTE4NzEtNGIxYi04NDUwLTc3MmQ2MjgyYzRiZQ&markw=227&markx=124&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=709d936329bc7d91f21ae973a02374d8",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_BACK_2a0ffeb278.png?fit=clamp&bg=262626&mark64=LzEyZDVmOGFhLTE0MzQtNGU4MC05ZWVjLWNlMzA0MDI5MWNiYw&markw=197&markx=138&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=8e4b3f347b930aef5fd1768638ce32d8",
      "sizePrices": [
       [
        "S",
@@ -159,7 +159,7 @@
      "variantId": "hanes-P1607",
      "defaultColor": "Black",
      "priceCents": 2920,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/SweatshirtCrew_BACK_63869201ea.png?fit=clamp&bg=262626&mark64=LzNiM2E4ZTJhLTE4NzEtNGIxYi04NDUwLTc3MmQ2MjgyYzRiZQ&markw=237&markx=119&marky=54&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=4ac1b5183ed1f2b7b42122cb0e9ef0bf",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/SweatshirtCrew_BACK_63869201ea.png?fit=clamp&bg=262626&mark64=LzEyZDVmOGFhLTE0MzQtNGU4MC05ZWVjLWNlMzA0MDI5MWNiYw&markw=205&markx=134&marky=54&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=f2cf8d5ca7010effe836d6ab66769886",
      "sizePrices": [
       [
        "S",
@@ -206,7 +206,7 @@
      "variantId": "hanes-5680",
      "defaultColor": "Black",
      "priceCents": 1973,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_BACK_9c2cec5036.png?fit=clamp&bg=262626&mark64=LzNiM2E4ZTJhLTE4NzEtNGIxYi04NDUwLTc3MmQ2MjgyYzRiZQ&markw=213&markx=130&marky=37&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=bc640fed28590081bc34173b4ef9de9a",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_BACK_9c2cec5036.png?fit=clamp&bg=262626&mark64=LzEyZDVmOGFhLTE0MzQtNGU4MC05ZWVjLWNlMzA0MDI5MWNiYw&markw=184&markx=143&marky=37&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=cbab1c643b961aad3b08ba5910905268",
      "sizePrices": [
       [
        "S",
@@ -414,8 +414,8 @@
    "tags": [
     "halloween"
    ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzQ5NGNkZDIxLTAwZmQtNDI0MC1iOTZjLTg0YzU4YTcxZGU3MQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=2a7da4acb9e898b87ff93ba16f3f5f08",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzQ5NGNkZDIxLTAwZmQtNDI0MC1iOTZjLTg0YzU4YTcxZGU3MQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=2a7da4acb9e898b87ff93ba16f3f5f08",
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzQ5NGNkZDIxLTAwZmQtNDI0MC1iOTZjLTg0YzU4YTcxZGU3MQ&markw=203&markx=143&marky=68&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0a29a2a95694d41d2e8d2857f5284f5f",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzQ5NGNkZDIxLTAwZmQtNDI0MC1iOTZjLTg0YzU4YTcxZGU3MQ&markw=203&markx=143&marky=68&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0a29a2a95694d41d2e8d2857f5284f5f",
    "stealthy": false,
    "title": "Gathering of Crows T-Shirt | Gothic Halloween Murder of Crows Design",
    "description": "A murder of crows gathered on bare autumn branches, drawn like a nature illustration rather than a cartoon. Made for anyone who wants a moody, gothic fall shirt instead of plastic-looking pumpkins and skeletons, including dark academia fans.",
@@ -454,7 +454,7 @@
      "variantId": "hanes-5250",
      "defaultColor": "Black",
      "priceCents": 1973,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzQ5NGNkZDIxLTAwZmQtNDI0MC1iOTZjLTg0YzU4YTcxZGU3MQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=2a7da4acb9e898b87ff93ba16f3f5f08",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzQ5NGNkZDIxLTAwZmQtNDI0MC1iOTZjLTg0YzU4YTcxZGU3MQ&markw=203&markx=143&marky=68&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0a29a2a95694d41d2e8d2857f5284f5f",
      "sizePrices": [
       [
        "S",
@@ -518,7 +518,7 @@
      "variantId": "gildan-18500",
      "defaultColor": "Black",
      "priceCents": 3157,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=LzQ5NGNkZDIxLTAwZmQtNDI0MC1iOTZjLTg0YzU4YTcxZGU3MQ&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=910cfce03ea495452a8dea856203d80a",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=LzQ5NGNkZDIxLTAwZmQtNDI0MC1iOTZjLTg0YzU4YTcxZGU3MQ&markw=184&markx=148&marky=102&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1e7a04d8a868cbc1d17dee5d363bac59",
      "sizePrices": [
       [
        "S",
@@ -568,7 +568,7 @@
      "variantId": "ceramic-11",
      "defaultColor": "White",
      "priceCents": 1341,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzQ5NGNkZDIxLTAwZmQtNDI0MC1iOTZjLTg0YzU4YTcxZGU3MQ&markw=236&markx=168&marky=104&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=c40e1f3021469bfbbf74df4fca786f04",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/ElevenOunceMugWhite_FRONT-v1_b51a18c584.png?fit=clamp&bg=FFFFFF&mark64=LzQ5NGNkZDIxLTAwZmQtNDI0MC1iOTZjLTg0YzU4YTcxZGU3MQ&markw=234&markx=168&marky=105&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=9db72d15f924a734ca36e76b4d01c79b",
      "sizePrices": [
       [
        "11oz",
@@ -1435,725 +1435,20 @@
    ]
   },
   {
-   "path": "naughty-ish-list",
-   "name": "Naughty-ish List T-Shirt | Funny Santa Christmas Design",
+   "path": "zero-chill-mode",
+   "name": "Zero Chill Mode T-Shirt | Funny Snowman Winter Design",
    "price": "$19.73",
    "tags": [
     "christmas",
     "clasicoz"
    ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=LzQ5OWVhN2JlLWE5YjYtNDJkNC1hOTZhLTExY2FmM2Q5M2NlYQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=b9fded32c13c8e157adca54646fcaacd",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=LzQ5OWVhN2JlLWE5YjYtNDJkNC1hOTZhLTExY2FmM2Q5M2NlYQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=b9fded32c13c8e157adca54646fcaacd",
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=LzlkN2E0MmNlLTJiNDItNGE2Yi04MTBhLWMxMTY2ZDNlMWMzYw&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=2a4ab731e9c3625ae96752894717f2c2",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=LzlkN2E0MmNlLTJiNDItNGE2Yi04MTBhLWMxMTY2ZDNlMWMzYw&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=2a4ab731e9c3625ae96752894717f2c2",
    "stealthy": false,
-   "title": "Naughty-ish List T-Shirt | Funny Santa Christmas Design",
+   "title": "Zero Chill Mode T-Shirt | Funny Snowman Winter Design",
    "description": null,
    "active": true,
-   "campaignId": "35307052810",
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$19.73",
-     "colors": [
-      "Ash",
-      "Black",
-      "Charcoal Heather",
-      "Navy",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "hanes-5250",
-     "defaultColor": "Ash",
-     "priceCents": 1973,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=LzQ5OWVhN2JlLWE5YjYtNDJkNC1hOTZhLTExY2FmM2Q5M2NlYQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=b9fded32c13c8e157adca54646fcaacd",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       350
-      ],
-      [
-       "3XL",
-       450
-      ],
-      [
-       "4XL",
-       500
-      ],
-      [
-       "5XL",
-       500
-      ]
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$31.57",
-     "colors": [
-      "Black",
-      "Dark Heather",
-      "Navy",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "gildan-18500",
-     "defaultColor": "Black",
-     "priceCents": 3157,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=LzQ5OWVhN2JlLWE5YjYtNDJkNC1hOTZhLTExY2FmM2Q5M2NlYQ&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=5a9861ce62d4226010bdc526daeb2c41",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       400
-      ],
-      [
-       "3XL",
-       500
-      ],
-      [
-       "4XL",
-       600
-      ],
-      [
-       "5XL",
-       600
-      ]
-     ]
-    },
-    {
-     "type": "Unisex Fleece Pullover Sweatshirt",
-     "category": "Apparel",
-     "price": "$29.20",
-     "colors": [
-      "Black",
-      "Dark Heather",
-      "Navy",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "3XL",
-      "4XL",
-      "2XL"
-     ],
-     "variantId": "hanes-P1607",
-     "defaultColor": "Black",
-     "priceCents": 2920,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/SweatshirtCrew_FRONT_25f28e21df.png?fit=clamp&bg=262626&mark64=LzQ5OWVhN2JlLWE5YjYtNDJkNC1hOTZhLTExY2FmM2Q5M2NlYQ&markw=207&markx=133&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=45c386406338ebca566771e2ed3f0001",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "3XL",
-       500
-      ],
-      [
-       "4XL",
-       600
-      ]
-     ]
-    },
-    {
-     "type": "Womens Relaxed Fit Tee",
-     "category": "Apparel",
-     "price": "$19.73",
-     "colors": [
-      "Black",
-      "Navy",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL"
-     ],
-     "variantId": "hanes-5680",
-     "defaultColor": "Black",
-     "priceCents": 1973,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_FRONT_ef1b70af84.png?fit=clamp&bg=262626&mark64=LzQ5OWVhN2JlLWE5YjYtNDJkNC1hOTZhLTExY2FmM2Q5M2NlYQ&markw=196&markx=136&marky=84&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=caadffc99b8b9f970186a3f0c16c117d",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       350
-      ],
-      [
-       "3XL",
-       450
-      ]
-     ]
-    }
-   ]
-  },
-  {
-   "path": "vintage-santa-night",
-   "name": "Vintage Santa Night T-Shirt | Retro Waving Santa Claus Christmas Design",
-   "price": "$19.73",
-   "tags": [
-    "christmas",
-    "clasicoz"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=L2YzZmI3ZmE1LWFhZjUtNDdmYi04OWE4LWM5YTdlYjc1NWI2ZQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0331bb94896d34969fb19b996de2df44",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=L2YzZmI3ZmE1LWFhZjUtNDdmYi04OWE4LWM5YTdlYjc1NWI2ZQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0331bb94896d34969fb19b996de2df44",
-   "stealthy": false,
-   "title": "Vintage Santa Night T-Shirt | Retro Waving Santa Claus Christmas Design",
-   "description": null,
-   "active": true,
-   "campaignId": "35309022479",
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$19.73",
-     "colors": [
-      "Ash",
-      "Black",
-      "Charcoal Heather",
-      "Navy",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "hanes-5250",
-     "defaultColor": "Ash",
-     "priceCents": 1973,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=L2YzZmI3ZmE1LWFhZjUtNDdmYi04OWE4LWM5YTdlYjc1NWI2ZQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0331bb94896d34969fb19b996de2df44",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       350
-      ],
-      [
-       "3XL",
-       450
-      ],
-      [
-       "4XL",
-       500
-      ],
-      [
-       "5XL",
-       500
-      ]
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$31.57",
-     "colors": [
-      "Black",
-      "Dark Heather",
-      "Navy",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "gildan-18500",
-     "defaultColor": "Black",
-     "priceCents": 3157,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=L2YzZmI3ZmE1LWFhZjUtNDdmYi04OWE4LWM5YTdlYjc1NWI2ZQ&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=a05e1b748d8f7a8b1f71a60516c5d8be",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       400
-      ],
-      [
-       "3XL",
-       500
-      ],
-      [
-       "4XL",
-       600
-      ],
-      [
-       "5XL",
-       600
-      ]
-     ]
-    },
-    {
-     "type": "Unisex Fleece Pullover Sweatshirt",
-     "category": "Apparel",
-     "price": "$29.20",
-     "colors": [
-      "Black",
-      "Dark Heather",
-      "Navy",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "3XL",
-      "4XL",
-      "2XL"
-     ],
-     "variantId": "hanes-P1607",
-     "defaultColor": "Black",
-     "priceCents": 2920,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/SweatshirtCrew_FRONT_25f28e21df.png?fit=clamp&bg=262626&mark64=L2YzZmI3ZmE1LWFhZjUtNDdmYi04OWE4LWM5YTdlYjc1NWI2ZQ&markw=207&markx=133&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=9ca50b8324b90b0cdad7d16d127476fb",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "3XL",
-       500
-      ],
-      [
-       "4XL",
-       600
-      ]
-     ]
-    },
-    {
-     "type": "Womens Relaxed Fit Tee",
-     "category": "Apparel",
-     "price": "$19.73",
-     "colors": [
-      "Black",
-      "Navy",
-      "White"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL"
-     ],
-     "variantId": "hanes-5680",
-     "defaultColor": "Black",
-     "priceCents": 1973,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_FRONT_ef1b70af84.png?fit=clamp&bg=262626&mark64=L2YzZmI3ZmE1LWFhZjUtNDdmYi04OWE4LWM5YTdlYjc1NWI2ZQ&markw=196&markx=136&marky=84&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=3abefd657fb724f19226cbd50cc3f0e9",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       350
-      ],
-      [
-       "3XL",
-       450
-      ]
-     ]
-    }
-   ]
-  },
-  {
-   "path": "resolution-nah",
-   "name": "Resolution? Nah. T-Shirt | Funny Anti-Resolution New Year Design",
-   "price": "$19.73",
-   "tags": [
-    "clasicoz",
-    "new-year"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzkxNmRhMTlmLWEyZmYtNGZhNS05M2E0LWQ3YThlZjE0NGRhNQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=07fc32b7b739eb5bcd28d7e58488d583",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzkxNmRhMTlmLWEyZmYtNGZhNS05M2E0LWQ3YThlZjE0NGRhNQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=07fc32b7b739eb5bcd28d7e58488d583",
-   "stealthy": false,
-   "title": "Resolution? Nah. T-Shirt | Funny Anti-Resolution New Year Design",
-   "description": null,
-   "active": true,
-   "campaignId": "35312673028",
-   "products": [
-    {
-     "type": "Unisex Short Sleeve Classic Tee",
-     "category": "Apparel",
-     "price": "$19.73",
-     "colors": [
-      "Black",
-      "Charcoal Heather",
-      "Deep Forest",
-      "Maroon",
-      "Navy"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "hanes-5250",
-     "defaultColor": "Black",
-     "priceCents": 1973,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=LzkxNmRhMTlmLWEyZmYtNGZhNS05M2E0LWQ3YThlZjE0NGRhNQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=07fc32b7b739eb5bcd28d7e58488d583",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       350
-      ],
-      [
-       "3XL",
-       450
-      ],
-      [
-       "4XL",
-       500
-      ],
-      [
-       "5XL",
-       500
-      ]
-     ]
-    },
-    {
-     "type": "Unisex Heavyweight Pullover Hoodie",
-     "category": "Apparel",
-     "price": "$31.57",
-     "colors": [
-      "Black",
-      "Dark Heather",
-      "Maroon",
-      "Navy"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL",
-      "4XL",
-      "5XL"
-     ],
-     "variantId": "gildan-18500",
-     "defaultColor": "Black",
-     "priceCents": 3157,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=LzkxNmRhMTlmLWEyZmYtNGZhNS05M2E0LWQ3YThlZjE0NGRhNQ&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=717e850c7e82280222efc85adcbf3a9c",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       400
-      ],
-      [
-       "3XL",
-       500
-      ],
-      [
-       "4XL",
-       600
-      ],
-      [
-       "5XL",
-       600
-      ]
-     ]
-    },
-    {
-     "type": "Unisex Fleece Pullover Sweatshirt",
-     "category": "Apparel",
-     "price": "$29.20",
-     "colors": [
-      "Black",
-      "Dark Heather",
-      "Deep Forest",
-      "Maroon",
-      "Navy"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "3XL",
-      "4XL",
-      "2XL"
-     ],
-     "variantId": "hanes-P1607",
-     "defaultColor": "Black",
-     "priceCents": 2920,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/SweatshirtCrew_FRONT_25f28e21df.png?fit=clamp&bg=262626&mark64=LzkxNmRhMTlmLWEyZmYtNGZhNS05M2E0LWQ3YThlZjE0NGRhNQ&markw=207&markx=133&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0d6df7941de43a1641a52c23dc8aa5af",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "3XL",
-       500
-      ],
-      [
-       "4XL",
-       600
-      ]
-     ]
-    },
-    {
-     "type": "Womens Relaxed Fit Tee",
-     "category": "Apparel",
-     "price": "$19.73",
-     "colors": [
-      "Black",
-      "Navy"
-     ],
-     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "2XL",
-      "3XL"
-     ],
-     "variantId": "hanes-5680",
-     "defaultColor": "Black",
-     "priceCents": 1973,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_FRONT_ef1b70af84.png?fit=clamp&bg=262626&mark64=LzkxNmRhMTlmLWEyZmYtNGZhNS05M2E0LWQ3YThlZjE0NGRhNQ&markw=196&markx=136&marky=84&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=db1787ff98cf9efbe6e0279f54438895",
-     "sizePrices": [
-      [
-       "S",
-       0
-      ],
-      [
-       "M",
-       0
-      ],
-      [
-       "L",
-       0
-      ],
-      [
-       "XL",
-       0
-      ],
-      [
-       "2XL",
-       350
-      ],
-      [
-       "3XL",
-       450
-      ]
-     ]
-    }
-   ]
-  },
-  {
-   "path": "better-person-new-year",
-   "name": "Funny New Year T-Shirt | I Didn't Become a Better Person Quote Design",
-   "price": "$19.73",
-   "tags": [
-    "clasicoz",
-    "new-year"
-   ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=LzIwODg4NWI3LWQ2NDgtNDFhOC1iYmU1LWQxNDE1NDBmMTE2YQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6d29152654a49d427ab83b2f6129f1aa",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=LzIwODg4NWI3LWQ2NDgtNDFhOC1iYmU1LWQxNDE1NDBmMTE2YQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6d29152654a49d427ab83b2f6129f1aa",
-   "stealthy": false,
-   "title": "Funny New Year T-Shirt | I Didn't Become a Better Person Quote Design",
-   "description": null,
-   "active": true,
-   "campaignId": "35314563617",
+   "campaignId": "35310633214",
    "products": [
     {
      "type": "Unisex Short Sleeve Classic Tee",
@@ -2178,7 +1473,7 @@
      "variantId": "hanes-5250",
      "defaultColor": "Ash",
      "priceCents": 1973,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=LzIwODg4NWI3LWQ2NDgtNDFhOC1iYmU1LWQxNDE1NDBmMTE2YQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6d29152654a49d427ab83b2f6129f1aa",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=LzlkN2E0MmNlLTJiNDItNGE2Yi04MTBhLWMxMTY2ZDNlMWMzYw&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=2a4ab731e9c3625ae96752894717f2c2",
      "sizePrices": [
       [
        "S",
@@ -2235,7 +1530,7 @@
      "variantId": "gildan-18500",
      "defaultColor": "Sand",
      "priceCents": 3157,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=cabfad&mark64=LzIwODg4NWI3LWQ2NDgtNDFhOC1iYmU1LWQxNDE1NDBmMTE2YQ&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=0efaaeb3f53bff8bacca37bb67478ff2",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=cabfad&mark64=LzlkN2E0MmNlLTJiNDItNGE2Yi04MTBhLWMxMTY2ZDNlMWMzYw&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6aab889ff8919d33306d2ddb9bafe07c",
      "sizePrices": [
       [
        "S",
@@ -2292,7 +1587,7 @@
      "variantId": "hanes-P1607",
      "defaultColor": "Light Steel",
      "priceCents": 2920,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/SweatshirtCrew_FRONT_25f28e21df.png?fit=clamp&bg=B1ACAC&mark64=LzIwODg4NWI3LWQ2NDgtNDFhOC1iYmU1LWQxNDE1NDBmMTE2YQ&markw=207&markx=133&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=67bb3dcacdc1b8136a5aa91cfaa63ee2",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/SweatshirtCrew_FRONT_25f28e21df.png?fit=clamp&bg=B1ACAC&mark64=LzlkN2E0MmNlLTJiNDItNGE2Yi04MTBhLWMxMTY2ZDNlMWMzYw&markw=207&markx=133&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=196a1821529cf5c1bc6e513354673292",
      "sizePrices": [
       [
        "S",
@@ -2339,7 +1634,1407 @@
      "variantId": "hanes-5680",
      "defaultColor": "Light Steel",
      "priceCents": 1973,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_FRONT_ef1b70af84.png?fit=clamp&bg=97999B&mark64=LzIwODg4NWI3LWQ2NDgtNDFhOC1iYmU1LWQxNDE1NDBmMTE2YQ&markw=196&markx=136&marky=84&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=64e1ae8d3a213b38c3ed285bb7018497",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_FRONT_ef1b70af84.png?fit=clamp&bg=97999B&mark64=LzlkN2E0MmNlLTJiNDItNGE2Yi04MTBhLWMxMTY2ZDNlMWMzYw&markw=196&markx=136&marky=84&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=e1ecb2a7fd797d3943249de25818239e",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "path": "snowman-squad",
+   "name": "Snowman Squad T-Shirt | Funny Snowmen Winter Design",
+   "price": "$19.73",
+   "tags": [
+    "christmas",
+    "clasicoz"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=LzEyZDkzMDhjLTZhODktNDMzNS04Y2QzLTUxZmE4ZTQxNTY4NA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=c41e11b51e25a4c8e22d27087d3054e9",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=LzEyZDkzMDhjLTZhODktNDMzNS04Y2QzLTUxZmE4ZTQxNTY4NA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=c41e11b51e25a4c8e22d27087d3054e9",
+   "stealthy": false,
+   "title": "Snowman Squad T-Shirt | Funny Snowmen Winter Design",
+   "description": null,
+   "active": true,
+   "campaignId": "35297453516",
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$19.73",
+     "colors": [
+      "Ash",
+      "Black",
+      "Charcoal Heather",
+      "Navy",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "hanes-5250",
+     "defaultColor": "Ash",
+     "priceCents": 1973,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=LzEyZDkzMDhjLTZhODktNDMzNS04Y2QzLTUxZmE4ZTQxNTY4NA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=c41e11b51e25a4c8e22d27087d3054e9",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ],
+      [
+       "4XL",
+       500
+      ],
+      [
+       "5XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$31.57",
+     "colors": [
+      "Black",
+      "Dark Heather",
+      "Navy",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "gildan-18500",
+     "defaultColor": "Black",
+     "priceCents": 3157,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=LzEyZDkzMDhjLTZhODktNDMzNS04Y2QzLTUxZmE4ZTQxNTY4NA&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=92a6be62929d8b10944959c8196b8cea",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       400
+      ],
+      [
+       "3XL",
+       500
+      ],
+      [
+       "4XL",
+       600
+      ],
+      [
+       "5XL",
+       600
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Fleece Pullover Sweatshirt",
+     "category": "Apparel",
+     "price": "$29.20",
+     "colors": [
+      "Black",
+      "Dark Heather",
+      "Navy",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "3XL",
+      "4XL",
+      "2XL"
+     ],
+     "variantId": "hanes-P1607",
+     "defaultColor": "Black",
+     "priceCents": 2920,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/SweatshirtCrew_FRONT_25f28e21df.png?fit=clamp&bg=262626&mark64=LzEyZDkzMDhjLTZhODktNDMzNS04Y2QzLTUxZmE4ZTQxNTY4NA&markw=207&markx=133&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=efe7459ead14d1392168b188b1c6911e",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "3XL",
+       500
+      ],
+      [
+       "4XL",
+       600
+      ]
+     ]
+    },
+    {
+     "type": "Womens Relaxed Fit Tee",
+     "category": "Apparel",
+     "price": "$19.73",
+     "colors": [
+      "Black",
+      "Navy",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+     ],
+     "variantId": "hanes-5680",
+     "defaultColor": "Black",
+     "priceCents": 1973,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_FRONT_ef1b70af84.png?fit=clamp&bg=262626&mark64=LzEyZDkzMDhjLTZhODktNDMzNS04Y2QzLTUxZmE4ZTQxNTY4NA&markw=196&markx=136&marky=84&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=a2a9acbffc3acbc07f2daf11cd94e779",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "path": "naughty-ish-list",
+   "name": "Naughty-ish List T-Shirt | Funny Santa Christmas Design",
+   "price": "$19.73",
+   "tags": [
+    "christmas",
+    "clasicoz"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=LzYxMDRiMWFjLWM0MjEtNGZiYS05MmM0LWNjODZkMTExOWRiZA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=88c877e8cb6de654a9748da693181f52",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=LzYxMDRiMWFjLWM0MjEtNGZiYS05MmM0LWNjODZkMTExOWRiZA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=88c877e8cb6de654a9748da693181f52",
+   "stealthy": false,
+   "title": "Naughty-ish List T-Shirt | Funny Santa Christmas Design",
+   "description": null,
+   "active": true,
+   "campaignId": "35307052810",
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$19.73",
+     "colors": [
+      "Ash",
+      "Black",
+      "Charcoal Heather",
+      "Navy",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "hanes-5250",
+     "defaultColor": "Ash",
+     "priceCents": 1973,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=LzYxMDRiMWFjLWM0MjEtNGZiYS05MmM0LWNjODZkMTExOWRiZA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=88c877e8cb6de654a9748da693181f52",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ],
+      [
+       "4XL",
+       500
+      ],
+      [
+       "5XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$31.57",
+     "colors": [
+      "Black",
+      "Dark Heather",
+      "Navy",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "gildan-18500",
+     "defaultColor": "Black",
+     "priceCents": 3157,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=LzYxMDRiMWFjLWM0MjEtNGZiYS05MmM0LWNjODZkMTExOWRiZA&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=63224f46a68f0472eb854f5ac0d371cf",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       400
+      ],
+      [
+       "3XL",
+       500
+      ],
+      [
+       "4XL",
+       600
+      ],
+      [
+       "5XL",
+       600
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Fleece Pullover Sweatshirt",
+     "category": "Apparel",
+     "price": "$29.20",
+     "colors": [
+      "Black",
+      "Dark Heather",
+      "Navy",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "3XL",
+      "4XL",
+      "2XL"
+     ],
+     "variantId": "hanes-P1607",
+     "defaultColor": "Black",
+     "priceCents": 2920,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/SweatshirtCrew_FRONT_25f28e21df.png?fit=clamp&bg=262626&mark64=LzYxMDRiMWFjLWM0MjEtNGZiYS05MmM0LWNjODZkMTExOWRiZA&markw=207&markx=133&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6a057191d3732c6cb2c85a2aa316258a",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "3XL",
+       500
+      ],
+      [
+       "4XL",
+       600
+      ]
+     ]
+    },
+    {
+     "type": "Womens Relaxed Fit Tee",
+     "category": "Apparel",
+     "price": "$19.73",
+     "colors": [
+      "Black",
+      "Navy",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+     ],
+     "variantId": "hanes-5680",
+     "defaultColor": "Black",
+     "priceCents": 1973,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_FRONT_ef1b70af84.png?fit=clamp&bg=262626&mark64=LzYxMDRiMWFjLWM0MjEtNGZiYS05MmM0LWNjODZkMTExOWRiZA&markw=196&markx=136&marky=84&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=ce07b96703e008b0f69b9d9ea6518929",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "path": "vintage-santa-night",
+   "name": "Vintage Santa Night T-Shirt | Retro Waving Santa Claus Christmas Design",
+   "price": "$19.73",
+   "tags": [
+    "christmas",
+    "clasicoz"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=LzJjMTkwYzc1LTk0ZDItNGI5MS04OGNkLTkzZTFlZGE4Y2IwOQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1e135265b20747db5f30532ed1cff040",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=LzJjMTkwYzc1LTk0ZDItNGI5MS04OGNkLTkzZTFlZGE4Y2IwOQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1e135265b20747db5f30532ed1cff040",
+   "stealthy": false,
+   "title": "Vintage Santa Night T-Shirt | Retro Waving Santa Claus Christmas Design",
+   "description": null,
+   "active": true,
+   "campaignId": "35309022479",
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$19.73",
+     "colors": [
+      "Ash",
+      "Black",
+      "Charcoal Heather",
+      "Navy",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "hanes-5250",
+     "defaultColor": "Ash",
+     "priceCents": 1973,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=LzJjMTkwYzc1LTk0ZDItNGI5MS04OGNkLTkzZTFlZGE4Y2IwOQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1e135265b20747db5f30532ed1cff040",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ],
+      [
+       "4XL",
+       500
+      ],
+      [
+       "5XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$31.57",
+     "colors": [
+      "Black",
+      "Dark Heather",
+      "Navy",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "gildan-18500",
+     "defaultColor": "Black",
+     "priceCents": 3157,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=LzJjMTkwYzc1LTk0ZDItNGI5MS04OGNkLTkzZTFlZGE4Y2IwOQ&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=88e62b4bdbd08e17d8c4bcf486c11c2d",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       400
+      ],
+      [
+       "3XL",
+       500
+      ],
+      [
+       "4XL",
+       600
+      ],
+      [
+       "5XL",
+       600
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Fleece Pullover Sweatshirt",
+     "category": "Apparel",
+     "price": "$29.20",
+     "colors": [
+      "Black",
+      "Dark Heather",
+      "Navy",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "3XL",
+      "4XL",
+      "2XL"
+     ],
+     "variantId": "hanes-P1607",
+     "defaultColor": "Black",
+     "priceCents": 2920,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/SweatshirtCrew_FRONT_25f28e21df.png?fit=clamp&bg=262626&mark64=LzJjMTkwYzc1LTk0ZDItNGI5MS04OGNkLTkzZTFlZGE4Y2IwOQ&markw=207&markx=133&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=5ea034f35caec4307ecc977825d10808",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "3XL",
+       500
+      ],
+      [
+       "4XL",
+       600
+      ]
+     ]
+    },
+    {
+     "type": "Womens Relaxed Fit Tee",
+     "category": "Apparel",
+     "price": "$19.73",
+     "colors": [
+      "Black",
+      "Navy",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+     ],
+     "variantId": "hanes-5680",
+     "defaultColor": "Black",
+     "priceCents": 1973,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_FRONT_ef1b70af84.png?fit=clamp&bg=262626&mark64=LzJjMTkwYzc1LTk0ZDItNGI5MS04OGNkLTkzZTFlZGE4Y2IwOQ&markw=196&markx=136&marky=84&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=2146a5c9b8c49e55e04bf78fa9d57bd6",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "path": "resolution-nah",
+   "name": "Resolution? Nah. T-Shirt | Funny Anti-Resolution New Year Design",
+   "price": "$19.73",
+   "tags": [
+    "clasicoz",
+    "new-year"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2EwNzhkNjlkLTI5MGUtNDI4NC1hNjQyLWVhNTQ0ZGNiMTZmMw&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=eb615453a9f03349f0c3aaf4b61dbbec",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2EwNzhkNjlkLTI5MGUtNDI4NC1hNjQyLWVhNTQ0ZGNiMTZmMw&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=eb615453a9f03349f0c3aaf4b61dbbec",
+   "stealthy": false,
+   "title": "Resolution? Nah. T-Shirt | Funny Anti-Resolution New Year Design",
+   "description": null,
+   "active": true,
+   "campaignId": "35312673028",
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$19.73",
+     "colors": [
+      "Black",
+      "Charcoal Heather",
+      "Deep Forest",
+      "Maroon",
+      "Navy"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "hanes-5250",
+     "defaultColor": "Black",
+     "priceCents": 1973,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2EwNzhkNjlkLTI5MGUtNDI4NC1hNjQyLWVhNTQ0ZGNiMTZmMw&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=eb615453a9f03349f0c3aaf4b61dbbec",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ],
+      [
+       "4XL",
+       500
+      ],
+      [
+       "5XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$31.57",
+     "colors": [
+      "Black",
+      "Dark Heather",
+      "Maroon",
+      "Navy"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "gildan-18500",
+     "defaultColor": "Black",
+     "priceCents": 3157,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=L2EwNzhkNjlkLTI5MGUtNDI4NC1hNjQyLWVhNTQ0ZGNiMTZmMw&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=7172176b119fc5330831e9cdf276203a",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       400
+      ],
+      [
+       "3XL",
+       500
+      ],
+      [
+       "4XL",
+       600
+      ],
+      [
+       "5XL",
+       600
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Fleece Pullover Sweatshirt",
+     "category": "Apparel",
+     "price": "$29.20",
+     "colors": [
+      "Black",
+      "Dark Heather",
+      "Deep Forest",
+      "Maroon",
+      "Navy"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "3XL",
+      "4XL",
+      "2XL"
+     ],
+     "variantId": "hanes-P1607",
+     "defaultColor": "Black",
+     "priceCents": 2920,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/SweatshirtCrew_FRONT_25f28e21df.png?fit=clamp&bg=262626&mark64=L2EwNzhkNjlkLTI5MGUtNDI4NC1hNjQyLWVhNTQ0ZGNiMTZmMw&markw=207&markx=133&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=074e5a7ea6ed903f1ad7f6a557d1a669",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "3XL",
+       500
+      ],
+      [
+       "4XL",
+       600
+      ]
+     ]
+    },
+    {
+     "type": "Womens Relaxed Fit Tee",
+     "category": "Apparel",
+     "price": "$19.73",
+     "colors": [
+      "Black",
+      "Navy"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+     ],
+     "variantId": "hanes-5680",
+     "defaultColor": "Black",
+     "priceCents": 1973,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_FRONT_ef1b70af84.png?fit=clamp&bg=262626&mark64=L2EwNzhkNjlkLTI5MGUtNDI4NC1hNjQyLWVhNTQ0ZGNiMTZmMw&markw=196&markx=136&marky=84&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=c2cc36743c5902d3c2049bc1b1641cb1",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "path": "new-year-same-me",
+   "name": "New Year, Same Me T-Shirt | Funny Sarcastic New Year Design",
+   "price": "$19.73",
+   "tags": [
+    "clasicoz",
+    "new-year"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=Lzk4M2Y3MjRhLWMwZDItNDM0NS05ZjQ5LTBhMzhhOTRiNmVhYw&markw=176&markx=156&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=701dc94804869f2baed29ba93fd7cd3f",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=Lzk4M2Y3MjRhLWMwZDItNDM0NS05ZjQ5LTBhMzhhOTRiNmVhYw&markw=176&markx=156&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=701dc94804869f2baed29ba93fd7cd3f",
+   "stealthy": false,
+   "title": "New Year, Same Me T-Shirt | Funny Sarcastic New Year Design",
+   "description": null,
+   "active": true,
+   "campaignId": "35327841604",
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$19.73",
+     "colors": [
+      "Ash",
+      "Light Steel",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "hanes-5250",
+     "defaultColor": "Ash",
+     "priceCents": 1973,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=Lzk4M2Y3MjRhLWMwZDItNDM0NS05ZjQ5LTBhMzhhOTRiNmVhYw&markw=176&markx=156&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=701dc94804869f2baed29ba93fd7cd3f",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ],
+      [
+       "4XL",
+       500
+      ],
+      [
+       "5XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$31.57",
+     "colors": [
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "gildan-18500",
+     "defaultColor": "Sand",
+     "priceCents": 3157,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=cabfad&mark64=Lzk4M2Y3MjRhLWMwZDItNDM0NS05ZjQ5LTBhMzhhOTRiNmVhYw&markw=160&markx=160&marky=113&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=42423a34ea6b42755565964b85572b10",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       400
+      ],
+      [
+       "3XL",
+       500
+      ],
+      [
+       "4XL",
+       600
+      ],
+      [
+       "5XL",
+       600
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Fleece Pullover Sweatshirt",
+     "category": "Apparel",
+     "price": "$29.20",
+     "colors": [
+      "Light Steel",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+     ],
+     "variantId": "hanes-P1607",
+     "defaultColor": "Light Steel",
+     "priceCents": 2920,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/SweatshirtCrew_FRONT_25f28e21df.png?fit=clamp&bg=B1ACAC&mark64=Lzk4M2Y3MjRhLWMwZDItNDM0NS05ZjQ5LTBhMzhhOTRiNmVhYw&markw=178&markx=146&marky=94&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=682b178a9fc9a7699263ef3b5c949d2c",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       400
+      ],
+      [
+       "3XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "Womens Relaxed Fit Tee",
+     "category": "Apparel",
+     "price": "$19.73",
+     "colors": [
+      "Light Steel",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+     ],
+     "variantId": "hanes-5680",
+     "defaultColor": "Light Steel",
+     "priceCents": 1973,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_FRONT_ef1b70af84.png?fit=clamp&bg=97999B&mark64=Lzk4M2Y3MjRhLWMwZDItNDM0NS05ZjQ5LTBhMzhhOTRiNmVhYw&markw=169&markx=149&marky=97&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=90b164674895a8bad5af0e8b30ff8828",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "path": "better-person-new-year",
+   "name": "Funny New Year T-Shirt | I Didn't Become a Better Person Quote Design",
+   "price": "$19.73",
+   "tags": [
+    "clasicoz",
+    "new-year"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=L2JhYTI5YWE2LTQ4NjItNDNkZC1iODNhLTU4YjkyMjE1M2IxNg&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=c48aa2a57df2743f8328e33c0ca58667",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=L2JhYTI5YWE2LTQ4NjItNDNkZC1iODNhLTU4YjkyMjE1M2IxNg&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=c48aa2a57df2743f8328e33c0ca58667",
+   "stealthy": false,
+   "title": "Funny New Year T-Shirt | I Didn't Become a Better Person Quote Design",
+   "description": null,
+   "active": true,
+   "campaignId": "35314563617",
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$19.73",
+     "colors": [
+      "Ash",
+      "Light Steel",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "hanes-5250",
+     "defaultColor": "Ash",
+     "priceCents": 1973,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=L2JhYTI5YWE2LTQ4NjItNDNkZC1iODNhLTU4YjkyMjE1M2IxNg&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=c48aa2a57df2743f8328e33c0ca58667",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ],
+      [
+       "4XL",
+       500
+      ],
+      [
+       "5XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$31.57",
+     "colors": [
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "gildan-18500",
+     "defaultColor": "Sand",
+     "priceCents": 3157,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=cabfad&mark64=L2JhYTI5YWE2LTQ4NjItNDNkZC1iODNhLTU4YjkyMjE1M2IxNg&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1dca3062cd24fbcb1b8d2b5b4e1ecf61",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       400
+      ],
+      [
+       "3XL",
+       500
+      ],
+      [
+       "4XL",
+       600
+      ],
+      [
+       "5XL",
+       600
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Fleece Pullover Sweatshirt",
+     "category": "Apparel",
+     "price": "$29.20",
+     "colors": [
+      "Light Steel",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+     ],
+     "variantId": "hanes-P1607",
+     "defaultColor": "Light Steel",
+     "priceCents": 2920,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/SweatshirtCrew_FRONT_25f28e21df.png?fit=clamp&bg=B1ACAC&mark64=L2JhYTI5YWE2LTQ4NjItNDNkZC1iODNhLTU4YjkyMjE1M2IxNg&markw=207&markx=133&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=052ceec0cee4b708819feccccc808b20",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       400
+      ],
+      [
+       "3XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "Womens Relaxed Fit Tee",
+     "category": "Apparel",
+     "price": "$19.73",
+     "colors": [
+      "Light Steel",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+     ],
+     "variantId": "hanes-5680",
+     "defaultColor": "Light Steel",
+     "priceCents": 1973,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_FRONT_ef1b70af84.png?fit=clamp&bg=97999B&mark64=L2JhYTI5YWE2LTQ4NjItNDNkZC1iODNhLTU4YjkyMjE1M2IxNg&markw=196&markx=136&marky=84&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=d9450ebcc9d311016ca9a79b1eceb8bc",
      "sizePrices": [
       [
        "S",
@@ -2377,8 +3072,8 @@
     "christmas",
     "clasicoz"
    ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=L2UwN2RiYjFiLTlhNTAtNDRkNy04YTlkLTA2OGNlYWNmYmMyOA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=13b0730917d8f5262486c2bf520b1026",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=L2UwN2RiYjFiLTlhNTAtNDRkNy04YTlkLTA2OGNlYWNmYmMyOA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=13b0730917d8f5262486c2bf520b1026",
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=L2JkNGI0MjI0LTIwZGEtNGU3ZC1iNzE3LWNjODYwYWVjODZlZA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=433ee11ea0e52878c2cb8c701fdec19a",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=L2JkNGI0MjI0LTIwZGEtNGU3ZC1iNzE3LWNjODYwYWVjODZlZA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=433ee11ea0e52878c2cb8c701fdec19a",
    "stealthy": false,
    "title": "Matching Reindeer Family Christmas T-Shirt | Cozy Sweater Deer Holiday Design",
    "description": null,
@@ -2409,7 +3104,7 @@
      "variantId": "hanes-5250",
      "defaultColor": "Ash",
      "priceCents": 1973,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=L2UwN2RiYjFiLTlhNTAtNDRkNy04YTlkLTA2OGNlYWNmYmMyOA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=13b0730917d8f5262486c2bf520b1026",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=L2JkNGI0MjI0LTIwZGEtNGU3ZC1iNzE3LWNjODYwYWVjODZlZA&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=433ee11ea0e52878c2cb8c701fdec19a",
      "sizePrices": [
       [
        "S",
@@ -2468,7 +3163,7 @@
      "variantId": "gildan-18500",
      "defaultColor": "Black",
      "priceCents": 3157,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=L2UwN2RiYjFiLTlhNTAtNDRkNy04YTlkLTA2OGNlYWNmYmMyOA&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=3e1329583103b1b87a937bcdb57d7a10",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=L2JkNGI0MjI0LTIwZGEtNGU3ZC1iNzE3LWNjODYwYWVjODZlZA&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=f0fcae445796575a086bbae1b0e61804",
      "sizePrices": [
       [
        "S",
@@ -2526,7 +3221,7 @@
      "variantId": "hanes-P1607",
      "defaultColor": "Black",
      "priceCents": 2920,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/SweatshirtCrew_FRONT_25f28e21df.png?fit=clamp&bg=262626&mark64=L2UwN2RiYjFiLTlhNTAtNDRkNy04YTlkLTA2OGNlYWNmYmMyOA&markw=207&markx=133&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=24e77ade4394f715bfffc8aae1db9a53",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/SweatshirtCrew_FRONT_25f28e21df.png?fit=clamp&bg=262626&mark64=L2JkNGI0MjI0LTIwZGEtNGU3ZC1iNzE3LWNjODYwYWVjODZlZA&markw=207&markx=133&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=3db05f839bd8409906768164ad0836b1",
      "sizePrices": [
       [
        "S",
@@ -2574,7 +3269,7 @@
      "variantId": "hanes-5680",
      "defaultColor": "Black",
      "priceCents": 1973,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_FRONT_ef1b70af84.png?fit=clamp&bg=262626&mark64=L2UwN2RiYjFiLTlhNTAtNDRkNy04YTlkLTA2OGNlYWNmYmMyOA&markw=196&markx=136&marky=84&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=9b66ee121db3c1c7c846b77546752def",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_FRONT_ef1b70af84.png?fit=clamp&bg=262626&mark64=L2JkNGI0MjI0LTIwZGEtNGU3ZC1iNzE3LWNjODYwYWVjODZlZA&markw=196&markx=136&marky=84&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=1f470bf04113b54690a64f2bf6972184",
      "sizePrices": [
       [
        "S",
@@ -2612,8 +3307,8 @@
     "christmas",
     "clasicoz"
    ],
-   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=L2VhZDA0ZGFlLTg0ZmYtNGFhZi05ZDAwLTk5OGVmZjUyZWRkMg&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=df7c2400083be51c13e6555412ffa07b",
-   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=L2VhZDA0ZGFlLTg0ZmYtNGFhZi05ZDAwLTk5OGVmZjUyZWRkMg&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=df7c2400083be51c13e6555412ffa07b",
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=L2VhNjMxZjY4LTI4NDEtNGY4Yi1iMDI1LTQ5MzU0OTFkMWNkMQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6471c4c136822c6591aeda0eea5a0d35",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=L2VhNjMxZjY4LTI4NDEtNGY4Yi1iMDI1LTQ5MzU0OTFkMWNkMQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6471c4c136822c6591aeda0eea5a0d35",
    "stealthy": false,
    "title": "Santa Fuel Loading T-Shirt | Funny Coffee Christmas Design",
    "description": null,
@@ -2644,7 +3339,7 @@
      "variantId": "hanes-5250",
      "defaultColor": "Ash",
      "priceCents": 1973,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=L2VhZDA0ZGFlLTg0ZmYtNGFhZi05ZDAwLTk5OGVmZjUyZWRkMg&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=df7c2400083be51c13e6555412ffa07b",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=F1F2F6&mark64=L2VhNjMxZjY4LTI4NDEtNGY4Yi1iMDI1LTQ5MzU0OTFkMWNkMQ&markw=205&markx=143&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=6471c4c136822c6591aeda0eea5a0d35",
      "sizePrices": [
       [
        "S",
@@ -2703,7 +3398,7 @@
      "variantId": "gildan-18500",
      "defaultColor": "Black",
      "priceCents": 3157,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=L2VhZDA0ZGFlLTg0ZmYtNGFhZi05ZDAwLTk5OGVmZjUyZWRkMg&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=3b1833ba30ce90345261f2779ddc20ac",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=L2VhNjMxZjY4LTI4NDEtNGY4Yi1iMDI1LTQ5MzU0OTFkMWNkMQ&markw=186&markx=148&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=37fbfd3e3dc27eea24010cdb7e904e9f",
      "sizePrices": [
       [
        "S",
@@ -2761,7 +3456,7 @@
      "variantId": "hanes-P1607",
      "defaultColor": "Black",
      "priceCents": 2920,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/SweatshirtCrew_FRONT_25f28e21df.png?fit=clamp&bg=262626&mark64=L2VhZDA0ZGFlLTg0ZmYtNGFhZi05ZDAwLTk5OGVmZjUyZWRkMg&markw=207&markx=133&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=911070e47273d2af82b282669501be91",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/SweatshirtCrew_FRONT_25f28e21df.png?fit=clamp&bg=262626&mark64=L2VhNjMxZjY4LTI4NDEtNGY4Yi1iMDI1LTQ5MzU0OTFkMWNkMQ&markw=207&markx=133&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=08b25d98225e058c5e61ea1d1f662d7e",
      "sizePrices": [
       [
        "S",
@@ -2809,7 +3504,7 @@
      "variantId": "hanes-5680",
      "defaultColor": "Black",
      "priceCents": 1973,
-     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_FRONT_ef1b70af84.png?fit=clamp&bg=262626&mark64=L2VhZDA0ZGFlLTg0ZmYtNGFhZi05ZDAwLTk5OGVmZjUyZWRkMg&markw=196&markx=136&marky=84&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=a12b90b586771a80757c1af529bd25a5",
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_FRONT_ef1b70af84.png?fit=clamp&bg=262626&mark64=L2VhNjMxZjY4LTI4NDEtNGY4Yi1iMDI1LTQ5MzU0OTFkMWNkMQ&markw=196&markx=136&marky=84&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=e31c492e28df3b9e99e2627793aca1cb",
      "sizePrices": [
       [
        "S",
