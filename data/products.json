@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-26T22:22:09.133Z",
+ "fetchedAt": "2026-11-27T09:41:43.672Z",
  "products": [
   {
    "path": "merry-metal",
@@ -632,6 +632,254 @@
       [
        "11oz",
        0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "path": "chill-claus",
+   "name": "Chill Claus T-Shirt | Funny Cool Santa Christmas Design",
+   "price": "$19.73",
+   "tags": [
+    "christmas",
+    "clasicoz"
+   ],
+   "image": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2U2ZDc2NDg1LTU3MTYtNGE0MC05ODFhLTFlZDZjNjE4NjE2MQ&markw=191&markx=148&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=c2022094245e044a0da010cc89ae5629",
+   "thumb": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2U2ZDc2NDg1LTU3MTYtNGE0MC05ODFhLTFlZDZjNjE4NjE2MQ&markw=191&markx=148&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=c2022094245e044a0da010cc89ae5629",
+   "stealthy": false,
+   "title": "Chill Claus T-Shirt | Funny Cool Santa Christmas Design",
+   "description": "Meet Chill Claus: a cool, sunglasses-wearing Santa in a red hood with a gold chain, set behind bold white-and-gold lettering. Made for anyone who likes their Christmas funny and laid-back instead of the usual snowflakes and candy canes. Printed on demand on a soft, preshrunk cotton tee, also available as a hoodie, sweatshirt and women's tee in dark colours, sizes S to 5XL. Every piece is made to order after you place your order. A fun gift for a Secret Santa swap, a family Christmas photo, or anyone with a laid-back sense of humor.",
+   "active": true,
+   "campaignId": "35366410039",
+   "products": [
+    {
+     "type": "Unisex Short Sleeve Classic Tee",
+     "category": "Apparel",
+     "price": "$19.73",
+     "colors": [
+      "Black",
+      "Carolina Blue",
+      "Deep Red",
+      "Fatigue Green",
+      "Forest Green",
+      "Gold",
+      "Light Blue",
+      "Light Steel",
+      "Maroon",
+      "Orange",
+      "Pink",
+      "Sand",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "hanes-5250",
+     "defaultColor": "Black",
+     "priceCents": 1973,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/UnisexCrew_FRONT_46be88da32.png?fit=clamp&bg=262626&mark64=L2U2ZDc2NDg1LTU3MTYtNGE0MC05ODFhLTFlZDZjNjE4NjE2MQ&markw=191&markx=148&marky=67&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=c2022094245e044a0da010cc89ae5629",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
+      ],
+      [
+       "4XL",
+       500
+      ],
+      [
+       "5XL",
+       500
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Heavyweight Pullover Hoodie",
+     "category": "Apparel",
+     "price": "$31.57",
+     "colors": [
+      "Ash Grey",
+      "Black",
+      "Dark Heather",
+      "Graphite Heather",
+      "Light Blue",
+      "Light Pink",
+      "Sand",
+      "Sport Grey",
+      "White"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+     ],
+     "variantId": "gildan-18500",
+     "defaultColor": "Black",
+     "priceCents": 3157,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/PulloverHoodie_FRONT_722edad976.png?fit=clamp&bg=262626&mark64=L2U2ZDc2NDg1LTU3MTYtNGE0MC05ODFhLTFlZDZjNjE4NjE2MQ&markw=173&markx=153&marky=101&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=03894938e588a2f737fd30e6d3a6727b",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       400
+      ],
+      [
+       "3XL",
+       500
+      ],
+      [
+       "4XL",
+       600
+      ],
+      [
+       "5XL",
+       600
+      ]
+     ]
+    },
+    {
+     "type": "Unisex Fleece Pullover Sweatshirt",
+     "category": "Apparel",
+     "price": "$29.20",
+     "colors": [
+      "Black",
+      "Dark Heather",
+      "Deep Forest",
+      "Maroon",
+      "Navy"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "3XL",
+      "4XL",
+      "2XL"
+     ],
+     "variantId": "hanes-P1607",
+     "defaultColor": "Black",
+     "priceCents": 2920,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/SweatshirtCrew_FRONT_25f28e21df.png?fit=clamp&bg=262626&mark64=L2U2ZDc2NDg1LTU3MTYtNGE0MC05ODFhLTFlZDZjNjE4NjE2MQ&markw=193&markx=139&marky=80&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=8bcf3095d956afdf724344643c9abb91",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "3XL",
+       500
+      ],
+      [
+       "4XL",
+       600
+      ]
+     ]
+    },
+    {
+     "type": "Womens Relaxed Fit Tee",
+     "category": "Apparel",
+     "price": "$19.73",
+     "colors": [
+      "Black",
+      "Navy"
+     ],
+     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+     ],
+     "variantId": "hanes-5680",
+     "defaultColor": "Black",
+     "priceCents": 1973,
+     "defaultImage": "https://gearlaunch-prod-imgix-secure.imgix.net/img/product/WomensCrew_FRONT_ef1b70af84.png?fit=clamp&bg=262626&mark64=L2U2ZDc2NDg1LTU3MTYtNGE0MC05ODFhLTFlZDZjNjE4NjE2MQ&markw=183&markx=141&marky=84&w=480&fm=jpg&q=75&ixlib=java-1.1.0&s=13e07c822024f47bfafee110f554591d",
+     "sizePrices": [
+      [
+       "S",
+       0
+      ],
+      [
+       "M",
+       0
+      ],
+      [
+       "L",
+       0
+      ],
+      [
+       "XL",
+       0
+      ],
+      [
+       "2XL",
+       350
+      ],
+      [
+       "3XL",
+       450
       ]
      ]
     }
